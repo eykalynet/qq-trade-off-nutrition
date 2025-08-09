@@ -1,0 +1,234 @@
+formno,variable_name,variable_label,var_value,value_label
+form43_2008,regcode,Name of Regions,1,Ilocos 
+form43_2008,regcode,Name of Regions,2,Cagayan Valley
+form43_2008,regcode,Name of Regions,3,Central Luzon
+form43_2008,regcode,Name of Regions,5,Bicol
+form43_2008,regcode,Name of Regions,6,Western Visayas
+form43_2008,regcode,Name of Regions,7,Central Visayas
+form43_2008,regcode,Name of Regions,8,Eastern Visayas
+form43_2008,regcode,Name of Regions,9,Zamboanga Peninsula
+form43_2008,regcode,Name of Regions,10,Northern Mindanao
+form43_2008,regcode,Name of Regions,11,Davao Region
+form43_2008,regcode,Name of Regions,12,SOCCSKSARGEN
+form43_2008,regcode,Name of Regions,13,National Capital Region
+form43_2008,regcode,Name of Regions,14,Cordillera Administrative Region
+form43_2008,regcode,Name of Regions,15,ARMM
+form43_2008,regcode,Name of Regions,16,CARAGA
+form43_2008,regcode,Name of Regions,41,CALABARZON
+form43_2008,regcode,Name of Regions,42,MIMAROPA
+form43_2008,provcode,Name of Provinces,1,Abra
+form43_2008,provcode,Name of Provinces,2,Agusan Del Norte
+form43_2008,provcode,Name of Provinces,3,Agusan Del Sur
+form43_2008,provcode,Name of Provinces,4,Aklan
+form43_2008,provcode,Name of Provinces,5,Albay
+form43_2008,provcode,Name of Provinces,6,Antique
+form43_2008,provcode,Name of Provinces,7,Basilan
+form43_2008,provcode,Name of Provinces,8,Bataan
+form43_2008,provcode,Name of Provinces,9,Batanes
+form43_2008,provcode,Name of Provinces,10,Batangas
+form43_2008,provcode,Name of Provinces,11,Benguet
+form43_2008,provcode,Name of Provinces,12,Bohol
+form43_2008,provcode,Name of Provinces,13,Bukidnon
+form43_2008,provcode,Name of Provinces,14,Bulacan
+form43_2008,provcode,Name of Provinces,15,Cagayan
+form43_2008,provcode,Name of Provinces,16,Camarines Norte
+form43_2008,provcode,Name of Provinces,17,Camarines Sur
+form43_2008,provcode,Name of Provinces,18,Camiguin
+form43_2008,provcode,Name of Provinces,19,Capiz
+form43_2008,provcode,Name of Provinces,20,Catanduanes
+form43_2008,provcode,Name of Provinces,21,Cavite
+form43_2008,provcode,Name of Provinces,22,Cebu
+form43_2008,provcode,Name of Provinces,23,Davao (Davao Del Norte)
+form43_2008,provcode,Name of Provinces,24,Davao Del Sur
+form43_2008,provcode,Name of Provinces,25,Davao Oriental
+form43_2008,provcode,Name of Provinces,26,Eastern Samar
+form43_2008,provcode,Name of Provinces,27,Ifugao
+form43_2008,provcode,Name of Provinces,28,Ilocos Norte
+form43_2008,provcode,Name of Provinces,29,Ilocos Sur
+form43_2008,provcode,Name of Provinces,30,Iloilo
+form43_2008,provcode,Name of Provinces,31,Isabela
+form43_2008,provcode,Name of Provinces,32,Kalinga
+form43_2008,provcode,Name of Provinces,33,La Union
+form43_2008,provcode,Name of Provinces,34,Laguna
+form43_2008,provcode,Name of Provinces,35,Lanao Del Norte
+form43_2008,provcode,Name of Provinces,36,Lanao Del Sur
+form43_2008,provcode,Name of Provinces,37,Leyte
+form43_2008,provcode,Name of Provinces,38,Maguindanao
+form43_2008,provcode,Name of Provinces,39,NCR - Manila First District
+form43_2008,provcode,Name of Provinces,40,Marinduque
+form43_2008,provcode,Name of Provinces,41,Masbate
+form43_2008,provcode,Name of Provinces,42,Misamis Occidental
+form43_2008,provcode,Name of Provinces,43,Misamis Oriental
+form43_2008,provcode,Name of Provinces,44,Mountain Province
+form43_2008,provcode,Name of Provinces,45,Negros Occidental
+form43_2008,provcode,Name of Provinces,46,Negros Oriental
+form43_2008,provcode,Name of Provinces,47,North Cotabato
+form43_2008,provcode,Name of Provinces,48,Northern Samar
+form43_2008,provcode,Name of Provinces,49,Nueva Ecija
+form43_2008,provcode,Name of Provinces,50,Nueva Vizcaya
+form43_2008,provcode,Name of Provinces,51,Occidental Mindoro
+form43_2008,provcode,Name of Provinces,52,Oriental Mindoro
+form43_2008,provcode,Name of Provinces,53,Palawan
+form43_2008,provcode,Name of Provinces,54,Pampanga
+form43_2008,provcode,Name of Provinces,55,Pangasinan
+form43_2008,provcode,Name of Provinces,56,Quezon
+form43_2008,provcode,Name of Provinces,57,Quirino
+form43_2008,provcode,Name of Provinces,58,Rizal
+form43_2008,provcode,Name of Provinces,59,Romblon
+form43_2008,provcode,Name of Provinces,60,Western Samar
+form43_2008,provcode,Name of Provinces,61,Siquijor
+form43_2008,provcode,Name of Provinces,62,Sorsogon
+form43_2008,provcode,Name of Provinces,63,South Cotabato
+form43_2008,provcode,Name of Provinces,64,Southern Leyte
+form43_2008,provcode,Name of Provinces,65,Sultan Kudarat
+form43_2008,provcode,Name of Provinces,66,Sulu
+form43_2008,provcode,Name of Provinces,67,Surigao Del Norte
+form43_2008,provcode,Name of Provinces,68,Surigao Del Sur
+form43_2008,provcode,Name of Provinces,69,Tarlac
+form43_2008,provcode,Name of Provinces,70,Tawi-Tawi
+form43_2008,provcode,Name of Provinces,71,Zambales
+form43_2008,provcode,Name of Provinces,72,Zamboanga Del Norte
+form43_2008,provcode,Name of Provinces,73,Zamboanga Del Sur
+form43_2008,provcode,Name of Provinces,74,NCR Second District
+form43_2008,provcode,Name of Provinces,75,NCR Third District
+form43_2008,provcode,Name of Provinces,76,NCR Fourth District
+form43_2008,provcode,Name of Provinces,77,Aurora
+form43_2008,provcode,Name of Provinces,78,Biliran
+form43_2008,provcode,Name of Provinces,79,Guimaras
+form43_2008,provcode,Name of Provinces,80,Sarangani
+form43_2008,provcode,Name of Provinces,81,Apayao
+form43_2008,provcode,Name of Provinces,82,Compostela Valley
+form43_2008,provcode,Name of Provinces,83,Zamboanga Sibugay
+form43_2008,provcode,Name of Provinces,97,Isabela City
+form43_2008,provcode,Name of Provinces,98,Cotabato City
+form43_2008,hhnum,Household number,,
+form43_2008,member_code,Member Code,,
+form43_2008,agemos,Age of the Child (in Months),,
+form43_2008,current_fd_recall2,Current Feeding Practices,1,Exclusive Breastfeeding
+form43_2008,current_fd_recall2,Current Feeding Practices,2,Breastfeeding + Water
+form43_2008,current_fd_recall2,Current Feeding Practices,3,Breastfeeding + Complementary Food
+form43_2008,current_fd_recall2,Current Feeding Practices,4,Breastfeeding + Bottlefeeding
+form43_2008,current_fd_recall2,Current Feeding Practices,5,Breastfeeding + Bottlefeeding + Complementary Food
+form43_2008,current_fd_recall2,Current Feeding Practices,6,Pure Bottlefeeding
+form43_2008,current_fd_recall2,Current Feeding Practices,7,Bottlefeeding + Other Foods
+form43_2008,current_fd_recall2,Current Feeding Practices,8,Regular Diet
+form43_2008,current_fd_recall2,Current Feeding Practices,9,Regular Diet + Breastfeeding
+form43_2008,current_fd_recall2,Current Feeding Practices,10,Regular Diet + Bottlefeeding
+form43_2008,current_fd_recall2,Current Feeding Practices,11,Regular Diet + Breastfeeding + Bottlefeeding
+form43_2008,ever_bf2,Ever Breastfeed,0,No
+form43_2008,ever_bf2,Ever Breastfeed,1,Yes
+form43_2008,ever_bf2,Ever Breastfeed,7,Currently Breastfeeding
+form43_2008,ever_bf2,Ever Breastfeed,8,Do not know
+form43_2008,ynotbf,Reason for not Breastfeeding,1,Mother ill/Weak
+form43_2008,ynotbf,Reason for not Breastfeeding,2,Cracked Nipple/Breast Infection
+form43_2008,ynotbf,Reason for not Breastfeeding,3,Inadequate Milk Flow
+form43_2008,ynotbf,Reason for not Breastfeeding,4,Working Outside Home/Too Busy
+form43_2008,ynotbf,Reason for not Breastfeeding,5,Child Abandoned/Separated From Mother
+form43_2008,ynotbf,Reason for not Breastfeeding,6,Child Refused
+form43_2008,ynotbf,Reason for not Breastfeeding,7,Child Ill/Weak
+form43_2008,ynotbf,Reason for not Breastfeeding,8,Not A Biological Mother; Child Adopted
+form43_2008,ynotbf,Reason for not Breastfeeding,9,Per Advised By Doc/Health Personnel
+form43_2008,ynotbf,Reason for not Breastfeeding,10,Other Reason
+form43_2008,ynotbf,Reason for not Breastfeeding,11,Death Of Mom
+form43_2008,ynotbf,Reason for not Breastfeeding,12,Inverted Nipple
+form43_2008,ynotbf,Reason for not Breastfeeding,13,Nipple Too Big
+form43_2008,ynotbf,Reason for not Breastfeeding,14,Cleft Palate
+form43_2008,ynotbf,Reason for not Breastfeeding,77,Currently Breastfeeding
+form43_2008,ynotbf,Reason for not Breastfeeding,88,No Answer
+form43_2008,ynotbf,Reason for not Breastfeeding,99,Not Applicable
+form43_2008,exclsvbf,Child exclusively breastfeed,0,No
+form43_2008,exclsvbf,Child exclusively breastfeed,1,Yes
+form43_2008,exclsvbf,Child exclusively breastfeed,7,Currently Breastfeeding
+form43_2008,exclsvbf,Child exclusively breastfeed,8,No Answer
+form43_2008,exclsvbf,Child exclusively breastfeed,9,Not Applicable (Not Ever Breastfed)
+form43_2008,duration_bf,Duration of Breastfeeding (in Months),0,Less Than 1 Month
+form43_2008,duration_bf,Duration of Breastfeeding (in Months),88,No Answer
+form43_2008,duration_bf,Duration of Breastfeeding (in Months),99,Not Applicable (Not Ever Breastfed)
+form43_2008,colostrum,Given colostrum,0,No
+form43_2008,colostrum,Given colostrum,1,Yes
+form43_2008,colostrum,Given colostrum,8,No Answer
+form43_2008,colostrum,Given colostrum,9,Not Applicable (Not Ever Breastfed)
+form43_2008,startbf,Time child was put to breast after delivery,1,Right After Delivery
+form43_2008,startbf,Time child was put to breast after delivery,2,After The Child Was Cleaned
+form43_2008,startbf,Time child was put to breast after delivery,3,After 1 Hour Or More
+form43_2008,startbf,Time child was put to breast after delivery,4,After 1 Day Or More
+form43_2008,startbf,Time child was put to breast after delivery,5,After 1 Week Or More
+form43_2008,startbf,Time child was put to breast after delivery,8,No Answer
+form43_2008,startbf,Time child was put to breast after delivery,9,Not Applicable (Not Ever Breastfed)
+form43_2008,water,Age of child plain water was given regularly (in Months),88,No Answer
+form43_2008,water,Age of child plain water was given regularly (in Months),99,Not Applicable (Not Yet Given)
+form43_2008,h2osug,Age of child water with sugar was given regularly (in Months),88,No Answer
+form43_2008,h2osug,Age of child water with sugar was given regularly (in Months),99,Not Applicable (Not Yet Given)
+form43_2008,am,Age of child am was given regularly (in Months),88,No Answer
+form43_2008,am,Age of child am was given regularly (in Months),99,Not Applicable (Not Yet Given)
+form43_2008,fresjuce,Age of child fresh juice was given regularly (in Months),88,No Answer
+form43_2008,fresjuce,Age of child fresh juice was given regularly (in Months),99,Not Applicable (Not Yet Given)
+form43_2008,procjuce,Age of child powdered/ready to drink juice was given regularly (in Months),88,No Answer
+form43_2008,procjuce,Age of child powdered/ready to drink juice was given regularly (in Months),99,Not Applicable (Not Yet Given)
+form43_2008,fishsoup,Age of child fish soup/broth was given regularly (in Months),88,No Answer
+form43_2008,fishsoup,Age of child fish soup/broth was given regularly (in Months),99,Not Applicable (Not Yet Given)
+form43_2008,meatsoup,Age of child meat soup/broth was given regularly (in Months),88,No Answer
+form43_2008,meatsoup,Age of child meat soup/broth was given regularly (in Months),99,Not Applicable (Not Yet Given)
+form43_2008,vegisoup,Age of child vegetable soup/broth was given regularly (in Months),88,No Answer
+form43_2008,vegisoup,Age of child vegetable soup/broth was given regularly (in Months),99,Not Applicable (Not Yet Given)
+form43_2008,othliq,Age of child other liquids was given regularly (in Months),88,No Answer
+form43_2008,othliq,Age of child other liquids was given regularly (in Months),99,Not Applicable (Not Yet Given)
+form43_2008,solid,Age of child solid/semi-solid was given regularly (in Months),88,No Answer
+form43_2008,solid,Age of child solid/semi-solid was given regularly (in Months),99,Not Applicable (Not Yet Given)
+form43_2008,getinfo,Who usually feeds the child,1,Mother
+form43_2008,getinfo,Who usually feeds the child,2,Father
+form43_2008,getinfo,Who usually feeds the child,3,Brother
+form43_2008,getinfo,Who usually feeds the child,4,Sister
+form43_2008,getinfo,Who usually feeds the child,5,Grandmother/Grandfather
+form43_2008,getinfo,Who usually feeds the child,6,Other Relatives
+form43_2008,getinfo,Who usually feeds the child,7,Yaya
+form43_2008,getinfo,Who usually feeds the child,9,Not Applicable (Not Yet Given)
+form43_2008,ygetinfo,Why the mother is not feeding the child,1,Mother Working/Busy
+form43_2008,ygetinfo,Why the mother is not feeding the child,2,Child Used To Him/Her
+form43_2008,ygetinfo,Why the mother is not feeding the child,3,Child No Appetite When He/She Feeds Him/Her
+form43_2008,ygetinfo,Why the mother is not feeding the child,4,Mother Lacks Skills To Feed The Child
+form43_2008,ygetinfo,Why the mother is not feeding the child,9,Not Applicable (Mother Feeds/Not Yet Given)
+form43_2008,whodcde,Who decides what to feed the child,1,Mother
+form43_2008,whodcde,Who decides what to feed the child,2,Father
+form43_2008,whodcde,Who decides what to feed the child,3,Brother
+form43_2008,whodcde,Who decides what to feed the child,4,Sister
+form43_2008,whodcde,Who decides what to feed the child,5,Grandmother/Grandfather
+form43_2008,whodcde,Who decides what to feed the child,6,Other Relatives
+form43_2008,whodcde,Who decides what to feed the child,7,Yaya
+form43_2008,whodcde,Who decides what to feed the child,8,Others
+form43_2008,whodcde,Who decides what to feed the child,9,Not Applicable (Not Yet Given)
+form43_2008,introfud,First introductory food given to the child,1,Plain Water
+form43_2008,introfud,First introductory food given to the child,2,Water + Sugar
+form43_2008,introfud,First introductory food given to the child,3,Am
+form43_2008,introfud,First introductory food given to the child,4,Fresh Fruit Juice
+form43_2008,introfud,First introductory food given to the child,5,Powdered/Ready To Drink Juice
+form43_2008,introfud,First introductory food given to the child,6,Fish Soup/Broth
+form43_2008,introfud,First introductory food given to the child,7,Meat Soup/Broth
+form43_2008,introfud,First introductory food given to the child,8,Vegetable Soup/Broth
+form43_2008,introfud,First introductory food given to the child,9,Milk
+form43_2008,introfud,First introductory food given to the child,10,Other Liquids
+form43_2008,introfud,First introductory food given to the child,11,Solid/Semi-Solid
+form43_2008,introfud,First introductory food given to the child,12,Others
+form43_2008,introfud,First introductory food given to the child,88,No Answer
+form43_2008,introfud,First introductory food given to the child,99,Not Applicable (Not Yet Given)
+form43_2008,ythisfud,Why first food was given to the child,1,As Transition To Regular Diet
+form43_2008,ythisfud,Why first food was given to the child,2,To Familiarize Taste Of Food
+form43_2008,ythisfud,Why first food was given to the child,3,Child Old Enough To Eat
+form43_2008,ythisfud,Why first food was given to the child,4,Per Advised By Health Personnel
+form43_2008,ythisfud,Why first food was given to the child,5,Per Advised By Relatives/Friends
+form43_2008,ythisfud,Why first food was given to the child,7,Nutritious
+form43_2008,ythisfud,Why first food was given to the child,8,Health Benefits
+form43_2008,ythisfud,Why first food was given to the child,9,No Milk Flow
+form43_2008,ythisfud,Why first food was given to the child,10,Tradition/Pamahiin
+form43_2008,ythisfud,Why first food was given to the child,11,Mother Cannot Breastfeed
+form43_2008,ythisfud,Why first food was given to the child,12,No Reason/Own Decision
+form43_2008,ythisfud,Why first food was given to the child,13,Economical/Available/Easy To Prepare
+form43_2008,ythisfud,Why first food was given to the child,14,Preferred By The Baby
+form43_2008,ythisfud,Why first food was given to the child,15,Advertisement
+form43_2008,ythisfud,Why first food was given to the child,16,To Rehydrate/After Taking Medicine
+form43_2008,ythisfud,Why first food was given to the child,17,Child Sick/With Cleft Palate
+form43_2008,ythisfud,Why first food was given to the child,88,No Answer
+form43_2008,ythisfud,Why first food was given to the child,99,Not Applicable (Not Yet Given)
+form43_2008,psurec,Primary Sampling Unit,,
+form43_2008,strrec,Strata,,
+form43_2008,wgts,Sampling Weights,,

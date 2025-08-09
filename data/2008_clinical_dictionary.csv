@@ -1,0 +1,169 @@
+formno,variable_name,variable_label,var_value,value_label
+form71_2008,regcode,Name of Regions,1,Ilocos 
+form71_2008,regcode,Name of Regions,2,Cagayan Valley
+form71_2008,regcode,Name of Regions,3,Central Luzon
+form71_2008,regcode,Name of Regions,5,Bicol
+form71_2008,regcode,Name of Regions,6,Western Visayas
+form71_2008,regcode,Name of Regions,7,Central Visayas
+form71_2008,regcode,Name of Regions,8,Eastern Visayas
+form71_2008,regcode,Name of Regions,9,Zamboanga Peninsula
+form71_2008,regcode,Name of Regions,10,Northern Mindanao
+form71_2008,regcode,Name of Regions,11,Davao Region
+form71_2008,regcode,Name of Regions,12,SOCCSKSARGEN
+form71_2008,regcode,Name of Regions,13,National Capital Region
+form71_2008,regcode,Name of Regions,14,Cordillera Administrative Region
+form71_2008,regcode,Name of Regions,15,ARMM
+form71_2008,regcode,Name of Regions,16,CARAGA
+form71_2008,regcode,Name of Regions,41,CALABARZON
+form71_2008,regcode,Name of Regions,42,MIMAROPA
+form71_2008,provcode,Name of Provinces,1,Abra
+form71_2008,provcode,Name of Provinces,2,Agusan Del Norte
+form71_2008,provcode,Name of Provinces,3,Agusan Del Sur
+form71_2008,provcode,Name of Provinces,4,Aklan
+form71_2008,provcode,Name of Provinces,5,Albay
+form71_2008,provcode,Name of Provinces,6,Antique
+form71_2008,provcode,Name of Provinces,7,Basilan
+form71_2008,provcode,Name of Provinces,8,Bataan
+form71_2008,provcode,Name of Provinces,9,Batanes
+form71_2008,provcode,Name of Provinces,10,Batangas
+form71_2008,provcode,Name of Provinces,11,Benguet
+form71_2008,provcode,Name of Provinces,12,Bohol
+form71_2008,provcode,Name of Provinces,13,Bukidnon
+form71_2008,provcode,Name of Provinces,14,Bulacan
+form71_2008,provcode,Name of Provinces,15,Cagayan
+form71_2008,provcode,Name of Provinces,16,Camarines Norte
+form71_2008,provcode,Name of Provinces,17,Camarines Sur
+form71_2008,provcode,Name of Provinces,18,Camiguin
+form71_2008,provcode,Name of Provinces,19,Capiz
+form71_2008,provcode,Name of Provinces,20,Catanduanes
+form71_2008,provcode,Name of Provinces,21,Cavite
+form71_2008,provcode,Name of Provinces,22,Cebu
+form71_2008,provcode,Name of Provinces,23,Davao (Davao Del Norte)
+form71_2008,provcode,Name of Provinces,24,Davao Del Sur
+form71_2008,provcode,Name of Provinces,25,Davao Oriental
+form71_2008,provcode,Name of Provinces,26,Eastern Samar
+form71_2008,provcode,Name of Provinces,27,Ifugao
+form71_2008,provcode,Name of Provinces,28,Ilocos Norte
+form71_2008,provcode,Name of Provinces,29,Ilocos Sur
+form71_2008,provcode,Name of Provinces,30,Iloilo
+form71_2008,provcode,Name of Provinces,31,Isabela
+form71_2008,provcode,Name of Provinces,32,Kalinga
+form71_2008,provcode,Name of Provinces,33,La Union
+form71_2008,provcode,Name of Provinces,34,Laguna
+form71_2008,provcode,Name of Provinces,35,Lanao Del Norte
+form71_2008,provcode,Name of Provinces,36,Lanao Del Sur
+form71_2008,provcode,Name of Provinces,37,Leyte
+form71_2008,provcode,Name of Provinces,38,Maguindanao
+form71_2008,provcode,Name of Provinces,39,NCR - Manila First District
+form71_2008,provcode,Name of Provinces,40,Marinduque
+form71_2008,provcode,Name of Provinces,41,Masbate
+form71_2008,provcode,Name of Provinces,42,Misamis Occidental
+form71_2008,provcode,Name of Provinces,43,Misamis Oriental
+form71_2008,provcode,Name of Provinces,44,Mountain Province
+form71_2008,provcode,Name of Provinces,45,Negros Occidental
+form71_2008,provcode,Name of Provinces,46,Negros Oriental
+form71_2008,provcode,Name of Provinces,47,North Cotabato
+form71_2008,provcode,Name of Provinces,48,Northern Samar
+form71_2008,provcode,Name of Provinces,49,Nueva Ecija
+form71_2008,provcode,Name of Provinces,50,Nueva Vizcaya
+form71_2008,provcode,Name of Provinces,51,Occidental Mindoro
+form71_2008,provcode,Name of Provinces,52,Oriental Mindoro
+form71_2008,provcode,Name of Provinces,53,Palawan
+form71_2008,provcode,Name of Provinces,54,Pampanga
+form71_2008,provcode,Name of Provinces,55,Pangasinan
+form71_2008,provcode,Name of Provinces,56,Quezon
+form71_2008,provcode,Name of Provinces,57,Quirino
+form71_2008,provcode,Name of Provinces,58,Rizal
+form71_2008,provcode,Name of Provinces,59,Romblon
+form71_2008,provcode,Name of Provinces,60,Western Samar
+form71_2008,provcode,Name of Provinces,61,Siquijor
+form71_2008,provcode,Name of Provinces,62,Sorsogon
+form71_2008,provcode,Name of Provinces,63,South Cotabato
+form71_2008,provcode,Name of Provinces,64,Southern Leyte
+form71_2008,provcode,Name of Provinces,65,Sultan Kudarat
+form71_2008,provcode,Name of Provinces,66,Sulu
+form71_2008,provcode,Name of Provinces,67,Surigao Del Norte
+form71_2008,provcode,Name of Provinces,68,Surigao Del Sur
+form71_2008,provcode,Name of Provinces,69,Tarlac
+form71_2008,provcode,Name of Provinces,70,Tawi-Tawi
+form71_2008,provcode,Name of Provinces,71,Zambales
+form71_2008,provcode,Name of Provinces,72,Zamboanga Del Norte
+form71_2008,provcode,Name of Provinces,73,Zamboanga Del Sur
+form71_2008,provcode,Name of Provinces,74,NCR Second District
+form71_2008,provcode,Name of Provinces,75,NCR Third District
+form71_2008,provcode,Name of Provinces,76,NCR Fourth District
+form71_2008,provcode,Name of Provinces,77,Aurora
+form71_2008,provcode,Name of Provinces,78,Biliran
+form71_2008,provcode,Name of Provinces,79,Guimaras
+form71_2008,provcode,Name of Provinces,80,Sarangani
+form71_2008,provcode,Name of Provinces,81,Apayao
+form71_2008,provcode,Name of Provinces,82,Compostela Valley
+form71_2008,provcode,Name of Provinces,83,Zamboanga Sibugay
+form71_2008,provcode,Name of Provinces,97,Isabela City
+form71_2008,provcode,Name of Provinces,98,Cotabato City
+form71_2008,hhnum,Household number,,
+form71_2008,member_code,Member Code,,
+form71_2008,age,Age of Respondent (in years),,
+form71_2008,sex,Sex,1,Male
+form71_2008,sex,Sex,2,Female
+form71_2008,psc,Physiological Status Code,0,Non-pregnant/Non-lactating female members
+form71_2008,psc,Physiological Status Code,1,Pregnant 1 month   
+form71_2008,psc,Physiological Status Code,2,Pregnant 2 months   
+form71_2008,psc,Physiological Status Code,3,Pregnant 3 months   
+form71_2008,psc,Physiological Status Code,4,Pregnant 4 months   
+form71_2008,psc,Physiological Status Code,5,Pregnant 5 months   
+form71_2008,psc,Physiological Status Code,6,Pregnant 6 months
+form71_2008,psc,Physiological Status Code,7,Pregnant 7 months
+form71_2008,psc,Physiological Status Code,8,Pregnant 8 months
+form71_2008,psc,Physiological Status Code,9,Pregnant 9 months
+form71_2008,psc,Physiological Status Code,10,Lactating 0- 6 months
+form71_2008,psc,Physiological Status Code,11,Lactating 7-12 months
+form71_2008,psc,Physiological Status Code,12,Lactating over 1 year
+form71_2008,psc,Physiological Status Code,99,Male Member
+form71_2008,csc,Civil Status Code,1,Single
+form71_2008,csc,Civil Status Code,2,Married
+form71_2008,csc,Civil Status Code,3,Widow/Widower
+form71_2008,csc,Civil Status Code,4,Separated/Annulled/Divorced
+form71_2008,csc,Civil Status Code,5,Live-in
+form71_2008,Ave_SBP,Average Measurement of Systolic BP (mm Hg),,
+form71_2008,Ave_DBP,Average Measurement of Diastolic BP (mm Hg),,
+form71_2008,currentsmoking,Presently Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products,0,No not at all
+form71_2008,currentsmoking,Presently Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products,1,Yes but less often than weekly
+form71_2008,currentsmoking,Presently Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products,2,Yes not every day but at least one day a week
+form71_2008,currentsmoking,Presently Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products,3,Yes everyday (at least one cigarette a day)
+form71_2008,ever_smk,Ever Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products in the Past,0,No not at all
+form71_2008,ever_smk,Ever Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products in the Past,1,Yes daily
+form71_2008,ever_smk,Ever Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products in the Past,2,Yes less than 100 cigarettes but not daily (Skip Q3)
+form71_2008,ever_smk,Ever Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products in the Past,3,Yes 100 or more cigarettes but not daily (Skip Q3)
+form71_2008,ever_smk,Ever Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products in the Past,9,Not Applicable
+form71_2008,smoke_status,Smoking Status (Generated),0,Never
+form71_2008,smoke_status,Smoking Status (Generated),1,Current
+form71_2008,smoke_status,Smoking Status (Generated),2,Former
+form71_2008,con_alcohol,Drink 1 or More Any Alcoholic Beverages In The Past Year,0,No
+form71_2008,con_alcohol,Drink 1 or More Any Alcoholic Beverages In The Past Year,1,Yes
+form71_2008,alcohol,Ever Drink Any Type Of Alcoholic Beverages,0,No
+form71_2008,alcohol,Ever Drink Any Type Of Alcoholic Beverages,1,Yes
+form71_2008,alc_amt_wk,Total Amount of Alcohol Amount in the past week (Generated),,
+form71_2008,alcohol_status,Alcohol Drinking Status (Generated),0,Never
+form71_2008,alcohol_status,Alcohol Drinking Status (Generated),1,Current
+form71_2008,alcohol_status,Alcohol Drinking Status (Generated),2,Former
+form71_2008,pa_travel_rev,Travel-related Physical Activity,0,Low
+form71_2008,pa_travel_rev,Travel-related Physical Activity,1,High
+form71_2008,pa_occup,Work-related Physical Activity,0,Low
+form71_2008,pa_occup,Work-related Physical Activity,1,High
+form71_2008,pa_nonoccup,Nonwork-related Physical Activity,0,Low
+form71_2008,pa_nonoccup,Nonwork-related Physical Activity,1,High
+form71_2008,high_exe,Leisure-related Physical Activity,0,Low
+form71_2008,high_exe,Leisure-related Physical Activity,1,High
+form71_2008,fbs,Actual Values for Plasma-Fasting Blood Sugar,,
+form71_2008,chol,Actual Values for Total Cholesterol,,
+form71_2008,tri,Actual Values for Triglyceride,,
+form71_2008,hdl,Actual Values for HDL-Cholesterol,,
+form71_2008,ldl,Actual Values for LDL-Cholesterol,,
+form71_2008,psurec,Primary Sampling Unit,,
+form71_2008,strrec,Strata,,
+form71_2008,wgts_bp,Sampling Weights (for Blood Pressure),,
+form71_2008,wgts_ques,Sampling Weights (for Smoking and Alcohol),,
+form71_2008,wgts_lipids,Sampling Weights (for Lipids),,
+form71_2008,wgts_fbs,Sampling Weights (for Fasting Blood Sugar),,
+form71_2008,wgts_pa,Sampling Weights (for Physical Activity),,

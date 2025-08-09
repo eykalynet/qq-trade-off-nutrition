@@ -1,0 +1,111 @@
+formno,variable_name,variable_label,var_value,value_label
+form82_2003,regcode,Name of Regions,1,Ilocos
+form82_2003,regcode,Name of Regions,2,Cagayan Valley
+form82_2003,regcode,Name of Regions,3,Central Luzon
+form82_2003,regcode,Name of Regions,5,Bicol
+form82_2003,regcode,Name of Regions,6,Western Visayas
+form82_2003,regcode,Name of Regions,7,Central Visayas
+form82_2003,regcode,Name of Regions,8,Eastern Visayas
+form82_2003,regcode,Name of Regions,9,Zamboanga Peninsula
+form82_2003,regcode,Name of Regions,10,Northern Mindanao
+form82_2003,regcode,Name of Regions,11,Davao Region
+form82_2003,regcode,Name of Regions,12,SOCCSKSARGEN
+form82_2003,regcode,Name of Regions,13,National Capital Region
+form82_2003,regcode,Name of Regions,14,Cordillera Administrative Region
+form82_2003,regcode,Name of Regions,15,ARMM
+form82_2003,regcode,Name of Regions,16,CARAGA
+form82_2003,regcode,Name of Regions,41,CALABARZON
+form82_2003,regcode,Name of Regions,42,MIMAROPA
+form82_2003,provcode,Name of Provinces,1,Abra
+form82_2003,provcode,Name of Provinces,2,Agusan Del Norte
+form82_2003,provcode,Name of Provinces,3,Agusan Del Sur
+form82_2003,provcode,Name of Provinces,11,Benguet
+form82_2003,provcode,Name of Provinces,12,Bohol
+form82_2003,provcode,Name of Provinces,15,Cagayan
+form82_2003,provcode,Name of Provinces,16,Cagayan
+form82_2003,provcode,Name of Provinces,17,Camarines Sur
+form82_2003,provcode,Name of Provinces,18,Camiguin
+form82_2003,provcode,Name of Provinces,19,Capiz
+form82_2003,provcode,Name of Provinces,20,Catanduanes
+form82_2003,provcode,Name of Provinces,21,Cavite
+form82_2003,provcode,Name of Provinces,26,Eastern Samar
+form82_2003,provcode,Name of Provinces,27,Ifugao
+form82_2003,provcode,Name of Provinces,34,Laguna
+form82_2003,provcode,Name of Provinces,35,Lanao Del Norte
+form82_2003,provcode,Name of Provinces,36,Lanao Del Sur
+form82_2003,provcode,Name of Provinces,37,Leyte
+form82_2003,provcode,Name of Provinces,38,Maguindanao
+form82_2003,provcode,Name of Provinces,39,NCR - Manila First District
+form82_2003,provcode,Name of Provinces,40,Marinduque
+form82_2003,provcode,Name of Provinces,41,Masbate
+form82_2003,provcode,Name of Provinces,42,Misamis Occidental
+form82_2003,provcode,Name of Provinces,43,Misamis Oriental
+form82_2003,provcode,Name of Provinces,44,Mountain Province
+form82_2003,provcode,Name of Provinces,45,Negros Occidental
+form82_2003,provcode,Name of Provinces,46,Negros Oriental
+form82_2003,provcode,Name of Provinces,47,North Cotabato
+form82_2003,provcode,Name of Provinces,48,Northern Samar
+form82_2003,provcode,Name of Provinces,49,Nueva Ecija
+form82_2003,provcode,Name of Provinces,50,Nueva Vizcaya
+form82_2003,provcode,Name of Provinces,51,Occidental Mindoro
+form82_2003,provcode,Name of Provinces,52,Oriental Mindoro
+form82_2003,provcode,Name of Provinces,53,Palawan
+form82_2003,provcode,Name of Provinces,54,Pampanga
+form82_2003,provcode,Name of Provinces,55,Pangasinan
+form82_2003,provcode,Name of Provinces,56,Quezon
+form82_2003,provcode,Name of Provinces,57,Quirino
+form82_2003,provcode,Name of Provinces,58,Rizal
+form82_2003,provcode,Name of Provinces,59,Romblon
+form82_2003,provcode,Name of Provinces,60,Western Samar
+form82_2003,provcode,Name of Provinces,61,Siquijor
+form82_2003,provcode,Name of Provinces,62,Sorsogon
+form82_2003,provcode,Name of Provinces,63,South Cotabato
+form82_2003,provcode,Name of Provinces,64,Southern Leyte
+form82_2003,provcode,Name of Provinces,65,Sultan Kudarat
+form82_2003,provcode,Name of Provinces,66,Sulu
+form82_2003,provcode,Name of Provinces,67,Surigao Del Norte
+form82_2003,provcode,Name of Provinces,68,Surigao Del Sur
+form82_2003,provcode,Name of Provinces,69,Tarlac
+form82_2003,provcode,Name of Provinces,70,Tawi-Tawi
+form82_2003,provcode,Name of Provinces,71,Zambales
+form82_2003,provcode,Name of Provinces,72,Zamboanga Del Norte
+form82_2003,provcode,Name of Provinces,73,Zamboanga Del Sur
+form82_2003,provcode,Name of Provinces,74,NCR Second District
+form82_2003,provcode,Name of Provinces,75,NCR Third District
+form82_2003,provcode,Name of Provinces,76,NCR Fourth District
+form82_2003,provcode,Name of Provinces,77,Aurora
+form82_2003,provcode,Name of Provinces,78,Biliran
+form82_2003,provcode,Name of Provinces,79,Guimaras
+form82_2003,provcode,Name of Provinces,80,Sarangani
+form82_2003,provcode,Name of Provinces,81,Apayao
+form82_2003,provcode,Name of Provinces,82,Compostela Valley
+form82_2003,provcode,Name of Provinces,83,Zamboanga Sibugay
+form82_2003,provcode,Name of Provinces,97,Isabela City
+form82_2003,provcode,Name of Provinces,98,Cotabato City
+form82_2003,hhnum,Household number (Merging variable/Unique household identifier),,
+form82_2003,member_code,Member Code (Merging variable),,
+form82_2003,age,Age of Respondent (in years),,
+form82_2003,sex,Sex,1,Male
+form82_2003,sex,Sex,2,Female
+form82_2003,psc,Physiological Status Code,0,Non-pregnant/Non-lactating female members
+form82_2003,psc,Physiological Status Code,1,Pregnant, 1 month
+form82_2003,psc,Physiological Status Code,2,Pregnant, 2 months
+form82_2003,psc,Physiological Status Code,3,Pregnant, 3 months
+form82_2003,psc,Physiological Status Code,4,Pregnant, 4 months
+form82_2003,psc,Physiological Status Code,5,Pregnant, 5 months
+form82_2003,psc,Physiological Status Code,6,Pregnant, 6 months
+form82_2003,psc,Physiological Status Code,7,Pregnant, 7 months
+form82_2003,psc,Physiological Status Code,8,Pregnant, 8 months
+form82_2003,psc,Physiological Status Code,9,Pregnant, 9 months
+form82_2003,psc,Physiological Status Code,10,Lactating, 0- 6 months
+form82_2003,psc,Physiological Status Code,11,Lactating, 7-12 months
+form82_2003,psc,Physiological Status Code,12,Lactating, over 1 year
+form82_2003,psc,Physiological Status Code,99,Male Member
+form82_2003,uie,Level of UIE (micrograms/L),,
+form82_2003,vita,Level of Vitamin A (micrograms/dL),,
+form82_2003,hemoglobin,Level of Hemoglobin (grams/dL),,
+form82_2003,psurec,Primary Sampling Unit,,
+form82_2003,strrec,Strata,,
+form82_2003,wgts_uie,Sampling Weights (for UIE),,
+form82_2003,wgts_vita,Sampling Weights (for Vitamin A),,
+form82_2003,wgts_hgb,Sampling Weights (for Hemoglobin),,

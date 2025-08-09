@@ -1,0 +1,196 @@
+formno,variable_name,variable_label,var_value,value_label
+form12_2008,regcode,Name of Regions,1,Ilocos 
+form12_2008,regcode,Name of Regions,2,Cagayan Valley
+form12_2008,regcode,Name of Regions,3,Central Luzon
+form12_2008,regcode,Name of Regions,5,Bicol
+form12_2008,regcode,Name of Regions,6,Western Visayas
+form12_2008,regcode,Name of Regions,7,Central Visayas
+form12_2008,regcode,Name of Regions,8,Eastern Visayas
+form12_2008,regcode,Name of Regions,9,Zamboanga Peninsula
+form12_2008,regcode,Name of Regions,10,Northern Mindanao
+form12_2008,regcode,Name of Regions,11,Davao Region
+form12_2008,regcode,Name of Regions,12,SOCCSKSARGEN
+form12_2008,regcode,Name of Regions,13,National Capital Region
+form12_2008,regcode,Name of Regions,14,Cordillera Administrative Region
+form12_2008,regcode,Name of Regions,15,ARMM
+form12_2008,regcode,Name of Regions,16,CARAGA
+form12_2008,regcode,Name of Regions,41,CALABARZON
+form12_2008,regcode,Name of Regions,42,MIMAROPA
+form12_2008,provcode,Name of Provinces,1,Abra
+form12_2008,provcode,Name of Provinces,2,Agusan Del Norte
+form12_2008,provcode,Name of Provinces,3,Agusan Del Sur
+form12_2008,provcode,Name of Provinces,4,Aklan
+form12_2008,provcode,Name of Provinces,5,Albay
+form12_2008,provcode,Name of Provinces,6,Antique
+form12_2008,provcode,Name of Provinces,7,Basilan
+form12_2008,provcode,Name of Provinces,8,Bataan
+form12_2008,provcode,Name of Provinces,9,Batanes
+form12_2008,provcode,Name of Provinces,10,Batangas
+form12_2008,provcode,Name of Provinces,11,Benguet
+form12_2008,provcode,Name of Provinces,12,Bohol
+form12_2008,provcode,Name of Provinces,13,Bukidnon
+form12_2008,provcode,Name of Provinces,14,Bulacan
+form12_2008,provcode,Name of Provinces,15,Cagayan
+form12_2008,provcode,Name of Provinces,16,Camarines Norte
+form12_2008,provcode,Name of Provinces,17,Camarines Sur
+form12_2008,provcode,Name of Provinces,18,Camiguin
+form12_2008,provcode,Name of Provinces,19,Capiz
+form12_2008,provcode,Name of Provinces,20,Catanduanes
+form12_2008,provcode,Name of Provinces,21,Cavite
+form12_2008,provcode,Name of Provinces,22,Cebu
+form12_2008,provcode,Name of Provinces,23,Davao (Davao Del Norte)
+form12_2008,provcode,Name of Provinces,24,Davao Del Sur
+form12_2008,provcode,Name of Provinces,25,Davao Oriental
+form12_2008,provcode,Name of Provinces,26,Eastern Samar
+form12_2008,provcode,Name of Provinces,27,Ifugao
+form12_2008,provcode,Name of Provinces,28,Ilocos Norte
+form12_2008,provcode,Name of Provinces,29,Ilocos Sur
+form12_2008,provcode,Name of Provinces,30,Iloilo
+form12_2008,provcode,Name of Provinces,31,Isabela
+form12_2008,provcode,Name of Provinces,32,Kalinga
+form12_2008,provcode,Name of Provinces,33,La Union
+form12_2008,provcode,Name of Provinces,34,Laguna
+form12_2008,provcode,Name of Provinces,35,Lanao Del Norte
+form12_2008,provcode,Name of Provinces,36,Lanao Del Sur
+form12_2008,provcode,Name of Provinces,37,Leyte
+form12_2008,provcode,Name of Provinces,38,Maguindanao
+form12_2008,provcode,Name of Provinces,39,NCR - Manila First District
+form12_2008,provcode,Name of Provinces,40,Marinduque
+form12_2008,provcode,Name of Provinces,41,Masbate
+form12_2008,provcode,Name of Provinces,42,Misamis Occidental
+form12_2008,provcode,Name of Provinces,43,Misamis Oriental
+form12_2008,provcode,Name of Provinces,44,Mountain Province
+form12_2008,provcode,Name of Provinces,45,Negros Occidental
+form12_2008,provcode,Name of Provinces,46,Negros Oriental
+form12_2008,provcode,Name of Provinces,47,North Cotabato
+form12_2008,provcode,Name of Provinces,48,Northern Samar
+form12_2008,provcode,Name of Provinces,49,Nueva Ecija
+form12_2008,provcode,Name of Provinces,50,Nueva Vizcaya
+form12_2008,provcode,Name of Provinces,51,Occidental Mindoro
+form12_2008,provcode,Name of Provinces,52,Oriental Mindoro
+form12_2008,provcode,Name of Provinces,53,Palawan
+form12_2008,provcode,Name of Provinces,54,Pampanga
+form12_2008,provcode,Name of Provinces,55,Pangasinan
+form12_2008,provcode,Name of Provinces,56,Quezon
+form12_2008,provcode,Name of Provinces,57,Quirino
+form12_2008,provcode,Name of Provinces,58,Rizal
+form12_2008,provcode,Name of Provinces,59,Romblon
+form12_2008,provcode,Name of Provinces,60,Western Samar
+form12_2008,provcode,Name of Provinces,61,Siquijor
+form12_2008,provcode,Name of Provinces,62,Sorsogon
+form12_2008,provcode,Name of Provinces,63,South Cotabato
+form12_2008,provcode,Name of Provinces,64,Southern Leyte
+form12_2008,provcode,Name of Provinces,65,Sultan Kudarat
+form12_2008,provcode,Name of Provinces,66,Sulu
+form12_2008,provcode,Name of Provinces,67,Surigao Del Norte
+form12_2008,provcode,Name of Provinces,68,Surigao Del Sur
+form12_2008,provcode,Name of Provinces,69,Tarlac
+form12_2008,provcode,Name of Provinces,70,Tawi-Tawi
+form12_2008,provcode,Name of Provinces,71,Zambales
+form12_2008,provcode,Name of Provinces,72,Zamboanga Del Norte
+form12_2008,provcode,Name of Provinces,73,Zamboanga Del Sur
+form12_2008,provcode,Name of Provinces,74,NCR Second District
+form12_2008,provcode,Name of Provinces,75,NCR Third District
+form12_2008,provcode,Name of Provinces,76,NCR Fourth District
+form12_2008,provcode,Name of Provinces,77,Aurora
+form12_2008,provcode,Name of Provinces,78,Biliran
+form12_2008,provcode,Name of Provinces,79,Guimaras
+form12_2008,provcode,Name of Provinces,80,Sarangani
+form12_2008,provcode,Name of Provinces,81,Apayao
+form12_2008,provcode,Name of Provinces,82,Compostela Valley
+form12_2008,provcode,Name of Provinces,83,Zamboanga Sibugay
+form12_2008,provcode,Name of Provinces,97,Isabela City
+form12_2008,provcode,Name of Provinces,98,Cotabato City
+form12_2008,hhnum,Household number,,
+form12_2008,topogrpy,Topography,1,Plain
+form12_2008,topogrpy,Topography,2,Mountainous
+form12_2008,topogrpy,Topography,3,Coastal
+form12_2008,topogrpy,Topography,4,Agricultural
+form12_2008,topogrpy,Topography,5,Plain mountainous
+form12_2008,topogrpy,Topography,6,Plain coastal
+form12_2008,topogrpy,Topography,7,Plain agricultural
+form12_2008,topogrpy,Topography,8,Plain mountainous coastal
+form12_2008,topogrpy,Topography,9,Plain mountainous coastal agricultural
+form12_2008,topogrpy,Topography,10,Mountainous coastal
+form12_2008,topogrpy,Topography,11,Mountainous agricultural
+form12_2008,topogrpy,Topography,12,Mountainous coastal agricultural
+form12_2008,topogrpy,Topography,13,Coastal agricultural
+form12_2008,topogrpy,Topography,14,Others specify
+form12_2008,dweltype,Type of Dwelling Unit,1,Single House
+form12_2008,dweltype,Type of Dwelling Unit,2,Duplex
+form12_2008,dweltype,Type of Dwelling Unit,3,Apartment/Condo/Tenement/Bliss
+form12_2008,dweltype,Type of Dwelling Unit,4,Commercial
+form12_2008,dweltype,Type of Dwelling Unit,5,Makeshift/Barong-Barong
+form12_2008,dweltype,Type of Dwelling Unit,6,Others specify
+form12_2008,tenurhws,Tenure Status of the Dwelling Unit,1,Own
+form12_2008,tenurhws,Tenure Status of the Dwelling Unit,2,Rent
+form12_2008,tenurhws,Tenure Status of the Dwelling Unit,3,Free (owned by parents/relatives caretaker)
+form12_2008,tenurhws,Tenure Status of the Dwelling Unit,4,Settle in public/private dwelling unit/structure w/o  permission from owner
+form12_2008,tenurhws,Tenure Status of the Dwelling Unit,5,Others specify
+form12_2008,tenurlot,Tenure Status of the Lot,1,Own
+form12_2008,tenurlot,Tenure Status of the Lot,2,Rent
+form12_2008,tenurlot,Tenure Status of the Lot,3,Free (owned by parents/relatives caretaker)
+form12_2008,tenurlot,Tenure Status of the Lot,4,Settle in public/private dwelling lands w/o  permission from owner
+form12_2008,tenurlot,Tenure Status of the Lot,5,Others specify
+form12_2008,roof,Main Roofing Material,1,Natural materials (nipa coco leaves cogon etc.)
+form12_2008,roof,Main Roofing Material,2,Iron Sheets
+form12_2008,roof,Main Roofing Material,3,Tegula/tisa
+form12_2008,roof,Main Roofing Material,4,Cement
+form12_2008,roof,Main Roofing Material,5,Salvaged (scrap materials cartons used iron sheets etc.)
+form12_2008,roof,Main Roofing Material,6,Others specify
+form12_2008,wall,Main Material Used for the Wall,1,Strong (cement marble adobe etc.)
+form12_2008,wall,Main Material Used for the Wall,2,Light (wood bamboo coconut leaves lawanit etc.)
+form12_2008,wall,Main Material Used for the Wall,3,Combination of strong and light
+form12_2008,wall,Main Material Used for the Wall,4,Salvaged (scrap materials cartons used iron sheets etc.)
+form12_2008,wall,Main Material Used for the Wall,5,Others specify
+form12_2008,floor,Main Flooring Material,1,Earth/sand
+form12_2008,floor,Main Flooring Material,2,Wood planks
+form12_2008,floor,Main Flooring Material,3,Coconut lumber/bamboo
+form12_2008,floor,Main Flooring Material,4,Marble
+form12_2008,floor,Main Flooring Material,5,Parquet or polished
+form12_2008,floor,Main Flooring Material,6,Ceramic tiles
+form12_2008,floor,Main Flooring Material,7,Vinyl or asphalt strips
+form12_2008,floor,Main Flooring Material,8,Plain cement
+form12_2008,floor,Main Flooring Material,9,Others specify
+form12_2008,bedroom,Number of Bedrooms,,
+form12_2008,outroom,Other Room Used for Sleeping,0,No
+form12_2008,outroom,Other Room Used for Sleeping,1,Yes
+form12_2008,outroom,Other Room Used for Sleeping,9,Not applicable (one-room affair)
+form12_2008,electrct,Electricity in the Household,0,No
+form12_2008,electrct,Electricity in the Household,1,Yes 
+form12_2008,electrct,Electricity in the Household,2,No electricity in the area
+form12_2008,electrct,Electricity in the Household,3,No electricity but with generator 
+form12_2008,electrct,Electricity in the Household,4,Others specify
+form12_2008,wdrinkng,Main Source of Drinking Water,1,Waterworks - piped into residential area
+form12_2008,wdrinkng,Main Source of Drinking Water,2,Waterworks - public tapped/peddler/delivered
+form12_2008,wdrinkng,Main Source of Drinking Water,3,Deep well - tubed/piped within residential
+form12_2008,wdrinkng,Main Source of Drinking Water,4,Deep well - public use
+form12_2008,wdrinkng,Main Source of Drinking Water,5,Other sources - Private well w/ faucet
+form12_2008,wdrinkng,Main Source of Drinking Water,6,Other Sources - open dug well owned
+form12_2008,wdrinkng,Main Source of Drinking Water,7,Other Sources - Public open dug well
+form12_2008,wdrinkng,Main Source of Drinking Water,8,Other Sources - Spring water piped into residential
+form12_2008,wdrinkng,Main Source of Drinking Water,9,Other Sources - Rainwater
+form12_2008,wdrinkng,Main Source of Drinking Water,10,Other Sources - Spring water
+form12_2008,wdrinkng,Main Source of Drinking Water,11,Other Sources - Mineral/bottled water
+form12_2008,wdrinkng,Main Source of Drinking Water,12,Others specify
+form12_2008,storewtr,Storing Drinking Water,0,No
+form12_2008,storewtr,Storing Drinking Water,1,Yes in plastic container w/ cover for less than 5 days
+form12_2008,storewtr,Storing Drinking Water,2,Yes in plastic container w/ cover for more than 5 days
+form12_2008,storewtr,Storing Drinking Water,3,Yes in jar w/ cover for less than 5 days
+form12_2008,storewtr,Storing Drinking Water,4,Yes in jar w/ cover for more than 5 days
+form12_2008,toilet,Type of Toilet Facility,0,No toilet facility
+form12_2008,toilet,Type of Toilet Facility,1,Water-sealed
+form12_2008,toilet,Type of Toilet Facility,2,Not water-sealed 
+form12_2008,collect,Dispose Garbage by Collector System,0,No
+form12_2008,collect,Dispose Garbage by Collector System,1,Yes
+form12_2008,burn,Dispose Garbage by Burning,0,No
+form12_2008,burn,Dispose Garbage by Burning,1,Yes
+form12_2008,composting,Dispose Garbage by Compost pit,0,No
+form12_2008,composting,Dispose Garbage by Compost pit,1,Yes
+form12_2008,dump,Dispose Garbage by Dumping/Throwing,0,No
+form12_2008,dump,Dispose Garbage by Dumping/Throwing,1,Yes
+form12_2008,segregate,Garbage Segregation,0,No
+form12_2008,segregate,Garbage Segregation,1,Yes
+form12_2008,psurec,Primary Sampling Unit,,
+form12_2008,strrec,Strata,,
+form12_2008,wgts,Sampling Weights,,

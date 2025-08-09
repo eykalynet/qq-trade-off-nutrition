@@ -1,0 +1,185 @@
+formno,variable_name,variable_label,var_value,value_label
+form11_2008,regcode,Name of Regions,1,Ilocos 
+form11_2008,regcode,Name of Regions,2,Cagayan Valley
+form11_2008,regcode,Name of Regions,3,Central Luzon
+form11_2008,regcode,Name of Regions,5,Bicol
+form11_2008,regcode,Name of Regions,6,Western Visayas
+form11_2008,regcode,Name of Regions,7,Central Visayas
+form11_2008,regcode,Name of Regions,8,Eastern Visayas
+form11_2008,regcode,Name of Regions,9,Zamboanga Peninsula
+form11_2008,regcode,Name of Regions,10,Northern Mindanao
+form11_2008,regcode,Name of Regions,11,Davao Region
+form11_2008,regcode,Name of Regions,12,SOCCSKSARGEN
+form11_2008,regcode,Name of Regions,13,National Capital Region
+form11_2008,regcode,Name of Regions,14,Cordillera Administrative Region
+form11_2008,regcode,Name of Regions,15,ARMM
+form11_2008,regcode,Name of Regions,16,CARAGA
+form11_2008,regcode,Name of Regions,41,CALABARZON
+form11_2008,regcode,Name of Regions,42,MIMAROPA
+form11_2008,provcode,Name of Provinces,1,Abra
+form11_2008,provcode,Name of Provinces,2,Agusan Del Norte
+form11_2008,provcode,Name of Provinces,3,Agusan Del Sur
+form11_2008,provcode,Name of Provinces,4,Aklan
+form11_2008,provcode,Name of Provinces,5,Albay
+form11_2008,provcode,Name of Provinces,6,Antique
+form11_2008,provcode,Name of Provinces,7,Basilan
+form11_2008,provcode,Name of Provinces,8,Bataan
+form11_2008,provcode,Name of Provinces,9,Batanes
+form11_2008,provcode,Name of Provinces,10,Batangas
+form11_2008,provcode,Name of Provinces,11,Benguet
+form11_2008,provcode,Name of Provinces,12,Bohol
+form11_2008,provcode,Name of Provinces,13,Bukidnon
+form11_2008,provcode,Name of Provinces,14,Bulacan
+form11_2008,provcode,Name of Provinces,15,Cagayan
+form11_2008,provcode,Name of Provinces,16,Camarines Norte
+form11_2008,provcode,Name of Provinces,17,Camarines Sur
+form11_2008,provcode,Name of Provinces,18,Camiguin
+form11_2008,provcode,Name of Provinces,19,Capiz
+form11_2008,provcode,Name of Provinces,20,Catanduanes
+form11_2008,provcode,Name of Provinces,21,Cavite
+form11_2008,provcode,Name of Provinces,22,Cebu
+form11_2008,provcode,Name of Provinces,23,Davao (Davao Del Norte)
+form11_2008,provcode,Name of Provinces,24,Davao Del Sur
+form11_2008,provcode,Name of Provinces,25,Davao Oriental
+form11_2008,provcode,Name of Provinces,26,Eastern Samar
+form11_2008,provcode,Name of Provinces,27,Ifugao
+form11_2008,provcode,Name of Provinces,28,Ilocos Norte
+form11_2008,provcode,Name of Provinces,29,Ilocos Sur
+form11_2008,provcode,Name of Provinces,30,Iloilo
+form11_2008,provcode,Name of Provinces,31,Isabela
+form11_2008,provcode,Name of Provinces,32,Kalinga
+form11_2008,provcode,Name of Provinces,33,La Union
+form11_2008,provcode,Name of Provinces,34,Laguna
+form11_2008,provcode,Name of Provinces,35,Lanao Del Norte
+form11_2008,provcode,Name of Provinces,36,Lanao Del Sur
+form11_2008,provcode,Name of Provinces,37,Leyte
+form11_2008,provcode,Name of Provinces,38,Maguindanao
+form11_2008,provcode,Name of Provinces,39,NCR - Manila First District
+form11_2008,provcode,Name of Provinces,40,Marinduque
+form11_2008,provcode,Name of Provinces,41,Masbate
+form11_2008,provcode,Name of Provinces,42,Misamis Occidental
+form11_2008,provcode,Name of Provinces,43,Misamis Oriental
+form11_2008,provcode,Name of Provinces,44,Mountain Province
+form11_2008,provcode,Name of Provinces,45,Negros Occidental
+form11_2008,provcode,Name of Provinces,46,Negros Oriental
+form11_2008,provcode,Name of Provinces,47,North Cotabato
+form11_2008,provcode,Name of Provinces,48,Northern Samar
+form11_2008,provcode,Name of Provinces,49,Nueva Ecija
+form11_2008,provcode,Name of Provinces,50,Nueva Vizcaya
+form11_2008,provcode,Name of Provinces,51,Occidental Mindoro
+form11_2008,provcode,Name of Provinces,52,Oriental Mindoro
+form11_2008,provcode,Name of Provinces,53,Palawan
+form11_2008,provcode,Name of Provinces,54,Pampanga
+form11_2008,provcode,Name of Provinces,55,Pangasinan
+form11_2008,provcode,Name of Provinces,56,Quezon
+form11_2008,provcode,Name of Provinces,57,Quirino
+form11_2008,provcode,Name of Provinces,58,Rizal
+form11_2008,provcode,Name of Provinces,59,Romblon
+form11_2008,provcode,Name of Provinces,60,Western Samar
+form11_2008,provcode,Name of Provinces,61,Siquijor
+form11_2008,provcode,Name of Provinces,62,Sorsogon
+form11_2008,provcode,Name of Provinces,63,South Cotabato
+form11_2008,provcode,Name of Provinces,64,Southern Leyte
+form11_2008,provcode,Name of Provinces,65,Sultan Kudarat
+form11_2008,provcode,Name of Provinces,66,Sulu
+form11_2008,provcode,Name of Provinces,67,Surigao Del Norte
+form11_2008,provcode,Name of Provinces,68,Surigao Del Sur
+form11_2008,provcode,Name of Provinces,69,Tarlac
+form11_2008,provcode,Name of Provinces,70,Tawi-Tawi
+form11_2008,provcode,Name of Provinces,71,Zambales
+form11_2008,provcode,Name of Provinces,72,Zamboanga Del Norte
+form11_2008,provcode,Name of Provinces,73,Zamboanga Del Sur
+form11_2008,provcode,Name of Provinces,74,NCR Second District
+form11_2008,provcode,Name of Provinces,75,NCR Third District
+form11_2008,provcode,Name of Provinces,76,NCR Fourth District
+form11_2008,provcode,Name of Provinces,77,Aurora
+form11_2008,provcode,Name of Provinces,78,Biliran
+form11_2008,provcode,Name of Provinces,79,Guimaras
+form11_2008,provcode,Name of Provinces,80,Sarangani
+form11_2008,provcode,Name of Provinces,81,Apayao
+form11_2008,provcode,Name of Provinces,82,Compostela Valley
+form11_2008,provcode,Name of Provinces,83,Zamboanga Sibugay
+form11_2008,provcode,Name of Provinces,97,Isabela City
+form11_2008,provcode,Name of Provinces,98,Cotabato City
+form11_2008,hhnum,Household number,,
+form11_2008,member_code,Member Code,,
+form11_2008,age,Age of Respondent (in years),,
+form11_2008,sex,Sex,1,Male
+form11_2008,sex,Sex,2,Female
+form11_2008,csc,Civil Status Code,1,Single
+form11_2008,csc,Civil Status Code,2,Married
+form11_2008,csc,Civil Status Code,3,Widow/Widower
+form11_2008,csc,Civil Status Code,4,Separated/Annulled/Divorced
+form11_2008,csc,Civil Status Code,5,Live-in
+form11_2008,psc,Physiological Status Code,0,Non-pregnant/Non-lactating female members
+form11_2008,psc,Physiological Status Code,1,Pregnant 1 month   
+form11_2008,psc,Physiological Status Code,2,Pregnant 2 months   
+form11_2008,psc,Physiological Status Code,3,Pregnant 3 months   
+form11_2008,psc,Physiological Status Code,4,Pregnant 4 months   
+form11_2008,psc,Physiological Status Code,5,Pregnant 5 months   
+form11_2008,psc,Physiological Status Code,6,Pregnant 6 months
+form11_2008,psc,Physiological Status Code,7,Pregnant 7 months
+form11_2008,psc,Physiological Status Code,8,Pregnant 8 months
+form11_2008,psc,Physiological Status Code,9,Pregnant 9 months
+form11_2008,psc,Physiological Status Code,10,Lactating 0- 6 months
+form11_2008,psc,Physiological Status Code,11,Lactating 7-12 months
+form11_2008,psc,Physiological Status Code,12,Lactating over 1 year
+form11_2008,psc,Physiological Status Code,99,Male Member
+form11_2008,rhc,Relationship to Household Head Code,0,Not related (helper friends who lived with them)
+form11_2008,rhc,Relationship to Household Head Code,1,Household Head
+form11_2008,rhc,Relationship to Household Head Code,2,Husband/Wife
+form11_2008,rhc,Relationship to Household Head Code,3,Son/Stepson
+form11_2008,rhc,Relationship to Household Head Code,4,Daughter/Stepdaughter
+form11_2008,rhc,Relationship to Household Head Code,5,Other Relatives
+form11_2008,educ,Highest Educational Attainment,0,No Grade Completed (6 years old and over)
+form11_2008,educ,Highest Educational Attainment,1,Elementary Grade 1
+form11_2008,educ,Highest Educational Attainment,2,Elementary Grade 2
+form11_2008,educ,Highest Educational Attainment,3,Elementary Grade 3
+form11_2008,educ,Highest Educational Attainment,4,Elementary Grade 4
+form11_2008,educ,Highest Educational Attainment,5,Elementary Grade 5
+form11_2008,educ,Highest Educational Attainment,6,Elementary Grade 6 & 7
+form11_2008,educ,Highest Educational Attainment,7,High School Year 1
+form11_2008,educ,Highest Educational Attainment,8,High School Year 2
+form11_2008,educ,Highest Educational Attainment,9,High School Year 3
+form11_2008,educ,Highest Educational Attainment,10,High School Year 4
+form11_2008,educ,Highest Educational Attainment,11,College Year 1
+form11_2008,educ,Highest Educational Attainment,12,College Year 2
+form11_2008,educ,Highest Educational Attainment,13,College Year 3
+form11_2008,educ,Highest Educational Attainment,14,College Year 4
+form11_2008,educ,Highest Educational Attainment,15,College Year 5
+form11_2008,educ,Highest Educational Attainment,16,College Year 6
+form11_2008,educ,Highest Educational Attainment,17,Above College Year 1
+form11_2008,educ,Highest Educational Attainment,18,Above College Year 2
+form11_2008,educ,Highest Educational Attainment,19,Above College Year 3
+form11_2008,educ,Highest Educational Attainment,20,Above College Year 4
+form11_2008,educ,Highest Educational Attainment,21,Above College Year 5
+form11_2008,educ,Highest Educational Attainment,22,Day Care/Kinder/Prep (DSWD/Others)
+form11_2008,educ,Highest Educational Attainment,23,Double Degree
+form11_2008,educ,Highest Educational Attainment,24,SPED
+form11_2008,educ,Highest Educational Attainment,25,Others
+form11_2008,educ,Highest Educational Attainment,88,No data
+form11_2008,educ,Highest Educational Attainment,99,Not Applicable (less than 6 years old)
+form11_2008,occup,Current occupation for past week (PSOC),0,No Occupation
+form11_2008,occup,Current occupation for past week (PSOC),1,Official of Government
+form11_2008,occup,Current occupation for past week (PSOC),2,Professionals
+form11_2008,occup,Current occupation for past week (PSOC),3,Technicians and Associate Professionals
+form11_2008,occup,Current occupation for past week (PSOC),4,Clerks
+form11_2008,occup,Current occupation for past week (PSOC),5,Service Workers and Shop and Market Sales Workers
+form11_2008,occup,Current occupation for past week (PSOC),6,Farmers Forestry Workers and Fishermen
+form11_2008,occup,Current occupation for past week (PSOC),7,Skilled and Related Workers
+form11_2008,occup,Current occupation for past week (PSOC),8,Plant and Machine Operators and Assemblers
+form11_2008,occup,Current occupation for past week (PSOC),9,Laborers and Unskilled Workers
+form11_2008,occup,Current occupation for past week (PSOC),10,Housekeeper
+form11_2008,occup,Current occupation for past week (PSOC),11,Other occupation not elsewhere classified
+form11_2008,occup,Current occupation for past week (PSOC),12,Occupation not stated  (Put remarks not stating Occupation)
+form11_2008,occup,Current occupation for past week (PSOC),13,Special Occupations
+form11_2008,occup,Current occupation for past week (PSOC),14,Students
+form11_2008,occup,Current occupation for past week (PSOC),15,Pensioners
+form11_2008,occup,Current occupation for past week (PSOC),16,Others
+form11_2008,occup,Current occupation for past week (PSOC),88,No data
+form11_2008,occup,Current occupation for past week (PSOC),99,Not Applicable (less than 10 years old)
+form11_2008,wrkpl,Place of Work,0,At home
+form11_2008,wrkpl,Place of Work,1,Local away from home
+form11_2008,wrkpl,Place of Work,2,Abroad
+form11_2008,wrkpl,Place of Work,8,No data
+form11_2008,wrkpl,Place of Work,9,Not Applicable (for housekeepers pensioners students no occupations)

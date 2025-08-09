@@ -1,0 +1,152 @@
+formno,variable_name,variable_label,var_value,value_label
+form61_2013,Total_Calc,Total Calcium (mg),,
+form61_2013,fg8,Vegetables (in grams),,
+form61_2013,fg9,Green Leafy and Yellow (in grams),,
+form61_2013,g_fwgt,Weigthing factor,,
+form61_2013,hhnum,Household number,,
+form61_2013,member_code,Member Code,,
+form61_2013,provcode,Provinces,1,ABRA
+form61_2013,provcode,Provinces,2,AGUSAN DEL NORTE
+form61_2013,provcode,Provinces,3,AGUSAN DEL SUR
+form61_2013,provcode,Provinces,4,AKLAN
+form61_2013,provcode,Provinces,5,ALBAY
+form61_2013,provcode,Provinces,6,ANTIQUE
+form61_2013,provcode,Provinces,7,BASILAN
+form61_2013,provcode,Provinces,8,BATAAN
+form61_2013,provcode,Provinces,10,BATANGAS
+form61_2013,provcode,Provinces,11,BENGUET
+form61_2013,provcode,Provinces,12,BOHOL
+form61_2013,provcode,Provinces,13,BUKIDNON
+form61_2013,provcode,Provinces,14,BULACAN
+form61_2013,provcode,Provinces,15,CAGAYAN
+form61_2013,provcode,Provinces,16,CAMARINES NORTE
+form61_2013,provcode,Provinces,17,CAMARINES SUR
+form61_2013,provcode,Provinces,18,CAMIGUIN
+form61_2013,provcode,Provinces,19,CAPIZ
+form61_2013,provcode,Provinces,20,CATANDUANES
+form61_2013,provcode,Provinces,21,CAVITE
+form61_2013,provcode,Provinces,22,CEBU
+form61_2013,provcode,Provinces,23,DAVAO (DAVAO DEL NORTE)
+form61_2013,provcode,Provinces,24,DAVAO DEL SUR
+form61_2013,provcode,Provinces,25,DAVAO ORIENTAL
+form61_2013,provcode,Provinces,26,EASTERN SAMAR
+form61_2013,provcode,Provinces,27,IFUGAO
+form61_2013,provcode,Provinces,28,ILOCOS NORTE
+form61_2013,provcode,Provinces,29,ILOCOS SUR
+form61_2013,provcode,Provinces,30,ILOILO
+form61_2013,provcode,Provinces,31,ISABELA
+form61_2013,provcode,Provinces,32,KALINGA
+form61_2013,provcode,Provinces,33,LA UNION
+form61_2013,provcode,Provinces,34,LAGUNA
+form61_2013,provcode,Provinces,35,LANAO DEL NORTE
+form61_2013,provcode,Provinces,36,LANAO DEL SUR
+form61_2013,provcode,Provinces,37,LEYTE
+form61_2013,provcode,Provinces,38,MAGUINDANAO
+form61_2013,provcode,Provinces,39,NCR - MANILA FIRST DISTRICT
+form61_2013,provcode,Provinces,40,MARINDUQUE
+form61_2013,provcode,Provinces,41,MASBATE
+form61_2013,provcode,Provinces,42,MISAMIS OCCIDENTAL
+form61_2013,provcode,Provinces,43,MISAMIS ORIENTAL
+form61_2013,provcode,Provinces,44,MOUNTAIN PROVINCE
+form61_2013,provcode,Provinces,45,NEGROS OCCIDENTAL
+form61_2013,provcode,Provinces,46,NEGROS ORIENTAL
+form61_2013,provcode,Provinces,47,NORTH COTABATO
+form61_2013,provcode,Provinces,48,NORTHERN SAMAR
+form61_2013,provcode,Provinces,49,NUEVA ECIJA
+form61_2013,provcode,Provinces,50,NUEVA VIZCAYA
+form61_2013,provcode,Provinces,51,OCCIDENTAL MINDORO
+form61_2013,provcode,Provinces,52,ORIENTAL MINDORO
+form61_2013,provcode,Provinces,53,PALAWAN
+form61_2013,provcode,Provinces,54,PAMPANGA
+form61_2013,provcode,Provinces,55,PANGASINAN
+form61_2013,provcode,Provinces,56,QUEZON
+form61_2013,provcode,Provinces,57,QUIRINO
+form61_2013,provcode,Provinces,58,RIZAL
+form61_2013,provcode,Provinces,59,ROMBLON
+form61_2013,provcode,Provinces,60,WESTERN SAMAR
+form61_2013,provcode,Provinces,61,SIQUIJOR
+form61_2013,provcode,Provinces,62,SORSOGON
+form61_2013,provcode,Provinces,63,SOUTH COTABATO
+form61_2013,provcode,Provinces,64,SOUTHERN LEYTE
+form61_2013,provcode,Provinces,65,SULTAN KUDARAT
+form61_2013,provcode,Provinces,66,SULU
+form61_2013,provcode,Provinces,67,SURIGAO DEL NORTE
+form61_2013,provcode,Provinces,68,SURIGAO DEL SUR
+form61_2013,provcode,Provinces,69,TARLAC
+form61_2013,provcode,Provinces,70,TAWI-TAWI
+form61_2013,provcode,Provinces,71,ZAMBALES
+form61_2013,provcode,Provinces,72,ZAMBOANGA DEL NORTE
+form61_2013,provcode,Provinces,73,ZAMBOANGA DEL SUR
+form61_2013,provcode,Provinces,74,NCR SECOND DISTRICT
+form61_2013,provcode,Provinces,75,NCR THIRD DISTRICT
+form61_2013,provcode,Provinces,76,NCR FOURTH DISTRICT
+form61_2013,provcode,Provinces,77,AURORA
+form61_2013,provcode,Provinces,78,BILIRAN
+form61_2013,provcode,Provinces,79,GUIMARAS
+form61_2013,provcode,Provinces,80,SARANGANI
+form61_2013,provcode,Provinces,81,APAYAO
+form61_2013,provcode,Provinces,82,COMPOSTELA VALLEY
+form61_2013,provcode,Provinces,83,ZAMBOANGA SIBUGAY
+form61_2013,provcode,Provinces,97,ISABELA CITY
+form61_2013,provcode,Provinces,98,COTABATO CITY
+form61_2013,psc,Physiological Status Code,0,NP/NL
+form61_2013,psc,Physiological Status Code,1,Pregnant
+form61_2013,psc,Physiological Status Code,2,Lactating
+form61_2013,psc,Physiological Status Code,99,Male
+form61_2013,psurec,Primary Sampling Unit,,
+form61_2013,regcode,Regions,1,ILOCOS REGION
+form61_2013,regcode,Regions,2,CAGAYAN VALLEY
+form61_2013,regcode,Regions,3,CENTRAL LUZON
+form61_2013,regcode,Regions,5,BICOL
+form61_2013,regcode,Regions,6,WESTERN VISAYAS
+form61_2013,regcode,Regions,7,CENTRAL VISAYAS
+form61_2013,regcode,Regions,8,EASTERN VISAYAS
+form61_2013,regcode,Regions,9,ZAMBOANGA PENINSULA
+form61_2013,regcode,Regions,10,NORTHERN MINDANAO
+form61_2013,regcode,Regions,11,DAVAO REGION
+form61_2013,regcode,Regions,12,SOCCSKARGEN
+form61_2013,regcode,Regions,13,NATIONAL CAPITAL REGION
+form61_2013,regcode,Regions,14,CORDILLERA ADMINISTRATIVE
+form61_2013,regcode,Regions,15,ARMM
+form61_2013,regcode,Regions,16,CARAGA
+form61_2013,regcode,Regions,41,CALABARZON
+form61_2013,regcode,Regions,42,MIMAROPA
+form61_2013,sex,Sex of Respondent,1,Male
+form61_2013,sex,Sex of Respondent,2,Female
+form61_2013,strrec,Stratum Code,,
+form61_2013,fg7,Dried Beans Nuts and Seeds (in grams),,
+form61_2013,Total_CHO,Total Carbohydrates (g),,
+form61_2013,Total_Ener,Total Energy (Kcal),,
+form61_2013,Total_Fat,Total Fats (g),,
+form61_2013,Total_Food,Total Food Intake ( in grams),,
+form61_2013,Total_Iron,Total Iron (mg),,
+form61_2013,Total_Nia,Total Vitamin C (mg),,
+form61_2013,Total_Prot,Total Protein (g),,
+form61_2013,Total_Ribo,Total Niacin (mg),,
+form61_2013,Total_Thia,Total Riboflavin (mg),,
+form61_2013,Total_VitA,Total Vitamin A (mcg RE),,
+form61_2013,Total_VitC,Total Thiamin (mg),,
+form61_2013,fg2,Rice and Rice Products (in grams),,
+form61_2013,fg1,Cereals and Cereal Products (in grams),,
+form61_2013,fg10,Other Vegetables (in grams),,
+form61_2013,fg11,Fruits (in grams),,
+form61_2013,fg12,Vitamin C-Rich Fruits (in grams),,
+form61_2013,fg13,Other Fruits (in grams),,
+form61_2013,fg14,Fish Meat and Poultry (in grams),,
+form61_2013,fg15,Fish and Fish Products ( in grams),,
+form61_2013,fg16,Meat and Meat Products (in grams),,
+form61_2013,fg17,Poultry (in grams),,
+form61_2013,fg18,Eggs (in grams),,
+form61_2013,fg19,Milk and Milk Products ( in grams),,
+form61_2013,age,Age of Respondent,,
+form61_2013,fg20,Whole Milk ( in grams),,
+form61_2013,fg21,Milk Products ( in grams),,
+form61_2013,fg23,Fats and Oils ( in grams),,
+form61_2013,fg24,Miscellaneous ( in grams),,
+form61_2013,fg25,Beverages ( in grams),,
+form61_2013,fg26,Condiments and Spices ( in grams),,
+form61_2013,fg27,Other Miscellaneous (in grams),,
+form61_2013,fg3,Corn and Corn Products (in grams),,
+form61_2013,fg4,Other Cereal Products (in grams),,
+form61_2013,fg5,Starchy Roots and Tubers (in grams),,
+form61_2013,fg6,Sugar and Syrups (in grams),,

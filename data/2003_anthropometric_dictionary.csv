@@ -1,0 +1,130 @@
+formno,variable_name,variable_label,var_value,value_label
+form21_2003,regcode,Name of Regions,1,Ilocos
+form21_2003,regcode,Name of Regions,2,Cagayan Valley
+form21_2003,regcode,Name of Regions,3,Central Luzon
+form21_2003,regcode,Name of Regions,5,Bicol
+form21_2003,regcode,Name of Regions,6,Western Visayas
+form21_2003,regcode,Name of Regions,7,Central Visayas
+form21_2003,regcode,Name of Regions,8,Eastern Visayas
+form21_2003,regcode,Name of Regions,9,Zamboanga Peninsula
+form21_2003,regcode,Name of Regions,10,Northern Mindanao
+form21_2003,regcode,Name of Regions,11,Davao Region
+form21_2003,regcode,Name of Regions,12,SOCCSKSARGEN
+form21_2003,regcode,Name of Regions,13,National Capital Region
+form21_2003,regcode,Name of Regions,14,Cordillera Administrative Region
+form21_2003,regcode,Name of Regions,15,ARMM
+form21_2003,regcode,Name of Regions,16,Caraga
+form21_2003,regcode,Name of Regions,41,CALABARZON
+form21_2003,regcode,Name of Regions,42,MIMAROPA
+form21_2003,provcode,Name of Provinces,1,Abra
+form21_2003,provcode,Name of Provinces,2,Agusan Del Norte
+form21_2003,provcode,Name of Provinces,3,Agusan Del Sur
+form21_2003,provcode,Name of Provinces,11,Benguet
+form21_2003,provcode,Name of Provinces,12,Bohol
+form21_2003,provcode,Name of Provinces,15,Cagayan
+form21_2003,provcode,Name of Provinces,16,Cagayan
+form21_2003,provcode,Name of Provinces,17,Camarines Sur
+form21_2003,provcode,Name of Provinces,18,Camiguin
+form21_2003,provcode,Name of Provinces,19,Capiz
+form21_2003,provcode,Name of Provinces,20,Catanduanes
+form21_2003,provcode,Name of Provinces,21,Cavite
+form21_2003,provcode,Name of Provinces,26,Eastern Samar
+form21_2003,provcode,Name of Provinces,27,Ifugao
+form21_2003,provcode,Name of Provinces,34,Laguna
+form21_2003,provcode,Name of Provinces,35,Lanao Del Norte
+form21_2003,provcode,Name of Provinces,36,Lanao Del Sur
+form21_2003,provcode,Name of Provinces,37,Leyte
+form21_2003,provcode,Name of Provinces,38,Maguindanao
+form21_2003,provcode,Name of Provinces,39,NCR - Manila First District
+form21_2003,provcode,Name of Provinces,40,Marinduque
+form21_2003,provcode,Name of Provinces,41,Masbate
+form21_2003,provcode,Name of Provinces,42,Misamis Occidental
+form21_2003,provcode,Name of Provinces,43,Misamis Oriental
+form21_2003,provcode,Name of Provinces,44,Mountain Province
+form21_2003,provcode,Name of Provinces,45,Negros Occidental
+form21_2003,provcode,Name of Provinces,46,Negros Oriental
+form21_2003,provcode,Name of Provinces,47,North Cotabato
+form21_2003,provcode,Name of Provinces,48,Northern Samar
+form21_2003,provcode,Name of Provinces,49,Nueva Ecija
+form21_2003,provcode,Name of Provinces,50,Nueva Vizcaya
+form21_2003,provcode,Name of Provinces,51,Occidental Mindoro
+form21_2003,provcode,Name of Provinces,52,Oriental Mindoro
+form21_2003,provcode,Name of Provinces,53,Palawan
+form21_2003,provcode,Name of Provinces,54,Pampanga
+form21_2003,provcode,Name of Provinces,55,Pangasinan
+form21_2003,provcode,Name of Provinces,56,Quezon
+form21_2003,provcode,Name of Provinces,57,Quirino
+form21_2003,provcode,Name of Provinces,58,Rizal
+form21_2003,provcode,Name of Provinces,59,Romblon
+form21_2003,provcode,Name of Provinces,60,Western Samar
+form21_2003,provcode,Name of Provinces,61,Siquijor
+form21_2003,provcode,Name of Provinces,62,Sorsogon
+form21_2003,provcode,Name of Provinces,63,South Cotabato
+form21_2003,provcode,Name of Provinces,64,Southern Leyte
+form21_2003,provcode,Name of Provinces,65,Sultan Kudarat
+form21_2003,provcode,Name of Provinces,66,Sulu
+form21_2003,provcode,Name of Provinces,67,Surigao Del Norte
+form21_2003,provcode,Name of Provinces,68,Surigao Del Sur
+form21_2003,provcode,Name of Provinces,69,Tarlac
+form21_2003,provcode,Name of Provinces,70,Tawi-Tawi
+form21_2003,provcode,Name of Provinces,71,Zambales
+form21_2003,provcode,Name of Provinces,72,Zamboanga Del Norte
+form21_2003,provcode,Name of Provinces,73,Zamboanga Del Sur
+form21_2003,provcode,Name of Provinces,74,NCR Second District
+form21_2003,provcode,Name of Provinces,75,NCR Third District
+form21_2003,provcode,Name of Provinces,76,NCR Fourth District
+form21_2003,provcode,Name of Provinces,77,Aurora
+form21_2003,provcode,Name of Provinces,78,Biliran
+form21_2003,provcode,Name of Provinces,79,Guimaras
+form21_2003,provcode,Name of Provinces,80,Sarangani
+form21_2003,provcode,Name of Provinces,81,Apayao
+form21_2003,provcode,Name of Provinces,82,Compostela Valley
+form21_2003,provcode,Name of Provinces,83,Zamboanga Sibugay
+form21_2003,provcode,Name of Provinces,97,Isabela City
+form21_2003,provcode,Name of Provinces,98,Cotabato City
+form21_2003,hhnum,Household Number (Merging variable/Unique household identifier),,
+form21_2003,member_code,Member Code (Merging variable),,
+form21_2003,age,Age of Respondent (in years),,
+form21_2003,sex,Sex,1,Male
+form21_2003,sex,Sex,2,Female
+form21_2003,psc,Physiological Status Code,0,Non-pregnant/Non-lactating female members
+form21_2003,psc,Physiological Status Code,1,Pregnant, 1 month
+form21_2003,psc,Physiological Status Code,2,Pregnant, 2 months
+form21_2003,psc,Physiological Status Code,3,Pregnant, 3 months
+form21_2003,psc,Physiological Status Code,4,Pregnant, 4 months
+form21_2003,psc,Physiological Status Code,5,Pregnant, 5 months
+form21_2003,psc,Physiological Status Code,6,Pregnant, 6 months
+form21_2003,psc,Physiological Status Code,7,Pregnant, 7 months
+form21_2003,psc,Physiological Status Code,8,Pregnant, 8 months
+form21_2003,psc,Physiological Status Code,9,Pregnant, 9 months
+form21_2003,psc,Physiological Status Code,10,Lactating, 0- 6 months
+form21_2003,psc,Physiological Status Code,11,Lactating, 7-12 months
+form21_2003,psc,Physiological Status Code,12,Lactating, over 1 year
+form21_2003,psc,Physiological Status Code,99,Male Member
+form21_2003,ethnicity,Ethnicity Code,0,Not a Minority / 3/4 Filipino
+form21_2003,ethnicity,Ethnicity Code,2,Minority / Indigenous People
+form21_2003,ethnicity,Ethnicity Code,3,1/2 Foreign Blood
+form21_2003,weight,Average Weight (kg),,
+form21_2003,height,Average Height (cm),,
+form21_2003,waist,Average Waist Circumference (cm),,
+form21_2003,hip,Average Hip Circumference (cm),,
+form21_2003,anthrop_group,Anthropometric Group,1,0 ? 60 Months Old
+form21_2003,anthrop_group,Anthropometric Group,2,61 ? 120 Months Old
+form21_2003,anthrop_group,Anthropometric Group,3,121 ? 228 Months Old
+form21_2003,anthrop_group,Anthropometric Group,4,Adults (19 Years Old and Above)
+form21_2003,anthrop_group,Anthropometric Group,5,Pregnant Women
+form21_2003,anthrop_group,Anthropometric Group,6,Lactating Mothers
+form21_2003,mos_lactation,Months of Lactation,8888,No data
+form21_2003,mos_preg,Months of Pregnancy,1,Pregnant, 1 month
+form21_2003,mos_preg,Months of Pregnancy,2,Pregnant, 2 months
+form21_2003,mos_preg,Months of Pregnancy,3,Pregnant, 3 months
+form21_2003,mos_preg,Months of Pregnancy,4,Pregnant, 4 months
+form21_2003,mos_preg,Months of Pregnancy,5,Pregnant, 5 months
+form21_2003,mos_preg,Months of Pregnancy,6,Pregnant, 6 months
+form21_2003,mos_preg,Months of Pregnancy,7,Pregnant, 7 months
+form21_2003,mos_preg,Months of Pregnancy,8,Pregnant, 8 months
+form21_2003,mos_preg,Months of Pregnancy,9,Pregnant, 9 months
+form21_2003,psurec,Primary Sampling Unit,,
+form21_2003,strrec,Strata,,
+form21_2003,wgts_weightheight,Sampling Weights (for Weight and Height),,
+form21_2003,wgts_hipwaist,Sampling Weights (for Waist and Hip),,

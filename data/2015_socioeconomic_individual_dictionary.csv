@@ -1,0 +1,204 @@
+formno,variable_name,variable_label,var_value,value_label
+form11_2015,age,Age of Respondent,,
+form11_2015,csc,Civil Status Code,1,Single
+form11_2015,csc,Civil Status Code,2,Married
+form11_2015,csc,Civil Status Code,3,Widow/Widower
+form11_2015,csc,Civil Status Code,4,Separated/Annulled/Divorced
+form11_2015,csc,Civil Status Code,5,Common-Law/Live-in
+form11_2015,csc,Civil Status Code,6,Unknown
+form11_2015,educ,Highest Educational Attainment,0,No Grade Compeleted 
+form11_2015,educ,Highest Educational Attainment,1,Nursery   
+form11_2015,educ,Highest Educational Attainment,2,Kinder   
+form11_2015,educ,Highest Educational Attainment,3,Preparatory   
+form11_2015,educ,Highest Educational Attainment,11,Elementary, Grade 1
+form11_2015,educ,Highest Educational Attainment,12,Elementary, Grade 2
+form11_2015,educ,Highest Educational Attainment,13,Elementary, Grade 3
+form11_2015,educ,Highest Educational Attainment,14,Elementary, Grade 4
+form11_2015,educ,Highest Educational Attainment,15,Elementary, Grade 5
+form11_2015,educ,Highest Educational Attainment,16,Elementary, Grade 6(If with Grade 7)
+form11_2015,educ,Highest Educational Attainment,17,Elementary Graduate
+form11_2015,educ,Highest Educational Attainment,21,1st Year HS/Grade 7
+form11_2015,educ,Highest Educational Attainment,22,2nd Year HS/Grade 8
+form11_2015,educ,Highest Educational Attainment,23,3rd Year HS/Grade 9
+form11_2015,educ,Highest Educational Attainment,24,4th Year HS/Grade 10
+form11_2015,educ,Highest Educational Attainment,25,Grade 11  
+form11_2015,educ,Highest Educational Attainment,26,Grade 12  
+form11_2015,educ,Highest Educational Attainment,27,High School Graduate
+form11_2015,educ,Highest Educational Attainment,41,1st Year Vocational 
+form11_2015,educ,Highest Educational Attainment,42,2nd Year Vocational 
+form11_2015,educ,Highest Educational Attainment,43,Graduate Vocational  
+form11_2015,educ,Highest Educational Attainment,51,1st Year College 
+form11_2015,educ,Highest Educational Attainment,52,2nd Year College 
+form11_2015,educ,Highest Educational Attainment,53,3rd Year College 
+form11_2015,educ,Highest Educational Attainment,54,4th/5th Year College 
+form11_2015,educ,Highest Educational Attainment,55,College Graduate  
+form11_2015,educ,Highest Educational Attainment,66,Master's Graduate  
+form11_2015,educ,Highest Educational Attainment,67,PhD Graduate  
+form11_2015,educ,Highest Educational Attainment,77,Alternative Learning System (ALS)
+form11_2015,educ,Highest Educational Attainment,78,Special Education (SPED)
+form11_2015,educ,Highest Educational Attainment,99,Not Applicable (less than 3 yrs. old/not schooling yet)
+form11_2015,educ,Highest Educational Attainment,9999,Missing   
+form11_2015,fwgt,Sampling Weights,,
+form11_2015,haswork,Current work,0,No Occupation 
+form11_2015,haswork,Current work,1,Housekeeper  
+form11_2015,haswork,Current work,2,Student  
+form11_2015,haswork,Current work,3,Pensioner  
+form11_2015,haswork,Current work,11,With Job/Business
+form11_2015,haswork,Current work,12,With Job/Business & Student
+form11_2015,haswork,Current work,99,Not Applicable(less than 10 years old)
+form11_2015,hhnum,Household Number (Unique identifier; merging variable),,
+form11_2015,member_code,Member Code  (Unique identifier; merging variable),,
+form11_2015,occup,Present Occupation  ,0,Special Occupations, Military Officers and Enlisted men, AFP,  CAFGU
+form11_2015,occup,Present Occupation  ,1,Managers, Officials of government and special interest organizations; Corporate executives, Managers and Supervisors, Entrepreneurs, Sales supervisors, School supervisors and principals, Elected Barangay  or LGU  officials
+form11_2015,occup,Present Occupation  ,2,Professionals     
+form11_2015,occup,Present Occupation  ,3,Technicians, Associate Professionals, Computer  Assistants, Midwife, Hilot, Faith healers, Brokers, Detectives, Artists, Writers, Entertainers, Senior Police Officers, BNS, BHW, Arabic Teachers, Tutors, Pastors
+form11_2015,occup,Present Occupation  ,4,Clerks, Cashiers, Secretaries, Tellers, Brgy. Treasurer, Brgy.   Secretary
+form11_2015,occup,Present Occupation  ,5,Service Workers, Shop/Market Sales Workers, Tourist Guides, Care Givers, Waiters, Housekeepers, Manghuhula, Military Police, Guards, Fashion designers, Models, Call Center workers, Brgy. Tanod, Police Officers (Rank and File), Fireman
+form11_2015,occup,Present Occupation  ,6,Farmers, Forestry Workers, Fishermen, Livestock/poultry raisers, loggers, Hunters, Farm Owners/Managers, Tenants (small and large)
+form11_2015,occup,Present Occupation  ,7,Skilled and Related Workers, Miners, carvers, Carpenters, Painters, Tinsmith, Blacksmith, Mechanics, electricians, Potters, Glassmakers, Handicraft makers, Sewers, Shoemakers
+form11_2015,occup,Present Occupation  ,8,Plant and Machine Operators, Assemblers, Drivers, Ship deck crews
+form11_2015,occup,Present Occupation  ,9,Laborers and Unskilled Workers, Vendors, Domestic Helpers, Messengers, Caretakers, Bus Conductors, Barkers, Porters, Small lottery collector (h’weteng kubrador), Pedicab or kalesa driver (not machine operated), Farm laborers
+form11_2015,occup,Present Occupation  ,11,Other Occupation Not Stated/Not Elsewhere Classified
+form11_2015,occup,Present Occupation  ,12,No Occupation/Pensioner/Full-time Student
+form11_2015,occup,Present Occupation  ,99,Not Applicable 
+form11_2015,provcode,Name of Provinces,1,ABRA
+form11_2015,provcode,Name of Provinces,2,AGUSAN DEL NORTE
+form11_2015,provcode,Name of Provinces,3,AGUSAN DEL SUR
+form11_2015,provcode,Name of Provinces,4,AKLAN
+form11_2015,provcode,Name of Provinces,5,ALBAY
+form11_2015,provcode,Name of Provinces,6,ANTIQUE
+form11_2015,provcode,Name of Provinces,7,BASILAN
+form11_2015,provcode,Name of Provinces,8,BATAAN
+form11_2015,provcode,Name of Provinces,10,BATANGAS
+form11_2015,provcode,Name of Provinces,11,BENGUET
+form11_2015,provcode,Name of Provinces,12,BOHOL
+form11_2015,provcode,Name of Provinces,13,BUKIDNON
+form11_2015,provcode,Name of Provinces,14,BULACAN
+form11_2015,provcode,Name of Provinces,15,CAGAYAN
+form11_2015,provcode,Name of Provinces,16,CAMARINES NORTE
+form11_2015,provcode,Name of Provinces,17,CAMARINES SUR
+form11_2015,provcode,Name of Provinces,18,CAMIGUIN
+form11_2015,provcode,Name of Provinces,19,CAPIZ
+form11_2015,provcode,Name of Provinces,20,CATANDUANES
+form11_2015,provcode,Name of Provinces,21,CAVITE
+form11_2015,provcode,Name of Provinces,22,CEBU
+form11_2015,provcode,Name of Provinces,23,DAVAO (DAVAO DEL NORTE)
+form11_2015,provcode,Name of Provinces,24,DAVAO DEL SUR
+form11_2015,provcode,Name of Provinces,25,DAVAO ORIENTAL
+form11_2015,provcode,Name of Provinces,26,EASTERN SAMAR
+form11_2015,provcode,Name of Provinces,27,IFUGAO
+form11_2015,provcode,Name of Provinces,28,ILOCOS NORTE
+form11_2015,provcode,Name of Provinces,29,ILOCOS SUR
+form11_2015,provcode,Name of Provinces,30,ILOILO
+form11_2015,provcode,Name of Provinces,31,ISABELA
+form11_2015,provcode,Name of Provinces,32,KALINGA
+form11_2015,provcode,Name of Provinces,33,LA UNION
+form11_2015,provcode,Name of Provinces,34,LAGUNA
+form11_2015,provcode,Name of Provinces,35,LANAO DEL NORTE
+form11_2015,provcode,Name of Provinces,36,LANAO DEL SUR
+form11_2015,provcode,Name of Provinces,37,LEYTE
+form11_2015,provcode,Name of Provinces,38,MAGUINDANAO
+form11_2015,provcode,Name of Provinces,39,NCR - MANILA FIRST DISTRICT
+form11_2015,provcode,Name of Provinces,40,MARINDUQUE
+form11_2015,provcode,Name of Provinces,41,MASBATE
+form11_2015,provcode,Name of Provinces,42,MISAMIS OCCIDENTAL
+form11_2015,provcode,Name of Provinces,43,MISAMIS ORIENTAL
+form11_2015,provcode,Name of Provinces,44,MOUNTAIN PROVINCE
+form11_2015,provcode,Name of Provinces,45,NEGROS OCCIDENTAL
+form11_2015,provcode,Name of Provinces,46,NEGROS ORIENTAL
+form11_2015,provcode,Name of Provinces,47,NORTH COTABATO
+form11_2015,provcode,Name of Provinces,48,NORTHERN SAMAR
+form11_2015,provcode,Name of Provinces,49,NUEVA ECIJA
+form11_2015,provcode,Name of Provinces,50,NUEVA VIZCAYA
+form11_2015,provcode,Name of Provinces,51,OCCIDENTAL MINDORO
+form11_2015,provcode,Name of Provinces,52,ORIENTAL MINDORO
+form11_2015,provcode,Name of Provinces,53,PALAWAN
+form11_2015,provcode,Name of Provinces,54,PAMPANGA
+form11_2015,provcode,Name of Provinces,55,PANGASINAN
+form11_2015,provcode,Name of Provinces,56,QUEZON
+form11_2015,provcode,Name of Provinces,57,QUIRINO
+form11_2015,provcode,Name of Provinces,58,RIZAL
+form11_2015,provcode,Name of Provinces,59,ROMBLON
+form11_2015,provcode,Name of Provinces,60,WESTERN SAMAR
+form11_2015,provcode,Name of Provinces,61,SIQUIJOR
+form11_2015,provcode,Name of Provinces,62,SORSOGON
+form11_2015,provcode,Name of Provinces,63,SOUTH COTABATO
+form11_2015,provcode,Name of Provinces,64,SOUTHERN LEYTE
+form11_2015,provcode,Name of Provinces,65,SULTAN KUDARAT
+form11_2015,provcode,Name of Provinces,66,SULU
+form11_2015,provcode,Name of Provinces,67,SURIGAO DEL NORTE
+form11_2015,provcode,Name of Provinces,68,SURIGAO DEL SUR
+form11_2015,provcode,Name of Provinces,69,TARLAC
+form11_2015,provcode,Name of Provinces,70,TAWI-TAWI
+form11_2015,provcode,Name of Provinces,71,ZAMBALES
+form11_2015,provcode,Name of Provinces,72,ZAMBOANGA DEL NORTE
+form11_2015,provcode,Name of Provinces,73,ZAMBOANGA DEL SUR
+form11_2015,provcode,Name of Provinces,74,NCR SECOND DISTRICT
+form11_2015,provcode,Name of Provinces,75,NCR THIRD DISTRICT
+form11_2015,provcode,Name of Provinces,76,NCR FOURTH DISTRICT
+form11_2015,provcode,Name of Provinces,77,AURORA
+form11_2015,provcode,Name of Provinces,78,BILIRAN
+form11_2015,provcode,Name of Provinces,79,GUIMARAS
+form11_2015,provcode,Name of Provinces,80,SARANGANI
+form11_2015,provcode,Name of Provinces,81,APAYAO
+form11_2015,provcode,Name of Provinces,82,COMPOSTELA VALLEY
+form11_2015,provcode,Name of Provinces,83,ZAMBOANGA SIBUGAY
+form11_2015,provcode,Name of Provinces,97,ISABELA CITY
+form11_2015,provcode,Name of Provinces,98,COTABATO CITY
+form11_2015,psc,Physiological Status Code,0,Non-pregnant/Non-lactating female members
+form11_2015,psc,Physiological Status Code,1,Pregnant, 1 month   
+form11_2015,psc,Physiological Status Code,2,Pregnant, 2 months
+form11_2015,psc,Physiological Status Code,3,Pregnant, 3 months
+form11_2015,psc,Physiological Status Code,4,Pregnant, 4 months
+form11_2015,psc,Physiological Status Code,5,Pregnant, 5 months
+form11_2015,psc,Physiological Status Code,6,Pregnant, 6 months
+form11_2015,psc,Physiological Status Code,7,Pregnant, 7 months
+form11_2015,psc,Physiological Status Code,8,Pregnant, 8 months
+form11_2015,psc,Physiological Status Code,9,Pregnant, 9 months
+form11_2015,psc,Physiological Status Code,10,Lactating, 0- 6 months
+form11_2015,psc,Physiological Status Code,11,Lactating, 7-12 months
+form11_2015,psc,Physiological Status Code,12,Lactating, over 1year
+form11_2015,psc,Physiological Status Code,99,Male Member
+form11_2015,psurec,Primary Sampling Unit,,
+form11_2015,regcode,Name of Regions,1,ILOCOS REGION
+form11_2015,regcode,Name of Regions,2,CAGAYAN VALLEY
+form11_2015,regcode,Name of Regions,3,CENTRAL LUZON
+form11_2015,regcode,Name of Regions,5,BICOL
+form11_2015,regcode,Name of Regions,6,WESTERN VISAYAS
+form11_2015,regcode,Name of Regions,7,CENTRAL VISAYAS
+form11_2015,regcode,Name of Regions,8,EASTERN VISAYAS
+form11_2015,regcode,Name of Regions,9,ZAMBOANGA PENINSULA
+form11_2015,regcode,Name of Regions,10,NORTHERN MINDANAO
+form11_2015,regcode,Name of Regions,11,DAVAO REGION
+form11_2015,regcode,Name of Regions,12,SOCCSKSARGEN
+form11_2015,regcode,Name of Regions,13,NATIONAL CAPITAL REGION
+form11_2015,regcode,Name of Regions,14,CORDILLERA ADMINISTRATIVE REGION
+form11_2015,regcode,Name of Regions,15,ARMM
+form11_2015,regcode,Name of Regions,16,CARAGA
+form11_2015,regcode,Name of Regions,41,CALABARZON
+form11_2015,regcode,Name of Regions,42,MIMAROPA
+form11_2015,rhc,Relation to Household Head  Code,1,Head
+form11_2015,rhc,Relation to Household Head  Code,2,Husband/Wife  
+form11_2015,rhc,Relation to Household Head  Code,3,Son  
+form11_2015,rhc,Relation to Household Head  Code,4,Daughter  
+form11_2015,rhc,Relation to Household Head  Code,5,Stepson  
+form11_2015,rhc,Relation to Household Head  Code,6,Stepdaughter  
+form11_2015,rhc,Relation to Household Head  Code,7,Son-in-law
+form11_2015,rhc,Relation to Household Head  Code,8,Daughter-in-law
+form11_2015,rhc,Relation to Household Head  Code,9,Grandson  
+form11_2015,rhc,Relation to Household Head  Code,10,Granddaughter  
+form11_2015,rhc,Relation to Household Head  Code,11,Father  
+form11_2015,rhc,Relation to Household Head  Code,12,Mother  
+form11_2015,rhc,Relation to Household Head  Code,13,Brother  
+form11_2015,rhc,Relation to Household Head  Code,14,Sister  
+form11_2015,rhc,Relation to Household Head  Code,15,Uncle  
+form11_2015,rhc,Relation to Household Head  Code,16,Aunt  
+form11_2015,rhc,Relation to Household Head  Code,17,Nephew  
+form11_2015,rhc,Relation to Household Head  Code,18,Niece  
+form11_2015,rhc,Relation to Household Head  Code,19,Other Relatives
+form11_2015,rhc,Relation to Household Head  Code,20,Non-relative  
+form11_2015,rhc,Relation to Household Head  Code,21,Boarder  
+form11_2015,rhc,Relation to Household Head  Code,22,Domestic Helper 
+form11_2015,sex,Sex of Respondent,1,Male
+form11_2015,sex,Sex of Respondent,2,Female
+form11_2015,strrec,Strata Code,,

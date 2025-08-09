@@ -1,0 +1,200 @@
+formno,variable_name,variable_label,var_value,value_label
+form31_2011,supp4,Multivitamins,0 ,Didn't take supplements
+form31_2011,supp4,Multivitamins,1 ,Take supplements
+form31_2011,supp4,Multivitamins,99, NA
+form31_2011,prenatal_ser9,Physical Examination including IE,0 ,No
+form31_2011,prenatal_ser9,Physical Examination including IE,1 ,Yes
+form31_2011,prenatal_ser9,Physical Examination including IE,88, Do not Know/Missing
+form31_2011,prenatal_ser9,Physical Examination including IE,99, NA
+form31_2011,provcode,Name of Provinces,1 ,Abra
+form31_2011,provcode,Name of Provinces,2 ,Agusan Del Norte
+form31_2011,provcode,Name of Provinces,3 ,Agusan Del Sur
+form31_2011,provcode,Name of Provinces,4 ,Aklan
+form31_2011,provcode,Name of Provinces,5 ,Albay
+form31_2011,provcode,Name of Provinces,6 ,Antique
+form31_2011,provcode,Name of Provinces,7 ,Basilan
+form31_2011,provcode,Name of Provinces,8 ,Bataan
+form31_2011,provcode,Name of Provinces,10, Batangas
+form31_2011,provcode,Name of Provinces,11, Benguet
+form31_2011,provcode,Name of Provinces,12, Bohol
+form31_2011,provcode,Name of Provinces,13, Bukidnon
+form31_2011,provcode,Name of Provinces,14, Bulacan
+form31_2011,provcode,Name of Provinces,15, Cagayan
+form31_2011,provcode,Name of Provinces,16, Camarines Norte
+form31_2011,provcode,Name of Provinces,17, Camarines Sur
+form31_2011,provcode,Name of Provinces,18, Camiguin
+form31_2011,provcode,Name of Provinces,19, Capiz
+form31_2011,provcode,Name of Provinces,20, Catanduanes
+form31_2011,provcode,Name of Provinces,21, Cavite
+form31_2011,provcode,Name of Provinces,22, Cebu
+form31_2011,provcode,Name of Provinces,23, Davao (Davao Del Norte)
+form31_2011,provcode,Name of Provinces,24, Davao Del Sur
+form31_2011,provcode,Name of Provinces,25, Davao Oriental
+form31_2011,provcode,Name of Provinces,26, Eastern Samar
+form31_2011,provcode,Name of Provinces,27, Ifugao
+form31_2011,provcode,Name of Provinces,28, Ilocos Norte
+form31_2011,provcode,Name of Provinces,29, Ilocos Sur
+form31_2011,provcode,Name of Provinces,30, Iloilo
+form31_2011,provcode,Name of Provinces,31, Isabela
+form31_2011,provcode,Name of Provinces,32, Kalinga
+form31_2011,provcode,Name of Provinces,33, La Union
+form31_2011,provcode,Name of Provinces,34, Laguna
+form31_2011,provcode,Name of Provinces,35, Lanao Del Norte
+form31_2011,provcode,Name of Provinces,36, Lanao Del Sur
+form31_2011,provcode,Name of Provinces,37, Leyte
+form31_2011,provcode,Name of Provinces,38, Maguindanao
+form31_2011,provcode,Name of Provinces,39, NCR - Manila First District
+form31_2011,provcode,Name of Provinces,40, Marinduque
+form31_2011,provcode,Name of Provinces,41, Masbate
+form31_2011,provcode,Name of Provinces,42, Misamis Occidental
+form31_2011,provcode,Name of Provinces,43, Misamis Oriental
+form31_2011,provcode,Name of Provinces,44, Mountain Province
+form31_2011,provcode,Name of Provinces,45, Negros Occidental
+form31_2011,provcode,Name of Provinces,46, Negros Oriental
+form31_2011,provcode,Name of Provinces,47, North Cotabato
+form31_2011,provcode,Name of Provinces,48, Northern Samar
+form31_2011,provcode,Name of Provinces,49, Nueva Ecija
+form31_2011,provcode,Name of Provinces,50, Nueva Vizcaya
+form31_2011,provcode,Name of Provinces,51, Occidental Mindoro
+form31_2011,provcode,Name of Provinces,52, Oriental Mindoro
+form31_2011,provcode,Name of Provinces,53, Palawan
+form31_2011,provcode,Name of Provinces,54, Pampanga
+form31_2011,provcode,Name of Provinces,55, Pangasinan
+form31_2011,provcode,Name of Provinces,56, Quezon
+form31_2011,provcode,Name of Provinces,57, Quirino
+form31_2011,provcode,Name of Provinces,58, Rizal
+form31_2011,provcode,Name of Provinces,59, Romblon
+form31_2011,provcode,Name of Provinces,60, Western Samar
+form31_2011,provcode,Name of Provinces,61, Siquijor
+form31_2011,provcode,Name of Provinces,62, Sorsogon
+form31_2011,provcode,Name of Provinces,63, South Cotabato
+form31_2011,provcode,Name of Provinces,64, Southern Leyte
+form31_2011,provcode,Name of Provinces,65, Sultan Kudarat
+form31_2011,provcode,Name of Provinces,66, Sulu
+form31_2011,provcode,Name of Provinces,67, Surigao Del Norte
+form31_2011,provcode,Name of Provinces,68, Surigao Del Sur
+form31_2011,provcode,Name of Provinces,69, Tarlac
+form31_2011,provcode,Name of Provinces,70, Tawi-Tawi
+form31_2011,provcode,Name of Provinces,71, Zambales
+form31_2011,provcode,Name of Provinces,72, Zamboanga Del Norte
+form31_2011,provcode,Name of Provinces,73, Zamboanga Del Sur
+form31_2011,provcode,Name of Provinces,74, NCR Second District
+form31_2011,provcode,Name of Provinces,75, NCR Third District
+form31_2011,provcode,Name of Provinces,76, NCR Fourth District
+form31_2011,provcode,Name of Provinces,77, Aurora
+form31_2011,provcode,Name of Provinces,78, Biliran
+form31_2011,provcode,Name of Provinces,79, Guimaras
+form31_2011,provcode,Name of Provinces,80, Sarangani
+form31_2011,provcode,Name of Provinces,81, Apayao
+form31_2011,provcode,Name of Provinces,82, Compostela Valley
+form31_2011,provcode,Name of Provinces,83, Zamboanga Sibugay
+form31_2011,provcode,Name of Provinces,97, Isabela City
+form31_2011,provcode,Name of Provinces,98, Cotabato City
+form31_2011,psurec,Primary Sampling Unit,,
+form31_2011,regcode,Name of Regions,1 ,Ilocos
+form31_2011,regcode,Name of Regions,2 ,Cagayan Valley
+form31_2011,regcode,Name of Regions,3 ,Central Luzon
+form31_2011,regcode,Name of Regions,5 ,Bicol
+form31_2011,regcode,Name of Regions,6 ,Western Visayas
+form31_2011,regcode,Name of Regions,7 ,Central Visayas
+form31_2011,regcode,Name of Regions,8 ,Eastern Visayas
+form31_2011,regcode,Name of Regions,9 ,Zamboanga Peninsula
+form31_2011,regcode,Name of Regions,10, Northern Mindanao
+form31_2011,regcode,Name of Regions,11, Davao Region
+form31_2011,regcode,Name of Regions,12,SOCCSKSARGEN
+form31_2011,regcode,Name of Regions,13, National Capital Region
+form31_2011,regcode,Name of Regions,14, Cordillera Administrative Region
+form31_2011,regcode,Name of Regions,15, ARMM 
+form31_2011,regcode,Name of Regions,16, CARAGA
+form31_2011,regcode,Name of Regions,41, CALABARZON
+form31_2011,regcode,Name of Regions,42, MIMAROPA
+form31_2011,strrec,Strata Code,,
+form31_2011,supp1,Ferrous Sulfate,0 ,Didn't take supplements
+form31_2011,supp1,Ferrous Sulfate,1 ,Take supplements
+form31_2011,supp1,Ferrous Sulfate,99, NA
+form31_2011,supp2,Folic Acid,0 ,Didn't take supplements
+form31_2011,supp2,Folic Acid,1 ,Take supplements
+form31_2011,supp2,Folic Acid,99, NA
+form31_2011,supp3,Iron-Folic Acid,0 ,Didn't take supplements
+form31_2011,supp3,Iron-Folic Acid,1 ,Take supplements
+form31_2011,supp3,Iron-Folic Acid,99, NA
+form31_2011,prenatal_ser8,Nutrition Counseling,0 ,No
+form31_2011,prenatal_ser8,Nutrition Counseling,1 ,Yes
+form31_2011,prenatal_ser8,Nutrition Counseling,99, NA
+form31_2011,take_vitmin,Take/Currently Taking Vitamins,0 ,without supplement
+form31_2011,take_vitmin,Take/Currently Taking Vitamins,1 ,with supplement
+form31_2011,wash_hand1,Wash Hand: Before Food Preparation,0 ,0 No
+form31_2011,wash_hand1,Wash Hand: Before Food Preparation,1 ,1 Yes
+form31_2011,wash_hand1,Wash Hand: Before Food Preparation,9999,9999 No Answer/NA
+form31_2011,wash_hand2,Wash Hand: Before Eating,0 ,0 No
+form31_2011,wash_hand2,Wash Hand: Before Eating,1 ,1 Yes
+form31_2011,wash_hand2,Wash Hand: Before Eating,9999,9999 No Answer/NA
+form31_2011,wash_hand3,Wash Hand: After Eating,0 ,0 No
+form31_2011,wash_hand3,Wash Hand: After Eating,1 ,1 Yes
+form31_2011,wash_hand3,Wash Hand: After Eating,9999,9999 No Answer/NA
+form31_2011,wash_hand4,Wash Hand: After Toilet Use,0 ,0 No
+form31_2011,wash_hand4,Wash Hand: After Toilet Use,1 ,1 Yes
+form31_2011,wash_hand4,Wash Hand: After Toilet Use,9999,9999 No Answer/NA
+form31_2011,wash_hand5,Wash Hand: Before Feeding the  Child,0 ,0 No
+form31_2011,wash_hand5,Wash Hand: Before Feeding the  Child,1 ,1 Yes
+form31_2011,wash_hand5,Wash Hand: Before Feeding the  Child,9999,9999 No Answer/NA
+form31_2011,wash_hand6,Wash Hand: After Attending to A Child Who Defecated,0 ,0 No
+form31_2011,wash_hand6,Wash Hand: After Attending to A Child Who Defecated,1 ,1 Yes
+form31_2011,wash_hand6,Wash Hand: After Attending to A Child Who Defecated,9999,9999 No Answer/NA
+form31_2011,preg_compli,Had Health Problems Related to Current/Last Pregnancy,0 ,No
+form31_2011,preg_compli,Had Health Problems Related to Current/Last Pregnancy,1 ,Yes
+form31_2011,preg_compli,Had Health Problems Related to Current/Last Pregnancy,88, No Answer
+form31_2011,preg_compli,Had Health Problems Related to Current/Last Pregnancy,99, NA
+form31_2011,hhnum,Household Number  (Unique identifier; merging variable),,
+form31_2011,member_code,Member Code (Unique identifier; merging variable),,
+form31_2011,month_bf,Knowledge of Number of Months of Exclusively Breastfeeding,,
+form31_2011,month_comf,Knowledge of Number of Months When to Give Other Food Other Than Breast Milk,,
+form31_2011,pnc_avail,Availed Pre-Natal Check-Up,0 ,No
+form31_2011,pnc_avail,Availed Pre-Natal Check-Up,1 ,Yes
+form31_2011,pnc_months,Month of Pre-Natal Check-Up,1 ,Month
+form31_2011,pnc_months,Month of Pre-Natal Check-Up,2 ,Months
+form31_2011,pnc_months,Month of Pre-Natal Check-Up,3 ,Months
+form31_2011,pnc_months,Month of Pre-Natal Check-Up,4 ,Months
+form31_2011,pnc_months,Month of Pre-Natal Check-Up,5 ,Months
+form31_2011,pnc_months,Month of Pre-Natal Check-Up,6 ,Months
+form31_2011,pnc_months,Month of Pre-Natal Check-Up,7 ,Months
+form31_2011,pnc_months,Month of Pre-Natal Check-Up,8 ,Months
+form31_2011,pnc_months,Month of Pre-Natal Check-Up,9 ,Months
+form31_2011,pnc_months,Month of Pre-Natal Check-Up,88, Do not Know/ Missing
+form31_2011,pnc_months,Month of Pre-Natal Check-Up,99, NA (No pre-natal care)
+form31_2011,pnc_ontime,Pre-Natal Check-Up on Time,0 ,No
+form31_2011,pnc_ontime,Pre-Natal Check-Up on Time,1 ,Yes
+form31_2011,pnc_ontime,Pre-Natal Check-Up on Time,88, Do not Know/Missing
+form31_2011,pnc_ontime,Pre-Natal Check-Up on Time,99, NA
+form31_2011,postnatal_avail,Importance of Post Natal Check Up,0 ,No
+form31_2011,postnatal_avail,Importance of Post Natal Check Up,1 ,Yes
+form31_2011,postnatal_avail,Importance of Post Natal Check Up,88, No Answer
+form31_2011,finalwgt,Sampling Weights,,
+form31_2011,prenatal_ser1,Weight and Height Measurement,0 ,No
+form31_2011,prenatal_ser1,Weight and Height Measurement,1 ,Yes
+form31_2011,prenatal_ser1,Weight and Height Measurement,88, Do not Know/Missing
+form31_2011,prenatal_ser1,Weight and Height Measurement,99, NA
+form31_2011,prenatal_ser2,BP Treatment,0 ,No
+form31_2011,prenatal_ser2,BP Treatment,1 ,Yes
+form31_2011,prenatal_ser2,BP Treatment,88, Do not Know/Missing
+form31_2011,prenatal_ser2,BP Treatment,99, NA
+form31_2011,prenatal_ser3,Blood Test,0 ,No
+form31_2011,prenatal_ser3,Blood Test,1 ,Yes
+form31_2011,prenatal_ser3,Blood Test,88, Do not Know/Missing
+form31_2011,prenatal_ser3,Blood Test,99, NA
+form31_2011,prenatal_ser4,Urinalysis,0 ,No
+form31_2011,prenatal_ser4,Urinalysis,1 ,Yes
+form31_2011,prenatal_ser4,Urinalysis,88, Do not Know/Missing
+form31_2011,prenatal_ser4,Urinalysis,99, NA
+form31_2011,prenatal_ser5,Ultrasound,0 ,No
+form31_2011,prenatal_ser5,Ultrasound,1 ,Yes
+form31_2011,prenatal_ser5,Ultrasound,88, Do not Know/Missing
+form31_2011,prenatal_ser5,Ultrasound,99, NA
+form31_2011,prenatal_ser6,Vitamins/Micronutrient Supplementation,0 ,No
+form31_2011,prenatal_ser6,Vitamins/Micronutrient Supplementation,1 ,Yes
+form31_2011,prenatal_ser6,Vitamins/Micronutrient Supplementation,88, Do not Know/Missing
+form31_2011,prenatal_ser6,Vitamins/Micronutrient Supplementation,99, NA
+form31_2011,prenatal_ser7,Tetanus Toxoid Vaccine,0 ,No
+form31_2011,prenatal_ser7,Tetanus Toxoid Vaccine,1 ,Yes
+form31_2011,prenatal_ser7,Tetanus Toxoid Vaccine,88, Do not Know/Missing
+form31_2011,prenatal_ser7,Tetanus Toxoid Vaccine,99, NA

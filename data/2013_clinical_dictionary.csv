@@ -1,0 +1,159 @@
+formno,variable_name,variable_label,var_value,value_label
+form71_2013,finalwgt1,Sampling Weights [4_Replicate],,
+form71_2013,tri,Actual Values for Triglyceride,,
+form71_2013,strrec,Strata,,
+form71_2013,smoke_status,Smoking Status (Generated),0,Never
+form71_2013,smoke_status,Smoking Status (Generated),1,Current
+form71_2013,smoke_status,Smoking Status (Generated),2,Former
+form71_2013,sex,Sex of Respondent,1,Male
+form71_2013,sex,Sex of Respondent,2,Female
+form71_2013,regcode,Name of Regions,1,ILOCOS REGION
+form71_2013,regcode,Name of Regions,2,CAGAYAN VALLEY
+form71_2013,regcode,Name of Regions,3,CENTRAL LUZON
+form71_2013,regcode,Name of Regions,5,BICOL
+form71_2013,regcode,Name of Regions,6,WESTERN VISAYAS
+form71_2013,regcode,Name of Regions,7,CENTRAL VISAYAS
+form71_2013,regcode,Name of Regions,8,EASTERN VISAYAS
+form71_2013,regcode,Name of Regions,9,ZAMBOANGA PENINSULA
+form71_2013,regcode,Name of Regions,10,NORTHERN MINDANAO
+form71_2013,regcode,Name of Regions,11,DAVAO REGION
+form71_2013,regcode,Name of Regions,12,SOCCSKSARGEN
+form71_2013,regcode,Name of Regions,13,NATIONAL CAPITAL REGION
+form71_2013,regcode,Name of Regions,14,CORDILLERA ADMINISTRATIVE REGION
+form71_2013,regcode,Name of Regions,15,ARMM
+form71_2013,regcode,Name of Regions,16,CARAGA
+form71_2013,regcode,Name of Regions,41,CALABARZON
+form71_2013,regcode,Name of Regions,42,MIMAROPA
+form71_2013,psurec,Primary Sampling Unit,,
+form71_2013,psc,Physiological Status Code,0,NP/NL (Non-Pregnant/Non-Lactating)
+form71_2013,psc,Physiological Status Code,1,Pregnant (P) Women
+form71_2013,psc,Physiological Status Code,2,Lactating (L) Mothers
+form71_2013,psc,Physiological Status Code,99,Male
+form71_2013,provcode,Name of Provinces,1,ABRA
+form71_2013,provcode,Name of Provinces,2,AGUSAN DEL NORTE
+form71_2013,provcode,Name of Provinces,3,AGUSAN DEL SUR
+form71_2013,provcode,Name of Provinces,4,AKLAN
+form71_2013,provcode,Name of Provinces,5,ALBAY
+form71_2013,provcode,Name of Provinces,6,ANTIQUE
+form71_2013,provcode,Name of Provinces,7,BASILAN
+form71_2013,provcode,Name of Provinces,8,BATAAN
+form71_2013,provcode,Name of Provinces,10,BATANGAS
+form71_2013,provcode,Name of Provinces,11,BENGUET
+form71_2013,provcode,Name of Provinces,12,BOHOL
+form71_2013,provcode,Name of Provinces,13,BUKIDNON
+form71_2013,provcode,Name of Provinces,14,BULACAN
+form71_2013,provcode,Name of Provinces,15,CAGAYAN
+form71_2013,provcode,Name of Provinces,16,CAMARINES NORTE
+form71_2013,provcode,Name of Provinces,17,CAMARINES SUR
+form71_2013,provcode,Name of Provinces,18,CAMIGUIN
+form71_2013,provcode,Name of Provinces,19,CAPIZ
+form71_2013,provcode,Name of Provinces,20,CATANDUANES
+form71_2013,provcode,Name of Provinces,21,CAVITE
+form71_2013,provcode,Name of Provinces,22,CEBU
+form71_2013,provcode,Name of Provinces,23,DAVAO (DAVAO DEL NORTE)
+form71_2013,provcode,Name of Provinces,24,DAVAO DEL SUR
+form71_2013,provcode,Name of Provinces,25,DAVAO ORIENTAL
+form71_2013,provcode,Name of Provinces,26,EASTERN SAMAR
+form71_2013,provcode,Name of Provinces,27,IFUGAO
+form71_2013,provcode,Name of Provinces,28,ILOCOS NORTE
+form71_2013,provcode,Name of Provinces,29,ILOCOS SUR
+form71_2013,provcode,Name of Provinces,30,ILOILO
+form71_2013,provcode,Name of Provinces,31,ISABELA
+form71_2013,provcode,Name of Provinces,32,KALINGA
+form71_2013,provcode,Name of Provinces,33,LA UNION
+form71_2013,provcode,Name of Provinces,34,LAGUNA
+form71_2013,provcode,Name of Provinces,35,LANAO DEL NORTE
+form71_2013,provcode,Name of Provinces,36,LANAO DEL SUR
+form71_2013,provcode,Name of Provinces,37,LEYTE
+form71_2013,provcode,Name of Provinces,38,MAGUINDANAO
+form71_2013,provcode,Name of Provinces,39,NCR - MANILA FIRST DISTRICT
+form71_2013,provcode,Name of Provinces,40,MARINDUQUE
+form71_2013,provcode,Name of Provinces,41,MASBATE
+form71_2013,provcode,Name of Provinces,42,MISAMIS OCCIDENTAL
+form71_2013,provcode,Name of Provinces,43,MISAMIS ORIENTAL
+form71_2013,provcode,Name of Provinces,44,MOUNTAIN PROVINCE
+form71_2013,provcode,Name of Provinces,45,NEGROS OCCIDENTAL
+form71_2013,provcode,Name of Provinces,46,NEGROS ORIENTAL
+form71_2013,provcode,Name of Provinces,47,NORTH COTABATO
+form71_2013,provcode,Name of Provinces,48,NORTHERN SAMAR
+form71_2013,provcode,Name of Provinces,49,NUEVA ECIJA
+form71_2013,provcode,Name of Provinces,50,NUEVA VIZCAYA
+form71_2013,provcode,Name of Provinces,51,OCCIDENTAL MINDORO
+form71_2013,provcode,Name of Provinces,52,ORIENTAL MINDORO
+form71_2013,provcode,Name of Provinces,53,PALAWAN
+form71_2013,provcode,Name of Provinces,54,PAMPANGA
+form71_2013,provcode,Name of Provinces,55,PANGASINAN
+form71_2013,provcode,Name of Provinces,56,QUEZON
+form71_2013,provcode,Name of Provinces,57,QUIRINO
+form71_2013,provcode,Name of Provinces,58,RIZAL
+form71_2013,provcode,Name of Provinces,59,ROMBLON
+form71_2013,provcode,Name of Provinces,60,WESTERN SAMAR
+form71_2013,provcode,Name of Provinces,61,SIQUIJOR
+form71_2013,provcode,Name of Provinces,62,SORSOGON
+form71_2013,provcode,Name of Provinces,63,SOUTH COTABATO
+form71_2013,provcode,Name of Provinces,64,SOUTHERN LEYTE
+form71_2013,provcode,Name of Provinces,65,SULTAN KUDARAT
+form71_2013,provcode,Name of Provinces,66,SULU
+form71_2013,provcode,Name of Provinces,67,SURIGAO DEL NORTE
+form71_2013,provcode,Name of Provinces,68,SURIGAO DEL SUR
+form71_2013,provcode,Name of Provinces,69,TARLAC
+form71_2013,provcode,Name of Provinces,70,TAWI-TAWI
+form71_2013,provcode,Name of Provinces,71,ZAMBALES
+form71_2013,provcode,Name of Provinces,72,ZAMBOANGA DEL NORTE
+form71_2013,provcode,Name of Provinces,73,ZAMBOANGA DEL SUR
+form71_2013,provcode,Name of Provinces,74,NCR SECOND DISTRICT
+form71_2013,provcode,Name of Provinces,75,NCR THIRD DISTRICT
+form71_2013,provcode,Name of Provinces,76,NCR FOURTH DISTRICT
+form71_2013,provcode,Name of Provinces,77,AURORA
+form71_2013,provcode,Name of Provinces,78,BILIRAN
+form71_2013,provcode,Name of Provinces,79,GUIMARAS
+form71_2013,provcode,Name of Provinces,80,SARANGANI
+form71_2013,provcode,Name of Provinces,81,APAYAO
+form71_2013,provcode,Name of Provinces,82,COMPOSTELA VALLEY
+form71_2013,provcode,Name of Provinces,83,ZAMBOANGA SIBUGAY
+form71_2013,provcode,Name of Provinces,97,ISABELA CITY
+form71_2013,provcode,Name of Provinces,98,COTABATO CITY
+form71_2013,pa_met,General Physical Activity Classification,0,Low
+form71_2013,pa_met,General Physical Activity Classification,1,High
+form71_2013,member_code,Member Code,,
+form71_2013,ldl,Actual Values for LDL,,
+form71_2013,hhnum,Household Number,,
+form71_2013,hdl,Actual Values for HDL,,
+form71_2013,finalwgt4,Sampling Weights [1_Replicate],,
+form71_2013,age,Age of Respondent,,
+form71_2013,fbs,Actual Values for FBG,,
+form71_2013,ever_smk,Ever Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products in the Past,0,No not at all
+form71_2013,ever_smk,Ever Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products in the Past,1,Yes once a week
+form71_2013,ever_smk,Ever Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products in the Past,2,Yes 2-6 times a week
+form71_2013,ever_smk,Ever Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products in the Past,3,Yes every day
+form71_2013,ever_smk,Ever Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products in the Past,4,Yes tried once
+form71_2013,ever_smk,Ever Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products in the Past,5,Yes occasionally
+form71_2013,drnk_30d_num,Total Number of Standard Drink on Single Occasion,,
+form71_2013,drnk_30days,Consumed an Alcoholic Drink within the Past 30 Days,0,No
+form71_2013,drnk_30days,Consumed an Alcoholic Drink within the Past 30 Days,1,Yes
+form71_2013,drnk_30days,Consumed an Alcoholic Drink within the Past 30 Days,99,N/A
+form71_2013,currentsmoking,Presently Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products,0,No not at all
+form71_2013,currentsmoking,Presently Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products,1,Yes once a week
+form71_2013,currentsmoking,Presently Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products,2,Yes 2-6 times a week
+form71_2013,currentsmoking,Presently Smoke Cigarettes Cigars Pipes or Any Other Tobacco Products,3,Yes every day
+form71_2013,csc,Civil Status Code,1,Single
+form71_2013,csc,Civil Status Code,2,Married
+form71_2013,csc,Civil Status Code,3,Live-in
+form71_2013,csc,Civil Status Code,4,Widow/Widower
+form71_2013,csc,Civil Status Code,5,Separated/Annulled/Divorced
+form71_2013,csc,Civil Status Code,6,Unknown
+form71_2013,con_alcohol,Consumed an Alcoholic Drink within the Past 12 Months,0,No
+form71_2013,con_alcohol,Consumed an Alcoholic Drink within the Past 12 Months,1,Yes
+form71_2013,con_alcohol,Consumed an Alcoholic Drink within the Past 12 Months,99,N/A
+form71_2013,chol,Actual Values for Cholesterol,,
+form71_2013,binge_drink,Binge Drinking Status (Generated),0,Non-binge drinker
+form71_2013,binge_drink,Binge Drinking Status (Generated),1,Binge drinker
+form71_2013,binge_drink,Binge Drinking Status (Generated),99,N/A
+form71_2013,Ave_SBP,Average Measurement of Systolic BP (Mm Hg),,
+form71_2013,Ave_DBP,Average Measurement of Diastolic BP (Mm Hg),,
+form71_2013,alcohol_status,Alcohol Status (Generated),0,Never
+form71_2013,alcohol_status,Alcohol Status (Generated),1,Current
+form71_2013,alcohol_status,Alcohol Status (Generated),2,Former
+form71_2013,alcohol,Ever Consumed Any Alcoholic Drink Such as Beer Wine or Spirits,0,No
+form71_2013,alcohol,Ever Consumed Any Alcoholic Drink Such as Beer Wine or Spirits,1,Yes
+form71_2013,alcohol,Ever Consumed Any Alcoholic Drink Such as Beer Wine or Spirits,2,Yes occasionally during socials

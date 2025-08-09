@@ -1,0 +1,229 @@
+formno,variable_name,variable_label,var_value,value_label
+form16_2011,STRATG09_RC,Send family members to eat elsewhere? (e.g. community kitchen, school, etc.),0 ,No
+form16_2011,STRATG09_RC,Send family members to eat elsewhere? (e.g. community kitchen, school, etc.),1 ,Yes
+form16_2011,STRATG09_RC,Send family members to eat elsewhere? (e.g. community kitchen, school, etc.),9 ,NA
+form16_2011,STRATG09_RC,Send family members to eat elsewhere? (e.g. community kitchen, school, etc.),8888,missing
+form16_2011,ST1ROOTS_RC,Rely  on following less preferred and less expensive foods: root crops,0 ,No
+form16_2011,ST1ROOTS_RC,Rely  on following less preferred and less expensive foods: root crops,1 ,Yes
+form16_2011,ST1ROOTS_RC,Rely  on following less preferred and less expensive foods: root crops,9 ,NA
+form16_2011,ST1ROOTS_RC,Rely  on following less preferred and less expensive foods: root crops,8888,missing
+form16_2011,STRATG02_RC,Borrow food from neighbor/relatives/friends.,0 ,No
+form16_2011,STRATG02_RC,Borrow food from neighbor/relatives/friends.,1 ,Yes
+form16_2011,STRATG02_RC,Borrow food from neighbor/relatives/friends.,9 ,NA
+form16_2011,STRATG02_RC,Borrow food from neighbor/relatives/friends.,8888,missing
+form16_2011,STRATG03_RC,Purchase food on credit.,0 ,No
+form16_2011,STRATG03_RC,Purchase food on credit.,1 ,Yes
+form16_2011,STRATG03_RC,Purchase food on credit.,9 ,NA
+form16_2011,STRATG03_RC,Purchase food on credit.,8888,missing
+form16_2011,STRATG04_RC,Eat wild foods or harvest immature crops.,0 ,No
+form16_2011,STRATG04_RC,Eat wild foods or harvest immature crops.,1 ,Yes
+form16_2011,STRATG04_RC,Eat wild foods or harvest immature crops.,9 ,NA
+form16_2011,STRATG04_RC,Eat wild foods or harvest immature crops.,8888,missing
+form16_2011,STRATG05_RC,Reduce portion sizes of the meal.,0 ,No
+form16_2011,STRATG05_RC,Reduce portion sizes of the meal.,1 ,Yes
+form16_2011,STRATG05_RC,Reduce portion sizes of the meal.,9 ,NA
+form16_2011,STRATG05_RC,Reduce portion sizes of the meal.,8888,missing
+form16_2011,STRATG06_RC,Reduce number of meals consumed in a day.,0 ,No
+form16_2011,STRATG06_RC,Reduce number of meals consumed in a day.,1 ,Yes
+form16_2011,STRATG06_RC,Reduce number of meals consumed in a day.,9 ,NA
+form16_2011,STRATG06_RC,Reduce number of meals consumed in a day.,8888,missing
+form16_2011,STRATG07_RC,Restrict consumption for adults so that children have enough.,0 ,No
+form16_2011,STRATG07_RC,Restrict consumption for adults so that children have enough.,1 ,Yes
+form16_2011,STRATG07_RC,Restrict consumption for adults so that children have enough.,9 ,NA
+form16_2011,STRATG07_RC,Restrict consumption for adults so that children have enough.,8888,missing
+form16_2011,STRATG08_RC,Skip entire day without eating,0 ,No
+form16_2011,STRATG08_RC,Skip entire day without eating,1 ,Yes
+form16_2011,STRATG08_RC,Skip entire day without eating,9 ,NA
+form16_2011,STRATG08_RC,Skip entire day without eating,8888,missing
+form16_2011,ST1OTHER_RC,Rely on following less preferred and less expensive foods: others,0 ,No
+form16_2011,ST1OTHER_RC,Rely on following less preferred and less expensive foods: others,1 ,Yes
+form16_2011,ST1OTHER_RC,Rely on following less preferred and less expensive foods: others,9 ,NA
+form16_2011,ST1OTHER_RC,Rely on following less preferred and less expensive foods: others,8888,missing
+form16_2011,STRATG10_RC,Others (food coping strategies),0 ,No
+form16_2011,STRATG10_RC,Others (food coping strategies),1 ,Yes
+form16_2011,STRATG10_RC,Others (food coping strategies),9 ,NA
+form16_2011,STRATG10_RC,Others (food coping strategies),8888,missing
+form16_2011,STRATG11_RC,Loan from relatives.,0 ,No
+form16_2011,STRATG11_RC,Loan from relatives.,1 ,Yes
+form16_2011,STRATG11_RC,Loan from relatives.,9 ,NA
+form16_2011,STRATG11_RC,Loan from relatives.,8888,missing
+form16_2011,STRATG12_RC,Loan from non-relatives/friends.,0 ,No
+form16_2011,STRATG12_RC,Loan from non-relatives/friends.,1 ,Yes
+form16_2011,STRATG12_RC,Loan from non-relatives/friends.,9 ,NA
+form16_2011,STRATG12_RC,Loan from non-relatives/friends.,8888,missing
+form16_2011,STRATG13_RC,Sold assets.,0 ,No
+form16_2011,STRATG13_RC,Sold assets.,1 ,Yes
+form16_2011,STRATG13_RC,Sold assets.,9 ,NA
+form16_2011,STRATG13_RC,Sold assets.,8888,missing
+form16_2011,STRATG14_RC,Some members of the family migrated to look for a job.,0 ,No
+form16_2011,STRATG14_RC,Some members of the family migrated to look for a job.,1 ,Yes
+form16_2011,STRATG14_RC,Some members of the family migrated to look for a job.,9 ,NA
+form16_2011,STRATG14_RC,Some members of the family migrated to look for a job.,8888,missing
+form16_2011,STRATG15_RC,Child asked to be absent in school.,0 ,No
+form16_2011,STRATG15_RC,Child asked to be absent in school.,1 ,Yes
+form16_2011,STRATG15_RC,Child asked to be absent in school.,9 ,NA
+form16_2011,STRATG15_RC,Child asked to be absent in school.,8888,missing
+form16_2011,STRATG16_RC,Others (non-food coping strategies),0 ,No
+form16_2011,STRATG16_RC,Others (non-food coping strategies),1 ,Yes
+form16_2011,STRATG16_RC,Others (non-food coping strategies),9 ,NA
+form16_2011,STRATG16_RC,Others (non-food coping strategies),8888,missing
+form16_2011,strcode,Strata Code,,
+form16_2011,FDSEC10_RC,Food Security Question #10 “We could not feed the children nutritionally adequate meals because  we do not have enough food and enough money to buy more “,0 ,Not true
+form16_2011,FDSEC10_RC,Food Security Question #10 “We could not feed the children nutritionally adequate meals because  we do not have enough food and enough money to buy more “,1 ,True, often
+form16_2011,FDSEC10_RC,Food Security Question #10 “We could not feed the children nutritionally adequate meals because  we do not have enough food and enough money to buy more “,2 ,True, sometimes
+form16_2011,FDSEC10_RC,Food Security Question #10 “We could not feed the children nutritionally adequate meals because  we do not have enough food and enough money to buy more “,3 ,NA
+form16_2011,FDSEC10_RC,Food Security Question #10 “We could not feed the children nutritionally adequate meals because  we do not have enough food and enough money to buy more “,8888,missing
+form16_2011,FDSEC02_RC,Food Security Question #2  “Did you ever not eat for a whole day, because there was no food or money to buy food?”,0 ,Never
+form16_2011,FDSEC02_RC,Food Security Question #2  “Did you ever not eat for a whole day, because there was no food or money to buy food?”,1 ,Yes, once
+form16_2011,FDSEC02_RC,Food Security Question #2  “Did you ever not eat for a whole day, because there was no food or money to buy food?”,2 ,Yes, more than once 
+form16_2011,FDSEC02_RC,Food Security Question #2  “Did you ever not eat for a whole day, because there was no food or money to buy food?”,8888,missing
+form16_2011,FDSEC03_RC,Food Security Question #3  “Were you ever hungry but did not eat because there was no food or money to buy food?”,0 ,Never
+form16_2011,FDSEC03_RC,Food Security Question #3  “Were you ever hungry but did not eat because there was no food or money to buy food?”,1 ,Yes, once
+form16_2011,FDSEC03_RC,Food Security Question #3  “Were you ever hungry but did not eat because there was no food or money to buy food?”,2 ,Yes, more than once 
+form16_2011,FDSEC03_RC,Food Security Question #3  “Were you ever hungry but did not eat because there was no food or money to buy food?”,8888,missing
+form16_2011,FDSEC04_RC,Food Security Question #4  “Did your child/children skip eating or miss meals/food because there was no food or money to buy food?” ,0 ,Never
+form16_2011,FDSEC04_RC,Food Security Question #4  “Did your child/children skip eating or miss meals/food because there was no food or money to buy food?” ,1 ,Yes, once
+form16_2011,FDSEC04_RC,Food Security Question #4  “Did your child/children skip eating or miss meals/food because there was no food or money to buy food?” ,2 ,Yes, more than once
+form16_2011,FDSEC04_RC,Food Security Question #4  “Did your child/children skip eating or miss meals/food because there was no food or money to buy food?” ,3 ,NA (no child/1st pregnancy) 
+form16_2011,FDSEC04_RC,Food Security Question #4  “Did your child/children skip eating or miss meals/food because there was no food or money to buy food?” ,8888,missing
+form16_2011,FDSEC05_RC, Food Security Question #5 “Did your child/children ever not eat for a whole day, because there was no food or money to buy food?”,0 ,Never
+form16_2011,FDSEC05_RC, Food Security Question #5 “Did your child/children ever not eat for a whole day, because there was no food or money to buy food?”,1 ,Yes, once
+form16_2011,FDSEC05_RC, Food Security Question #5 “Did your child/children ever not eat for a whole day, because there was no food or money to buy food?”,2 ,Yes, more than once
+form16_2011,FDSEC05_RC, Food Security Question #5 “Did your child/children ever not eat for a whole day, because there was no food or money to buy food?”,3 ,NA (no child/1st pregnancy)
+form16_2011,FDSEC05_RC, Food Security Question #5 “Did your child/children ever not eat for a whole day, because there was no food or money to buy food?”,8888,missing
+form16_2011,FDSEC06_RC,Food Security Question #6 “Was/were your child/children ever hungry but did not eat because there was no food or money to buy food?”,0 ,Never
+form16_2011,FDSEC06_RC,Food Security Question #6 “Was/were your child/children ever hungry but did not eat because there was no food or money to buy food?”,1 ,Yes, once
+form16_2011,FDSEC06_RC,Food Security Question #6 “Was/were your child/children ever hungry but did not eat because there was no food or money to buy food?”,2 ,Yes, more than once
+form16_2011,FDSEC06_RC,Food Security Question #6 “Was/were your child/children ever hungry but did not eat because there was no food or money to buy food?”,3 ,NA (no child/1st pregnancy)
+form16_2011,FDSEC06_RC,Food Security Question #6 “Was/were your child/children ever hungry but did not eat because there was no food or money to buy food?”,8888,missing
+form16_2011,FDSEC07_RC,Food Security Question #7  “I worried that our food would run out before we got money to buy more”,0 ,Not true
+form16_2011,FDSEC07_RC,Food Security Question #7  “I worried that our food would run out before we got money to buy more”,1 ,True, often
+form16_2011,FDSEC07_RC,Food Security Question #7  “I worried that our food would run out before we got money to buy more”,2 ,True, sometimes
+form16_2011,FDSEC07_RC,Food Security Question #7  “I worried that our food would run out before we got money to buy more”,8888,missing
+form16_2011,FDSEC08_RC, Food Security Question #8  “The food we bought just did not last and we did not have enough money to get more”,0 ,Not true
+form16_2011,FDSEC08_RC, Food Security Question #8  “The food we bought just did not last and we did not have enough money to get more”,1 ,True, often
+form16_2011,FDSEC08_RC, Food Security Question #8  “The food we bought just did not last and we did not have enough money to get more”,2 ,True, sometimes
+form16_2011,FDSEC08_RC, Food Security Question #8  “The food we bought just did not last and we did not have enough money to get more”,3 ,NA
+form16_2011,FDSEC08_RC, Food Security Question #8  “The food we bought just did not last and we did not have enough money to get more”,8888,missing
+form16_2011,FDSEC09_RC,Food Security Question #9  “The children were not eating enough because we did not have enough food and we could not afford to buy more “,0 ,Not true
+form16_2011,FDSEC09_RC,Food Security Question #9  “The children were not eating enough because we did not have enough food and we could not afford to buy more “,1 ,True, often
+form16_2011,FDSEC09_RC,Food Security Question #9  “The children were not eating enough because we did not have enough food and we could not afford to buy more “,2 ,True, sometimes
+form16_2011,FDSEC09_RC,Food Security Question #9  “The children were not eating enough because we did not have enough food and we could not afford to buy more “,3 ,NA
+form16_2011,FDSEC09_RC,Food Security Question #9  “The children were not eating enough because we did not have enough food and we could not afford to buy more “,8888,missing
+form16_2011,FDSEC01_RC,Food Security Question #1 “Did you skip eating or miss meals/food because there was no food or money to buy food?”,0 ,Never
+form16_2011,FDSEC01_RC,Food Security Question #1 “Did you skip eating or miss meals/food because there was no food or money to buy food?”,1 ,Yes, once
+form16_2011,FDSEC01_RC,Food Security Question #1 “Did you skip eating or miss meals/food because there was no food or money to buy food?”,2 ,Yes, more than once
+form16_2011,FDSEC01_RC,Food Security Question #1 “Did you skip eating or miss meals/food because there was no food or money to buy food?”,8888,missing
+form16_2011,FDSEC11_RC,Food Security Question #11 “Was the household ever hungry or there was no food to eat? “,0 ,Never
+form16_2011,FDSEC11_RC,Food Security Question #11 “Was the household ever hungry or there was no food to eat? “,1 ,Once
+form16_2011,FDSEC11_RC,Food Security Question #11 “Was the household ever hungry or there was no food to eat? “,2 ,More than once but not frequent
+form16_2011,FDSEC11_RC,Food Security Question #11 “Was the household ever hungry or there was no food to eat? “,3 ,Frequent
+form16_2011,FDSEC11_RC,Food Security Question #11 “Was the household ever hungry or there was no food to eat? “,8888,missing
+form16_2011,finalwgts,Sampling Weights,,
+form16_2011,hhnum,Household Number  (Unique identifier; merging variable),,
+form16_2011,provcode,Name of Provinces,1 ,Abra
+form16_2011,provcode,Name of Provinces,2 ,Agusan Del Norte
+form16_2011,provcode,Name of Provinces,3 ,Agusan Del Sur
+form16_2011,provcode,Name of Provinces,4 ,Aklan
+form16_2011,provcode,Name of Provinces,5 ,Albay
+form16_2011,provcode,Name of Provinces,6 ,Antique
+form16_2011,provcode,Name of Provinces,7 ,Basilan
+form16_2011,provcode,Name of Provinces,8 ,Bataan
+form16_2011,provcode,Name of Provinces,10, Batangas
+form16_2011,provcode,Name of Provinces,11, Benguet
+form16_2011,provcode,Name of Provinces,12, Bohol
+form16_2011,provcode,Name of Provinces,13, Bukidnon
+form16_2011,provcode,Name of Provinces,14, Bulacan
+form16_2011,provcode,Name of Provinces,15, Cagayan
+form16_2011,provcode,Name of Provinces,16, Camarines Norte
+form16_2011,provcode,Name of Provinces,17, Camarines Sur
+form16_2011,provcode,Name of Provinces,18, Camiguin
+form16_2011,provcode,Name of Provinces,19, Capiz
+form16_2011,provcode,Name of Provinces,20, Catanduanes
+form16_2011,provcode,Name of Provinces,21, Cavite
+form16_2011,provcode,Name of Provinces,22, Cebu
+form16_2011,provcode,Name of Provinces,23, Davao (Davao Del Norte)
+form16_2011,provcode,Name of Provinces,24, Davao Del Sur
+form16_2011,provcode,Name of Provinces,25, Davao Oriental
+form16_2011,provcode,Name of Provinces,26, Eastern Samar
+form16_2011,provcode,Name of Provinces,27, Ifugao
+form16_2011,provcode,Name of Provinces,28, Ilocos Norte
+form16_2011,provcode,Name of Provinces,29, Ilocos Sur
+form16_2011,provcode,Name of Provinces,30, Iloilo
+form16_2011,provcode,Name of Provinces,31, Isabela
+form16_2011,provcode,Name of Provinces,32, Kalinga
+form16_2011,provcode,Name of Provinces,33, La Union
+form16_2011,provcode,Name of Provinces,34, Laguna
+form16_2011,provcode,Name of Provinces,35, Lanao Del Norte
+form16_2011,provcode,Name of Provinces,36, Lanao Del Sur
+form16_2011,provcode,Name of Provinces,37, Leyte
+form16_2011,provcode,Name of Provinces,38, Maguindanao
+form16_2011,provcode,Name of Provinces,39, NCR - Manila First District
+form16_2011,provcode,Name of Provinces,40, Marinduque
+form16_2011,provcode,Name of Provinces,41, Masbate
+form16_2011,provcode,Name of Provinces,42, Misamis Occidental
+form16_2011,provcode,Name of Provinces,43, Misamis Oriental
+form16_2011,provcode,Name of Provinces,44, Mountain Province
+form16_2011,provcode,Name of Provinces,45, Negros Occidental
+form16_2011,provcode,Name of Provinces,46, Negros Oriental
+form16_2011,provcode,Name of Provinces,47, North Cotabato
+form16_2011,provcode,Name of Provinces,48, Northern Samar
+form16_2011,provcode,Name of Provinces,49, Nueva Ecija
+form16_2011,provcode,Name of Provinces,50, Nueva Vizcaya
+form16_2011,provcode,Name of Provinces,51, Occidental Mindoro
+form16_2011,provcode,Name of Provinces,52, Oriental Mindoro
+form16_2011,provcode,Name of Provinces,53, Palawan
+form16_2011,provcode,Name of Provinces,54, Pampanga
+form16_2011,provcode,Name of Provinces,55, Pangasinan
+form16_2011,provcode,Name of Provinces,56, Quezon
+form16_2011,provcode,Name of Provinces,57, Quirino
+form16_2011,provcode,Name of Provinces,58, Rizal
+form16_2011,provcode,Name of Provinces,59, Romblon
+form16_2011,provcode,Name of Provinces,60, Western Samar
+form16_2011,provcode,Name of Provinces,61, Siquijor
+form16_2011,provcode,Name of Provinces,62, Sorsogon
+form16_2011,provcode,Name of Provinces,63, South Cotabato
+form16_2011,provcode,Name of Provinces,64, Southern Leyte
+form16_2011,provcode,Name of Provinces,65, Sultan Kudarat
+form16_2011,provcode,Name of Provinces,66, Sulu
+form16_2011,provcode,Name of Provinces,67, Surigao Del Norte
+form16_2011,provcode,Name of Provinces,68, Surigao Del Sur
+form16_2011,provcode,Name of Provinces,69, Tarlac
+form16_2011,provcode,Name of Provinces,70, Tawi-Tawi
+form16_2011,provcode,Name of Provinces,71, Zambales
+form16_2011,provcode,Name of Provinces,72, Zamboanga Del Norte
+form16_2011,provcode,Name of Provinces,73, Zamboanga Del Sur
+form16_2011,provcode,Name of Provinces,74, NCR Second District
+form16_2011,provcode,Name of Provinces,75, NCR Third District
+form16_2011,provcode,Name of Provinces,76, NCR Fourth District
+form16_2011,provcode,Name of Provinces,77, Aurora
+form16_2011,provcode,Name of Provinces,78, Biliran
+form16_2011,provcode,Name of Provinces,79, Guimaras
+form16_2011,provcode,Name of Provinces,80, Sarangani
+form16_2011,provcode,Name of Provinces,81, Apayao
+form16_2011,provcode,Name of Provinces,82, Compostela Valley
+form16_2011,provcode,Name of Provinces,83, Zamboanga Sibugay
+form16_2011,provcode,Name of Provinces,97, Isabela City
+form16_2011,provcode,Name of Provinces,98, Cotabato City
+form16_2011,psucode,Primary Sampling Unit,,
+form16_2011,regcode,Name of Regions,1 ,Ilocos
+form16_2011,regcode,Name of Regions,2 ,Cagayan Valley
+form16_2011,regcode,Name of Regions,3 ,Central Luzon
+form16_2011,regcode,Name of Regions,5 ,Bicol
+form16_2011,regcode,Name of Regions,6 ,Western Visayas
+form16_2011,regcode,Name of Regions,7 ,Central Visayas
+form16_2011,regcode,Name of Regions,8 ,Eastern Visayas
+form16_2011,regcode,Name of Regions,9 ,Zamboanga Peninsula
+form16_2011,regcode,Name of Regions,10, Northern Mindanao
+form16_2011,regcode,Name of Regions,11, Davao Region
+form16_2011,regcode,Name of Regions,12,SOCCSKSARGEN
+form16_2011,regcode,Name of Regions,13, National Capital Region
+form16_2011,regcode,Name of Regions,14, Cordillera Administrative Region
+form16_2011,regcode,Name of Regions,15, ARMM
+form16_2011,regcode,Name of Regions,16, CARAGA
+form16_2011,regcode,Name of Regions,41, CALABARZON
+form16_2011,regcode,Name of Regions,42, MIMAROPA
+form16_2011,ST1MAIS_RC,Rely  on following less preferred and less expensive foods: corn,0 ,No
+form16_2011,ST1MAIS_RC,Rely  on following less preferred and less expensive foods: corn,1 ,Yes
+form16_2011,ST1MAIS_RC,Rely  on following less preferred and less expensive foods: corn,9 ,NA
+form16_2011,ST1MAIS_RC,Rely  on following less preferred and less expensive foods: corn,8888,missing

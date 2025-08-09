@@ -1,0 +1,141 @@
+formno,variable_name,variable_label,var_value,value_label
+form5_2018,regcode,Name of Regions,1,Region I (Ilocos Region)
+form5_2018,regcode,Name of Regions,2,Region II (Cagayan Valley)
+form5_2018,regcode,Name of Regions,3,Region III (Central Luzon)
+form5_2018,regcode,Name of Regions,41,Region IV-A (CALABARZON)
+form5_2018,regcode,Name of Regions,42,Region IV-B (MIMAROPA)
+form5_2018,regcode,Name of Regions,5,Region V (Bicol Region)
+form5_2018,regcode,Name of Regions,6,Region VI (Western Visayas)
+form5_2018,regcode,Name of Regions,7,Region VII (Central Visayas)
+form5_2018,regcode,Name of Regions,8,Region VIII (Eastern Visayas)
+form5_2018,regcode,Name of Regions,9,Region IX (Zamboanga Peninsula)
+form5_2018,regcode,Name of Regions,10,Region X (Northern Mindanao)
+form5_2018,regcode,Name of Regions,11,Region XI (Davao Region)
+form5_2018,regcode,Name of Regions,12,Region XII (SOCCSKSARGEN)
+form5_2018,regcode,Name of Regions,13,National Capital Region (NCR)
+form5_2018,regcode,Name of Regions,14,Cordillera Administrative Region (CAR)
+form5_2018,regcode,Name of Regions,15,Autonomous Region In Muslim Mindanao (ARMM)
+form5_2018,regcode,Name of Regions,16,Region XIII (CARAGA)
+form5_2018,provhuc,Province and HUCs Level,1,Ilocos Norte
+form5_2018,provhuc,Province and HUCs Level,4,Pangasinan
+form5_2018,provhuc,Province and HUCs Level,6,Cagayan Province
+form5_2018,provhuc,Province and HUCs Level,7,Isabela Province
+form5_2018,provhuc,Province and HUCs Level,8,Nueva Vizcaya
+form5_2018,provhuc,Province and HUCs Level,9,Quirino
+form5_2018,provhuc,Province and HUCs Level,11,Bulacan
+form5_2018,provhuc,Province and HUCs Level,12,Nueva Ecija
+form5_2018,provhuc,Province and HUCs Level,13,Angeles City
+form5_2018,provhuc,Province and HUCs Level,14,Pampanga
+form5_2018,provhuc,Province and HUCs Level,16,Zambales
+form5_2018,provhuc,Province and HUCs Level,17,Olongapo City
+form5_2018,provhuc,Province and HUCs Level,21,Laguna
+form5_2018,provhuc,Province and HUCs Level,22,Quezon Province
+form5_2018,provhuc,Province and HUCs Level,24,Rizal
+form5_2018,provhuc,Province and HUCs Level,25,Marinduque
+form5_2018,provhuc,Province and HUCs Level,27,Oriental Mindoro
+form5_2018,provhuc,Province and HUCs Level,28,Palawan
+form5_2018,provhuc,Province and HUCs Level,29,Puerto Princesa City
+form5_2018,provhuc,Province and HUCs Level,32,Camarines Norte
+form5_2018,provhuc,Province and HUCs Level,33,Camarines Sur
+form5_2018,provhuc,Province and HUCs Level,36,Sorsogon
+form5_2018,provhuc,Province and HUCs Level,37,Aklan
+form5_2018,provhuc,Province and HUCs Level,38,Antique
+form5_2018,provhuc,Province and HUCs Level,39,Capiz
+form5_2018,provhuc,Province and HUCs Level,40,Iloilo City
+form5_2018,provhuc,Province and HUCs Level,41,Iloilo Province
+form5_2018,provhuc,Province and HUCs Level,44,Guimaras
+form5_2018,provhuc,Province and HUCs Level,46,Mandaue City
+form5_2018,provhuc,Province and HUCs Level,47,Lapu-Lapu City (Opon)
+form5_2018,provhuc,Province and HUCs Level,48,Cebu
+form5_2018,provhuc,Province and HUCs Level,51,Siquijor
+form5_2018,provhuc,Province and HUCs Level,52,Eastern Samar
+form5_2018,provhuc,Province and HUCs Level,53,Tacloban City
+form5_2018,provhuc,Province and HUCs Level,55,Northern Samar
+form5_2018,provhuc,Province and HUCs Level,56,Western Samar
+form5_2018,provhuc,Province and HUCs Level,57,Southern Leyte
+form5_2018,provhuc,Province and HUCs Level,58,Biliran
+form5_2018,provhuc,Province and HUCs Level,59,Zamboanga del Norte
+form5_2018,provhuc,Province and HUCs Level,60,Zamboanga City
+form5_2018,provhuc,Province and HUCs Level,61,Zamboanga Del Sur
+form5_2018,provhuc,Province and HUCs Level,62,Zamboanga Sibugay
+form5_2018,provhuc,Province and HUCs Level,63,City of Isabela
+form5_2018,provhuc,Province and HUCs Level,64,Bukidnon
+form5_2018,provhuc,Province and HUCs Level,65,Camiguin
+form5_2018,provhuc,Province and HUCs Level,66,Lanao Del Norte
+form5_2018,provhuc,Province and HUCs Level,68,Misamis Occidental
+form5_2018,provhuc,Province and HUCs Level,69,Cagayan De Oro
+form5_2018,provhuc,Province and HUCs Level,70,Misamis Oriental
+form5_2018,provhuc,Province and HUCs Level,71,Davao Del Norte
+form5_2018,provhuc,Province and HUCs Level,72,Davao City
+form5_2018,provhuc,Province and HUCs Level,74,Davao Oriental
+form5_2018,provhuc,Province and HUCs Level,76,Davao Occidental
+form5_2018,provhuc,Province and HUCs Level,78,South Cotabato
+form5_2018,provhuc,Province and HUCs Level,80,Sultan Kudarat
+form5_2018,provhuc,Province and HUCs Level,83,City of Manila
+form5_2018,provhuc,Province and HUCs Level,84,Mandaluyong City
+form5_2018,provhuc,Province and HUCs Level,85,San Juan City
+form5_2018,provhuc,Province and HUCs Level,86,Quezon City
+form5_2018,provhuc,Province and HUCs Level,87,City Of Marikina
+form5_2018,provhuc,Province and HUCs Level,89,Caloocan City
+form5_2018,provhuc,Province and HUCs Level,90,City Of Malabon
+form5_2018,provhuc,Province and HUCs Level,93,Makati City
+form5_2018,provhuc,Province and HUCs Level,94,Taguig City
+form5_2018,provhuc,Province and HUCs Level,95,Las Pi?as City
+form5_2018,provhuc,Province and HUCs Level,96,City Of Para?aque
+form5_2018,provhuc,Province and HUCs Level,97,Pateros
+form5_2018,provhuc,Province and HUCs Level,100,Abra
+form5_2018,provhuc,Province and HUCs Level,101,Baguio
+form5_2018,provhuc,Province and HUCs Level,102,Benguet
+form5_2018,provhuc,Province and HUCs Level,104,Kalinga
+form5_2018,provhuc,Province and HUCs Level,105,Mountain Province
+form5_2018,provhuc,Province and HUCs Level,107,Basilan
+form5_2018,provhuc,Province and HUCs Level,108,Lanao Del Sur
+form5_2018,provhuc,Province and HUCs Level,109,Maguindanao
+form5_2018,provhuc,Province and HUCs Level,111,Butuan City
+form5_2018,provhuc,Province and HUCs Level,112,Agusan Del Norte
+form5_2018,provhuc,Province and HUCs Level,115,Surigao Del Sur
+form5_2018,provhuc,Province and HUCs Level,116,Dinagat Islands
+form5_2018,enns_year,Expanded National Nutrition Survey Year,,
+form5_2018,hhnum,Household Number (Merging variable/Unique household identifier),,
+form5_2018,fwgth_natl2_var,National Sampling Weights,,
+form5_2018,rep_natl,ENNS Replicate Codes,,
+form5_2018,ms_psucode,Primary Sampling Unit Number,,
+form5_2018,fg1,Cereals and Cereal Products (in grams),,
+form5_2018,fg2,Rice and Products (in grams),,
+form5_2018,fg3,Corn and Products (in grams),,
+form5_2018,fg4,Other Cereal Products (in grams),,
+form5_2018,fg5,Starchy Roots and Tubers (in grams),,
+form5_2018,fg6,Sugar and Syrups (in grams),,
+form5_2018,fg7,Dried Beans, Nuts and Seeds (in grams),,
+form5_2018,fg8,Vegetables (in grams),,
+form5_2018,fg9,Green Leafy and Yellow (in grams),,
+form5_2018,fg10,Other Vegetables (in grams),,
+form5_2018,fg11,Fruits (in grams),,
+form5_2018,fg12,Vitamin C-Rich Fruits (in grams),,
+form5_2018,fg13,Other Fruits (in grams),,
+form5_2018,fg14,Fish, Meat and Poultry (in grams),,
+form5_2018,fg15,Fish and Fish Products (in grams),,
+form5_2018,fg16,Meat and Meat Products (in grams),,
+form5_2018,fg17,Poultry (in grams),,
+form5_2018,fg18,Eggs (in grams),,
+form5_2018,fg19,Milk and Milk Products (in grams),,
+form5_2018,fg20,Whole Milk (in grams),,
+form5_2018,fg21,Milk Products (in grams),,
+form5_2018,fg23,Fats and Oils (in grams),,
+form5_2018,fg24,Miscellaneous (in grams),,
+form5_2018,fg25,Beverages (in grams),,
+form5_2018,fg26,Condiments and Spices (in grams),,
+form5_2018,fg27,Other Miscellaneous (in grams),,
+form5_2018,Total_Food,Total Food Intake (in grams),,
+form5_2018,Total_Ener,Total Energy (Kcal),,
+form5_2018,Total_Prot,Total Protein (g),,
+form5_2018,Total_Calc,Total Calcium (mg),,
+form5_2018,Total_Iron,Total Iron (mg),,
+form5_2018,Total_VitA,Total Vitamin A (mcg),,
+form5_2018,Total_VitC,Total Vitamin C (mg),,
+form5_2018,Total_Thia,Total Thiamin (mg),,
+form5_2018,Total_Ribo,Total Riboflavin (mg),,
+form5_2018,Total_Nia,Total Niacin (mg),,
+form5_2018,Total_CHO,Total Carbohydrates (g),,
+form5_2018,Total_Fat,Total Fats (g),,
+form5_2018,cu,Consumption Unit,,

@@ -1,0 +1,242 @@
+formno,variable_name,variable_label,var_value,value_label
+form15_2008,regcode,Name of Regions,1,Ilocos 
+form15_2008,regcode,Name of Regions,2,Cagayan Valley
+form15_2008,regcode,Name of Regions,3,Central Luzon
+form15_2008,regcode,Name of Regions,5,Bicol
+form15_2008,regcode,Name of Regions,6,Western Visayas
+form15_2008,regcode,Name of Regions,7,Central Visayas
+form15_2008,regcode,Name of Regions,8,Eastern Visayas
+form15_2008,regcode,Name of Regions,9,Zamboanga Peninsula
+form15_2008,regcode,Name of Regions,10,Northern Mindanao
+form15_2008,regcode,Name of Regions,11,Davao Region
+form15_2008,regcode,Name of Regions,12,SOCCSKSARGEN
+form15_2008,regcode,Name of Regions,13,National Capital Region
+form15_2008,regcode,Name of Regions,14,Cordillera Administrative Region
+form15_2008,regcode,Name of Regions,15,ARMM
+form15_2008,regcode,Name of Regions,16,CARAGA
+form15_2008,regcode,Name of Regions,41,CALABARZON
+form15_2008,regcode,Name of Regions,42,MIMAROPA
+form15_2008,provcode,Name of Provinces,1,Abra
+form15_2008,provcode,Name of Provinces,2,Agusan Del Norte
+form15_2008,provcode,Name of Provinces,3,Agusan Del Sur
+form15_2008,provcode,Name of Provinces,4,Aklan
+form15_2008,provcode,Name of Provinces,5,Albay
+form15_2008,provcode,Name of Provinces,6,Antique
+form15_2008,provcode,Name of Provinces,7,Basilan
+form15_2008,provcode,Name of Provinces,8,Bataan
+form15_2008,provcode,Name of Provinces,9,Batanes
+form15_2008,provcode,Name of Provinces,10,Batangas
+form15_2008,provcode,Name of Provinces,11,Benguet
+form15_2008,provcode,Name of Provinces,12,Bohol
+form15_2008,provcode,Name of Provinces,13,Bukidnon
+form15_2008,provcode,Name of Provinces,14,Bulacan
+form15_2008,provcode,Name of Provinces,15,Cagayan
+form15_2008,provcode,Name of Provinces,16,Camarines Norte
+form15_2008,provcode,Name of Provinces,17,Camarines Sur
+form15_2008,provcode,Name of Provinces,18,Camiguin
+form15_2008,provcode,Name of Provinces,19,Capiz
+form15_2008,provcode,Name of Provinces,20,Catanduanes
+form15_2008,provcode,Name of Provinces,21,Cavite
+form15_2008,provcode,Name of Provinces,22,Cebu
+form15_2008,provcode,Name of Provinces,23,Davao (Davao Del Norte)
+form15_2008,provcode,Name of Provinces,24,Davao Del Sur
+form15_2008,provcode,Name of Provinces,25,Davao Oriental
+form15_2008,provcode,Name of Provinces,26,Eastern Samar
+form15_2008,provcode,Name of Provinces,27,Ifugao
+form15_2008,provcode,Name of Provinces,28,Ilocos Norte
+form15_2008,provcode,Name of Provinces,29,Ilocos Sur
+form15_2008,provcode,Name of Provinces,30,Iloilo
+form15_2008,provcode,Name of Provinces,31,Isabela
+form15_2008,provcode,Name of Provinces,32,Kalinga
+form15_2008,provcode,Name of Provinces,33,La Union
+form15_2008,provcode,Name of Provinces,34,Laguna
+form15_2008,provcode,Name of Provinces,35,Lanao Del Norte
+form15_2008,provcode,Name of Provinces,36,Lanao Del Sur
+form15_2008,provcode,Name of Provinces,37,Leyte
+form15_2008,provcode,Name of Provinces,38,Maguindanao
+form15_2008,provcode,Name of Provinces,39,NCR - Manila First District
+form15_2008,provcode,Name of Provinces,40,Marinduque
+form15_2008,provcode,Name of Provinces,41,Masbate
+form15_2008,provcode,Name of Provinces,42,Misamis Occidental
+form15_2008,provcode,Name of Provinces,43,Misamis Oriental
+form15_2008,provcode,Name of Provinces,44,Mountain Province
+form15_2008,provcode,Name of Provinces,45,Negros Occidental
+form15_2008,provcode,Name of Provinces,46,Negros Oriental
+form15_2008,provcode,Name of Provinces,47,North Cotabato
+form15_2008,provcode,Name of Provinces,48,Northern Samar
+form15_2008,provcode,Name of Provinces,49,Nueva Ecija
+form15_2008,provcode,Name of Provinces,50,Nueva Vizcaya
+form15_2008,provcode,Name of Provinces,51,Occidental Mindoro
+form15_2008,provcode,Name of Provinces,52,Oriental Mindoro
+form15_2008,provcode,Name of Provinces,53,Palawan
+form15_2008,provcode,Name of Provinces,54,Pampanga
+form15_2008,provcode,Name of Provinces,55,Pangasinan
+form15_2008,provcode,Name of Provinces,56,Quezon
+form15_2008,provcode,Name of Provinces,57,Quirino
+form15_2008,provcode,Name of Provinces,58,Rizal
+form15_2008,provcode,Name of Provinces,59,Romblon
+form15_2008,provcode,Name of Provinces,60,Western Samar
+form15_2008,provcode,Name of Provinces,61,Siquijor
+form15_2008,provcode,Name of Provinces,62,Sorsogon
+form15_2008,provcode,Name of Provinces,63,South Cotabato
+form15_2008,provcode,Name of Provinces,64,Southern Leyte
+form15_2008,provcode,Name of Provinces,65,Sultan Kudarat
+form15_2008,provcode,Name of Provinces,66,Sulu
+form15_2008,provcode,Name of Provinces,67,Surigao Del Norte
+form15_2008,provcode,Name of Provinces,68,Surigao Del Sur
+form15_2008,provcode,Name of Provinces,69,Tarlac
+form15_2008,provcode,Name of Provinces,70,Tawi-Tawi
+form15_2008,provcode,Name of Provinces,71,Zambales
+form15_2008,provcode,Name of Provinces,72,Zamboanga Del Norte
+form15_2008,provcode,Name of Provinces,73,Zamboanga Del Sur
+form15_2008,provcode,Name of Provinces,74,NCR Second District
+form15_2008,provcode,Name of Provinces,75,NCR Third District
+form15_2008,provcode,Name of Provinces,76,NCR Fourth District
+form15_2008,provcode,Name of Provinces,77,Aurora
+form15_2008,provcode,Name of Provinces,78,Biliran
+form15_2008,provcode,Name of Provinces,79,Guimaras
+form15_2008,provcode,Name of Provinces,80,Sarangani
+form15_2008,provcode,Name of Provinces,81,Apayao
+form15_2008,provcode,Name of Provinces,82,Compostela Valley
+form15_2008,provcode,Name of Provinces,83,Zamboanga Sibugay
+form15_2008,provcode,Name of Provinces,97,Isabela City
+form15_2008,provcode,Name of Provinces,98,Cotabato City
+form15_2008,hhnum,Household number,,
+form15_2008,FDSEC01_RC,Skip eating or miss meals/food (Respondent),0,Never
+form15_2008,FDSEC01_RC,Skip eating or miss meals/food (Respondent),1,Yes once
+form15_2008,FDSEC01_RC,Skip eating or miss meals/food (Respondent),2,Yes more than once
+form15_2008,FDSEC02_RC,Ever not eat for a whole day (Respondent),0,Never
+form15_2008,FDSEC02_RC,Ever not eat for a whole day (Respondent),1,Yes once
+form15_2008,FDSEC02_RC,Ever not eat for a whole day (Respondent),2,Yes more than once
+form15_2008,FDSEC03_RC,Ever hungry but did not eat (Respondent),0,Never
+form15_2008,FDSEC03_RC,Ever hungry but did not eat (Respondent),1,Yes once
+form15_2008,FDSEC03_RC,Ever hungry but did not eat (Respondent),2,Yes more than once
+form15_2008,FDSEC04_RC,Skip eating or miss meals/food (Child/Children),0,Never
+form15_2008,FDSEC04_RC,Skip eating or miss meals/food (Child/Children),1,Yes once
+form15_2008,FDSEC04_RC,Skip eating or miss meals/food (Child/Children),2,Yes more than once
+form15_2008,FDSEC04_RC,Skip eating or miss meals/food (Child/Children),9,Not applicable (No child/1st pregnancy)
+form15_2008,FDSEC05_RC,Ever not eat for a whole day (Child/Children),0,Never
+form15_2008,FDSEC05_RC,Ever not eat for a whole day (Child/Children),1,Yes once
+form15_2008,FDSEC05_RC,Ever not eat for a whole day (Child/Children),2,Yes more than once
+form15_2008,FDSEC05_RC,Ever not eat for a whole day (Child/Children),9,Not applicable (No child/1st pregnancy)
+form15_2008,FDSEC06_RC,Ever hungry but did not eat (Child/Children),0,Never
+form15_2008,FDSEC06_RC,Ever hungry but did not eat (Child/Children),1,Yes once
+form15_2008,FDSEC06_RC,Ever hungry but did not eat (Child/Children),2,Yes more than once
+form15_2008,FDSEC06_RC,Ever hungry but did not eat (Child/Children),9,Not applicable (No child/1st pregnancy)
+form15_2008,FDSEC07_RC,Worried food would run out,0,Not true
+form15_2008,FDSEC07_RC,Worried food would run out,1,True often
+form15_2008,FDSEC07_RC,Worried food would run out,2,True sometimes
+form15_2008,FDSEC08_RC,Food bought just did not last,0,Not true
+form15_2008,FDSEC08_RC,Food bought just did not last,1,True often
+form15_2008,FDSEC08_RC,Food bought just did not last,2,True sometimes
+form15_2008,FDSEC09_RC,Children were not eating enough,0,Not true
+form15_2008,FDSEC09_RC,Children were not eating enough,1,True often
+form15_2008,FDSEC09_RC,Children were not eating enough,2,True sometimes
+form15_2008,FDSEC09_RC,Children were not eating enough,9,Not applicable (No child/1st pregnancy)
+form15_2008,FDSEC10_RC,Could not feed children nutritionally adequate,0,Not true
+form15_2008,FDSEC10_RC,Could not feed children nutritionally adequate,1,True often
+form15_2008,FDSEC10_RC,Could not feed children nutritionally adequate,2,True sometimes
+form15_2008,FDSEC10_RC,Could not feed children nutritionally adequate,9,Not applicable (No child/1st pregnancy)
+form15_2008,FDSEC11_RC,Household ever hungry or no food to eat,0,Never
+form15_2008,FDSEC11_RC,Household ever hungry or no food to eat,1,Once
+form15_2008,FDSEC11_RC,Household ever hungry or no food to eat,2,More than once but not frequent
+form15_2008,FDSEC11_RC,Household ever hungry or no food to eat,3,Frequent
+form15_2008,ST1MAIS_RC ,Rely on less preferred and less expensive foods: corn,0,Never
+form15_2008,ST1MAIS_RC ,Rely on less preferred and less expensive foods: corn,1,Daily
+form15_2008,ST1MAIS_RC ,Rely on less preferred and less expensive foods: corn,2,3-6 times/week
+form15_2008,ST1MAIS_RC ,Rely on less preferred and less expensive foods: corn,3,1-2 times/week
+form15_2008,ST1MAIS_RC ,Rely on less preferred and less expensive foods: corn,4,Others specify
+form15_2008,ST1MAIS_RC ,Rely on less preferred and less expensive foods: corn,9,Not applicable
+form15_2008,ST1ROOTS_RC,Rely on less preferred and less expensive foods: root crops,0,Never
+form15_2008,ST1ROOTS_RC,Rely on less preferred and less expensive foods: root crops,1,Daily
+form15_2008,ST1ROOTS_RC,Rely on less preferred and less expensive foods: root crops,2,3-6 times/week
+form15_2008,ST1ROOTS_RC,Rely on less preferred and less expensive foods: root crops,3,1-2 times/week
+form15_2008,ST1ROOTS_RC,Rely on less preferred and less expensive foods: root crops,4,Others specify
+form15_2008,ST1ROOTS_RC,Rely on less preferred and less expensive foods: root crops,9,Not applicable
+form15_2008,ST1OTHER_RC,Rely on less preferred and less expensive foods: others,0,Never
+form15_2008,ST1OTHER_RC,Rely on less preferred and less expensive foods: others,1,Daily
+form15_2008,ST1OTHER_RC,Rely on less preferred and less expensive foods: others,2,3-6 times/week
+form15_2008,ST1OTHER_RC,Rely on less preferred and less expensive foods: others,3,1-2 times/week
+form15_2008,ST1OTHER_RC,Rely on less preferred and less expensive foods: others,4,Others specify
+form15_2008,ST1OTHER_RC,Rely on less preferred and less expensive foods: others,9,Not applicable
+form15_2008,STRATG02_RC,Borrow food from neighbor/relatives/friends,0,Never
+form15_2008,STRATG02_RC,Borrow food from neighbor/relatives/friends,1,Daily
+form15_2008,STRATG02_RC,Borrow food from neighbor/relatives/friends,2,3-6 times/week
+form15_2008,STRATG02_RC,Borrow food from neighbor/relatives/friends,3,1-2 times/week
+form15_2008,STRATG02_RC,Borrow food from neighbor/relatives/friends,4,Others specify
+form15_2008,STRATG02_RC,Borrow food from neighbor/relatives/friends,9,Not applicable
+form15_2008,STRATG03_RC,Purchase food on credit,0,Never
+form15_2008,STRATG03_RC,Purchase food on credit,1,Daily
+form15_2008,STRATG03_RC,Purchase food on credit,2,3-6 times/week
+form15_2008,STRATG03_RC,Purchase food on credit,3,1-2 times/week
+form15_2008,STRATG03_RC,Purchase food on credit,4,Others specify
+form15_2008,STRATG03_RC,Purchase food on credit,9,Not applicable
+form15_2008,STRATG04_RC,Eat wild or harvest immature foods,0,Never
+form15_2008,STRATG04_RC,Eat wild or harvest immature foods,1,Daily
+form15_2008,STRATG04_RC,Eat wild or harvest immature foods,2,3-6 times/week
+form15_2008,STRATG04_RC,Eat wild or harvest immature foods,3,1-2 times/week
+form15_2008,STRATG04_RC,Eat wild or harvest immature foods,4,Others specify
+form15_2008,STRATG04_RC,Eat wild or harvest immature foods,9,Not applicable
+form15_2008,STRATG05_RC,Reduce portion sizes of the meal,0,Never
+form15_2008,STRATG05_RC,Reduce portion sizes of the meal,1,Daily
+form15_2008,STRATG05_RC,Reduce portion sizes of the meal,2,3-6 times/week
+form15_2008,STRATG05_RC,Reduce portion sizes of the meal,3,1-2 times/week
+form15_2008,STRATG05_RC,Reduce portion sizes of the meal,4,Others specify
+form15_2008,STRATG05_RC,Reduce portion sizes of the meal,9,Not applicable
+form15_2008,STRATG06_RC,Reduce number of meals consumed in a day,0,Never
+form15_2008,STRATG06_RC,Reduce number of meals consumed in a day,1,Daily
+form15_2008,STRATG06_RC,Reduce number of meals consumed in a day,2,3-6 times/week
+form15_2008,STRATG06_RC,Reduce number of meals consumed in a day,3,1-2 times/week
+form15_2008,STRATG06_RC,Reduce number of meals consumed in a day,4,Others specify
+form15_2008,STRATG06_RC,Reduce number of meals consumed in a day,9,Not applicable
+form15_2008,STRATG07_RC,Restrict consumption for adults so children have enough,0,Never
+form15_2008,STRATG07_RC,Restrict consumption for adults so children have enough,1,Daily
+form15_2008,STRATG07_RC,Restrict consumption for adults so children have enough,2,3-6 times/week
+form15_2008,STRATG07_RC,Restrict consumption for adults so children have enough,3,1-2 times/week
+form15_2008,STRATG07_RC,Restrict consumption for adults so children have enough,4,Others specify
+form15_2008,STRATG07_RC,Restrict consumption for adults so children have enough,9,Not applicable
+form15_2008,STRATG08_RC,Skip entire day without eating,0,Never
+form15_2008,STRATG08_RC,Skip entire day without eating,1,Daily
+form15_2008,STRATG08_RC,Skip entire day without eating,2,3-6 times/week
+form15_2008,STRATG08_RC,Skip entire day without eating,3,1-2 times/week
+form15_2008,STRATG08_RC,Skip entire day without eating,4,Others specify
+form15_2008,STRATG08_RC,Skip entire day without eating,9,Not applicable
+form15_2008,STRATG09_RC,Send family members to eat elsewhere (community kitchen school etc),0,Never
+form15_2008,STRATG09_RC,Send family members to eat elsewhere (community kitchen school etc),1,Daily
+form15_2008,STRATG09_RC,Send family members to eat elsewhere (community kitchen school etc),2,3-6 times/week
+form15_2008,STRATG09_RC,Send family members to eat elsewhere (community kitchen school etc),3,1-2 times/week
+form15_2008,STRATG09_RC,Send family members to eat elsewhere (community kitchen school etc),4,Others specify
+form15_2008,STRATG09_RC,Send family members to eat elsewhere (community kitchen school etc),9,Not applicable
+form15_2008,STRATG10_RC,Others (food coping strategies),0,Never
+form15_2008,STRATG10_RC,Others (food coping strategies),1,Daily
+form15_2008,STRATG10_RC,Others (food coping strategies),2,3-6 times/week
+form15_2008,STRATG10_RC,Others (food coping strategies),3,1-2 times/week
+form15_2008,STRATG10_RC,Others (food coping strategies),4,Others specify
+form15_2008,STRATG10_RC,Others (food coping strategies),9,Not applicable
+form15_2008,STRATG11_RC,Loan from relatives/friend,0,Never
+form15_2008,STRATG11_RC,Loan from relatives/friend,1,All the time
+form15_2008,STRATG11_RC,Loan from relatives/friend,2,Occasional
+form15_2008,STRATG11_RC,Loan from relatives/friend,9,Not applicable
+form15_2008,STRATG12_RC,Loan from non relatives/friend,0,Never
+form15_2008,STRATG12_RC,Loan from non relatives/friend,1,All the time
+form15_2008,STRATG12_RC,Loan from non relatives/friend,2,Occasional
+form15_2008,STRATG12_RC,Loan from non relatives/friend,9,Not applicable
+form15_2008,STRATG13_RC,Sold assets,0,Never
+form15_2008,STRATG13_RC,Sold assets,1,All the time
+form15_2008,STRATG13_RC,Sold assets,2,Occasional
+form15_2008,STRATG13_RC,Sold assets,9,Not applicable
+form15_2008,STRATG14_RC,Some members of the family migrated to look for a job,0,Never
+form15_2008,STRATG14_RC,Some members of the family migrated to look for a job,1,All the time
+form15_2008,STRATG14_RC,Some members of the family migrated to look for a job,2,Occasional
+form15_2008,STRATG14_RC,Some members of the family migrated to look for a job,9,Not applicable
+form15_2008,STRATG15_RC,Child asked to be absent in school,0,Never
+form15_2008,STRATG15_RC,Child asked to be absent in school,1,All the time
+form15_2008,STRATG15_RC,Child asked to be absent in school,2,Occasional
+form15_2008,STRATG15_RC,Child asked to be absent in school,9,Not applicable
+form15_2008,STRATG16_RC,Others (non-food coping strategies),0,Never
+form15_2008,STRATG16_RC,Others (non-food coping strategies),1,All the time
+form15_2008,STRATG16_RC,Others (non-food coping strategies),2,Occasional
+form15_2008,STRATG16_RC,Others (non-food coping strategies),9,Not applicable
+form15_2008,psurec,Primary Sampling Unit,,
+form15_2008,strrec,Strata,,
+form15_2008,wgts,Sampling Weights,,

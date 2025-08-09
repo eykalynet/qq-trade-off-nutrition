@@ -1,0 +1,163 @@
+formno,variable_name,variable_label,var_value,value_label
+form43_2011,hhnum,Household Number (Unique identifier; merging variable),,
+form43_2011,strrec,Strata Code,,
+form43_2011,regcode,Name of Regions,1,Ilocos 
+form43_2011,regcode,Name of Regions,2,Cagayan Valley
+form43_2011,regcode,Name of Regions,3,Central Luzon
+form43_2011,regcode,Name of Regions,5,Bicol
+form43_2011,regcode,Name of Regions,6,Western Visayas
+form43_2011,regcode,Name of Regions,7,Central Visayas
+form43_2011,regcode,Name of Regions,8,Eastern Visayas
+form43_2011,regcode,Name of Regions,9,Zamboanga Peninsula
+form43_2011,regcode,Name of Regions,10, Northern Mindanao
+form43_2011,regcode,Name of Regions,11, Davao Region
+form43_2011,regcode,Name of Regions,12,SOCCSKSARGEN
+form43_2011,regcode,Name of Regions,13, National Capital Region
+form43_2011,regcode,Name of Regions,14, Cordillera Administrative Region
+form43_2011,regcode,Name of Regions,15, ARMM 
+form43_2011,regcode,Name of Regions,16, CARAGA
+form43_2011,regcode,Name of Regions,41, CALABARZON
+form43_2011,regcode,Name of Regions,42,  MIMAROPA
+form43_2011,psurec,Primary Sampling Unit,,
+form43_2011,provcode,Name of Provinces,1 ,Abra
+form43_2011,provcode,Name of Provinces,2 ,Agusan Del Norte
+form43_2011,provcode,Name of Provinces,3 ,Agusan Del Sur
+form43_2011,provcode,Name of Provinces,4 ,Aklan
+form43_2011,provcode,Name of Provinces,5 ,Albay
+form43_2011,provcode,Name of Provinces,6 ,Antique
+form43_2011,provcode,Name of Provinces,7 ,Basilan
+form43_2011,provcode,Name of Provinces,8 ,Bataan
+form43_2011,provcode,Name of Provinces,10, Batangas
+form43_2011,provcode,Name of Provinces,11, Benguet
+form43_2011,provcode,Name of Provinces,12, Bohol
+form43_2011,provcode,Name of Provinces,13, Bukidnon
+form43_2011,provcode,Name of Provinces,14, Bulacan
+form43_2011,provcode,Name of Provinces,15, Cagayan
+form43_2011,provcode,Name of Provinces,16, Camarines Norte
+form43_2011,provcode,Name of Provinces,17, Camarines Sur
+form43_2011,provcode,Name of Provinces,18, Camiguin
+form43_2011,provcode,Name of Provinces,19, Capiz
+form43_2011,provcode,Name of Provinces,20, Catanduanes
+form43_2011,provcode,Name of Provinces,21, Cavite
+form43_2011,provcode,Name of Provinces,22, Cebu
+form43_2011,provcode,Name of Provinces,23, Davao (Davao Del Norte)
+form43_2011,provcode,Name of Provinces,24, Davao Del Sur
+form43_2011,provcode,Name of Provinces,25, Davao Oriental
+form43_2011,provcode,Name of Provinces,26, Eastern Samar
+form43_2011,provcode,Name of Provinces,27, Ifugao
+form43_2011,provcode,Name of Provinces,28, Ilocos Norte
+form43_2011,provcode,Name of Provinces,29, Ilocos Sur
+form43_2011,provcode,Name of Provinces,30, Iloilo
+form43_2011,provcode,Name of Provinces,31, Isabela
+form43_2011,provcode,Name of Provinces,32, Kalinga
+form43_2011,provcode,Name of Provinces,33, La Union
+form43_2011,provcode,Name of Provinces,34, Laguna
+form43_2011,provcode,Name of Provinces,35, Lanao Del Norte
+form43_2011,provcode,Name of Provinces,36, Lanao Del Sur
+form43_2011,provcode,Name of Provinces,37, Leyte
+form43_2011,provcode,Name of Provinces,38, Maguindanao
+form43_2011,provcode,Name of Provinces,39, NCR - Manila First District
+form43_2011,provcode,Name of Provinces,40, Marinduque
+form43_2011,provcode,Name of Provinces,41, Masbate
+form43_2011,provcode,Name of Provinces,42, Misamis Occidental
+form43_2011,provcode,Name of Provinces,43, Misamis Oriental
+form43_2011,provcode,Name of Provinces,44, Mountain Province
+form43_2011,provcode,Name of Provinces,45, Negros Occidental
+form43_2011,provcode,Name of Provinces,46, Negros Oriental
+form43_2011,provcode,Name of Provinces,47, North Cotabato
+form43_2011,provcode,Name of Provinces,48, Northern Samar
+form43_2011,provcode,Name of Provinces,49, Nueva Ecija
+form43_2011,provcode,Name of Provinces,50, Nueva Vizcaya
+form43_2011,provcode,Name of Provinces,51, Occidental Mindoro
+form43_2011,provcode,Name of Provinces,52, Oriental Mindoro
+form43_2011,provcode,Name of Provinces,53, Palawan
+form43_2011,provcode,Name of Provinces,54, Pampanga
+form43_2011,provcode,Name of Provinces,55, Pangasinan
+form43_2011,provcode,Name of Provinces,56, Quezon
+form43_2011,provcode,Name of Provinces,57, Quirino
+form43_2011,provcode,Name of Provinces,58, Rizal
+form43_2011,provcode,Name of Provinces,59, Romblon
+form43_2011,provcode,Name of Provinces,60, Western Samar
+form43_2011,provcode,Name of Provinces,61, Siquijor
+form43_2011,provcode,Name of Provinces,62, Sorsogon
+form43_2011,provcode,Name of Provinces,63, South Cotabato
+form43_2011,provcode,Name of Provinces,64, Southern Leyte
+form43_2011,provcode,Name of Provinces,65, Sultan Kudarat
+form43_2011,provcode,Name of Provinces,66, Sulu
+form43_2011,provcode,Name of Provinces,67, Surigao Del Norte
+form43_2011,provcode,Name of Provinces,68, Surigao Del Sur
+form43_2011,provcode,Name of Provinces,69, Tarlac
+form43_2011,provcode,Name of Provinces,70, Tawi-Tawi
+form43_2011,provcode,Name of Provinces,71, Zambales
+form43_2011,provcode,Name of Provinces,72, Zamboanga Del Norte
+form43_2011,provcode,Name of Provinces,73, Zamboanga Del Sur
+form43_2011,provcode,Name of Provinces,74, NCR Second District
+form43_2011,provcode,Name of Provinces,75, NCR Third District
+form43_2011,provcode,Name of Provinces,76, NCR Fourth District
+form43_2011,provcode,Name of Provinces,77, Aurora
+form43_2011,provcode,Name of Provinces,78, Biliran
+form43_2011,provcode,Name of Provinces,79, Guimaras
+form43_2011,provcode,Name of Provinces,80, Sarangani
+form43_2011,provcode,Name of Provinces,81, Apayao
+form43_2011,provcode,Name of Provinces,82, Compostela Valley
+form43_2011,provcode,Name of Provinces,83, Zamboanga Sibugay
+form43_2011,provcode,Name of Provinces,97, Isabela City
+form43_2011,provcode,Name of Provinces,98, Cotabato City
+form43_2011,prelacteal2,Prelacteal Feeds,0 ,  No
+form43_2011,prelacteal2,Prelacteal Feeds,1 ,  Yes
+form43_2011,prelacteal2,Prelacteal Feeds,9999,  No Data/Not Applicable
+form43_2011,predom_0to5,Predominant Breastfeeding among 0-5months,0 ,  No
+form43_2011,predom_0to5,Predominant Breastfeeding among 0-5months,1 ,  Yes
+form43_2011,predom_0to5,Predominant Breastfeeding among 0-5months,9999,  No Data/Not Applicable
+form43_2011,mmf_6to23,Minimum Meal Frequency among 6 to 23 months children,0 ,  No
+form43_2011,mmf_6to23,Minimum Meal Frequency among 6 to 23 months children,1 ,  Yes
+form43_2011,mmf_6to23,Minimum Meal Frequency among 6 to 23 months children,9999,  No Data/Not Applicable
+form43_2011,member_code,Member Code (Unique identifier; merging variable),,
+form43_2011,mdd,Minimum Dietary Diversity among 6 to 23 months children,0 ,  No
+form43_2011,mdd,Minimum Dietary Diversity among 6 to 23 months children,1 ,  Yes
+form43_2011,mdd,Minimum Dietary Diversity among 6 to 23 months children,9999,  No Data/Not Applicable
+form43_2011,mad_6to23_new,Minimum Acceptable Diet among 6 to 23 months children,0 ,  No
+form43_2011,mad_6to23_new,Minimum Acceptable Diet among 6 to 23 months children,1 ,  Yes
+form43_2011,mad_6to23_new,Minimum Acceptable Diet among 6 to 23 months children,9999,  No Data/Not Applicable
+form43_2011,introcomple_6to8,Introduction of Complementary Foods among children 6-8 months old,0 ,  No
+form43_2011,introcomple_6to8,Introduction of Complementary Foods among children 6-8 months old,1 ,  Yes
+form43_2011,introcomple_6to8,Introduction of Complementary Foods among children 6-8 months old,9999,  No Data/Not Applicable
+form43_2011,agemos,Age of the Child (in Months),,
+form43_2011,firstbf2,Early Breastfeeding Initiation,1 ,  Within 1 hr
+form43_2011,firstbf2,Early Breastfeeding Initiation,2 ,  Less than 1 Day
+form43_2011,firstbf2,Early Breastfeeding Initiation,3 ,  More than 1 Day
+form43_2011,firstbf2,Early Breastfeeding Initiation,9999,  No Data/Not Applicable
+form43_2011,finalwgt,Sampling Weights,,
+form43_2011,exbf_0to5,Exclusive breastfeeding among 0-5months,0 ,  No
+form43_2011,exbf_0to5,Exclusive breastfeeding among 0-5months,1 ,  Yes
+form43_2011,exbf_0to5,Exclusive breastfeeding among 0-5months,9999,  No Data/Not Applicable
+form43_2011,ever_bf2,Ever Breastfeeding,0 ,  Not Ever-BF
+form43_2011,ever_bf2,Ever Breastfeeding,1 ,  Ever-BF
+form43_2011,ever_bf2,Ever Breastfeeding,9999,  No Data/Not Applicable
+form43_2011,dds_6to23,Diet Diversity Score among 6-23 months children,,
+form43_2011,current_fd_recall2,Current Feeding Practices,1 ,   Exclusively Breastfeeding
+form43_2011,current_fd_recall2,Current Feeding Practices,2 ,   Breastfeeding + Water
+form43_2011,current_fd_recall2,Current Feeding Practices,3 ,   Breastfeeding + Water with Sugar
+form43_2011,current_fd_recall2,Current Feeding Practices,4 ,   Breastfeeding + Fruit juice
+form43_2011,current_fd_recall2,Current Feeding Practices,5 ,   Breastfeeding + Other liquids  
+form43_2011,current_fd_recall2,Current Feeding Practices,6 ,   Breastfeeding + Complementary Foods
+form43_2011,current_fd_recall2,Current Feeding Practices,7 ,   Breastfeeding + Other Milk
+form43_2011,current_fd_recall2,Current Feeding Practices,8 ,   Breastfeeding + Other Milk + Complementary Foods
+form43_2011,current_fd_recall2,Current Feeding Practices,9 ,   Regular meals+ Breastfeeding
+form43_2011,current_fd_recall2,Current Feeding Practices,10,  Regular meals + Breastfeeding +Other Milk  (? 2x a     day)
+form43_2011,current_fd_recall2,Current Feeding Practices,11,  Pure Other Milk (milk formula)
+form43_2011,current_fd_recall2,Current Feeding Practices,12,  Other Milk + Complementary Foods
+form43_2011,current_fd_recall2,Current Feeding Practices,13,  Regular meals+ Other Milk (?2x a day)
+form43_2011,current_fd_recall2,Current Feeding Practices,14,  Regular Diet (without milk)      
+form43_2011,cont_20to23,Continue Breastfeeding among 20 to 23 months,0 ,  No
+form43_2011,cont_20to23,Continue Breastfeeding among 20 to 23 months,1 ,  Yes
+form43_2011,cont_20to23,Continue Breastfeeding among 20 to 23 months,9999,  No Data/Not Applicable
+form43_2011,cont_12to15,Continue Breastfeeding among 12 to 15 months,0 ,  No
+form43_2011,cont_12to15,Continue Breastfeeding among 12 to 15 months,1 ,  Yes
+form43_2011,cont_12to15,Continue Breastfeeding among 12 to 15 months,9999,  No Data/Not Applicable
+form43_2011,bottle_status,Status of Bottle Feeding among 0-23 months,0 ,  No
+form43_2011,bottle_status,Status of Bottle Feeding among 0-23 months,1 ,  Yes
+form43_2011,bottle_status,Status of Bottle Feeding among 0-23 months,9999,  No Data/Not Applicable
+form43_2011,age_appro_all,Age-appropriate breastfeeding,0 ,  No
+form43_2011,age_appro_all,Age-appropriate breastfeeding,1 ,  Yes
+form43_2011,age_appro_all,Age-appropriate breastfeeding,9999,  No Data/Not Applicable

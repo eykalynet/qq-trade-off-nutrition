@@ -1,0 +1,215 @@
+formno,variable_name,variable_label,var_value,value_label
+form12_2015,makesafe,How You Make Water Safer to Drink,0,No Treatment    
+form12_2015,makesafe,How You Make Water Safer to Drink,1,Boil     
+form12_2015,makesafe,How You Make Water Safer to Drink,2,Add bleach/chlorine    
+form12_2015,makesafe,How You Make Water Safer to Drink,3,Use water filter (ceramic, sand, charco
+form12_2015,makesafe,How You Make Water Safer to Drink,4,Improvised filter (cloth, sponge)  
+form12_2015,makesafe,How You Make Water Safer to Drink,5,Solar disinfection    
+form12_2015,makesafe,How You Make Water Safer to Drink,6,Let it stand or settle 
+form12_2015,makesafe,How You Make Water Safer to Drink,9,NA (if bottled water)  
+form12_2015,makesafe,How You Make Water Safer to Drink,9999,Missing
+form12_2015,wdrinkng,Main Source of Drinking Water,11,Piped into dwelling  
+form12_2015,wdrinkng,Main Source of Drinking Water,12,Piped to yard/plot  
+form12_2015,wdrinkng,Main Source of Drinking Water,13,Public tap/stand pipe  
+form12_2015,wdrinkng,Main Source of Drinking Water,21,Tube well or borehole 
+form12_2015,wdrinkng,Main Source of Drinking Water,31,Protected Dug Well  
+form12_2015,wdrinkng,Main Source of Drinking Water,32,Unprotected Dug Well  
+form12_2015,wdrinkng,Main Source of Drinking Water,41,Protected spring   
+form12_2015,wdrinkng,Main Source of Drinking Water,42,Unprotected spring   
+form12_2015,wdrinkng,Main Source of Drinking Water,51,Rainwater    
+form12_2015,wdrinkng,Main Source of Drinking Water,61,Tanker truck   
+form12_2015,wdrinkng,Main Source of Drinking Water,71,Cart with small tank 
+form12_2015,wdrinkng,Main Source of Drinking Water,81,Surface water (river, dam, etc.)
+form12_2015,wdrinkng,Main Source of Drinking Water,91,Bottled/Mineral water   
+form12_2015,wdrinkng,Main Source of Drinking Water,9999,Missing
+form12_2015,wall,Main Material Used for the Wall,1,Concrete/Brick/Stone
+form12_2015,wall,Main Material Used for the Wall,2,Wood    
+form12_2015,wall,Main Material Used for the Wall,3,Half Concrete/Brick/Stone and Half Wood
+form12_2015,wall,Main Material Used for the Wall,4,Galvanized Iron/Aluminum
+form12_2015,wall,Main Material Used for the Wall,5,Bamboo/Sawali/Cogon/Nipa
+form12_2015,wall,Main Material Used for the Wall,6,Asbestos
+form12_2015,wall,Main Material Used for the Wall,7,Glass    
+form12_2015,wall,Main Material Used for the Wall,8,Makeshift/Salvaged/Improvised Materials
+form12_2015,wall,Main Material Used for the Wall,10,No walls
+form12_2015,toilet,Type of Toilet Facility,0,No toilet facility (bush, field, river,
+form12_2015,toilet,Type of Toilet Facility,1,Water-sealed (pour with septic tank) 
+form12_2015,toilet,Type of Toilet Facility,2,Water-sealed (flush with septic tank) 
+form12_2015,toilet,Type of Toilet Facility,3,Not water-sealed (pour/flush without septic tank, pit latrine with or without slab/open pit)
+form12_2015,toilet,Type of Toilet Facility,9999,Missing
+form12_2015,tenurlot,Tenure Status of the Lot,1,Owned  
+form12_2015,tenurlot,Tenure Status of the Lot,2,Rented  
+form12_2015,tenurlot,Tenure Status of the Lot,3,Rent-free with consent
+form12_2015,tenurlot,Tenure Status of the Lot,4,Rent-free without consent
+form12_2015,tenurlot,Tenure Status of the Lot,9999,Missing
+form12_2015,tenurhws,Tenure Status of the Dwelling Unit,1,Owned  
+form12_2015,tenurhws,Tenure Status of the Dwelling Unit,2,Rented  
+form12_2015,tenurhws,Tenure Status of the Dwelling Unit,3,Rent-free with consent
+form12_2015,tenurhws,Tenure Status of the Dwelling Unit,4,Rent-free without consent
+form12_2015,tenurhws,Tenure Status of the Dwelling Unit,9999,Missing
+form12_2015,strrec,Strata Code,,
+form12_2015,shareit,Toilet Facility Shared,0,No, exclusive for family use 
+form12_2015,shareit,Toilet Facility Shared,1,Yes, share it with other households or not exclusive
+form12_2015,shareit,Toilet Facility Shared,2,Yes, public use toilet  
+form12_2015,shareit,Toilet Facility Shared,9,NA (if no toilet)  
+form12_2015,shareit,Toilet Facility Shared,9999,Missing
+form12_2015,segregate,Garbage Segregation,0,No
+form12_2015,segregate,Garbage Segregation,1,Yes
+form12_2015,segregate,Garbage Segregation,9999,Missing
+form12_2015,roof,Main Roofing Material,1,Galvanized Iron/Aluminum
+form12_2015,roof,Main Roofing Material,2,Tile Concrete/Clay Tile   
+form12_2015,roof,Main Roofing Material,3,Half Galvanized and Half Concrete
+form12_2015,roof,Main Roofing Material,4,Wood     
+form12_2015,roof,Main Roofing Material,5,Natural materials  (nipa, cogon, coconut leaves)
+form12_2015,roof,Main Roofing Material,6,Asbestos     
+form12_2015,roof,Main Roofing Material,7,Salvaged (scrap materials, cartons, used iron sheet)
+form12_2015,regcode,Name of Regions,1,ILOCOS REGION
+form12_2015,regcode,Name of Regions,2,CAGAYAN VALLEY
+form12_2015,regcode,Name of Regions,3,CENTRAL LUZON
+form12_2015,regcode,Name of Regions,5,BICOL
+form12_2015,regcode,Name of Regions,6,WESTERN VISAYAS
+form12_2015,regcode,Name of Regions,7,CENTRAL VISAYAS
+form12_2015,regcode,Name of Regions,8,EASTERN VISAYAS
+form12_2015,regcode,Name of Regions,9,ZAMBOANGA PENINSULA
+form12_2015,regcode,Name of Regions,10,NORTHERN MINDANAO
+form12_2015,regcode,Name of Regions,11,DAVAO REGION
+form12_2015,regcode,Name of Regions,12,SOCCSKSARGEN
+form12_2015,regcode,Name of Regions,13,NATIONAL CAPITAL REGION
+form12_2015,regcode,Name of Regions,14,CORDILLERA ADMINISTRATIVE REGION
+form12_2015,regcode,Name of Regions,15,ARMM
+form12_2015,regcode,Name of Regions,16,CARAGA
+form12_2015,regcode,Name of Regions,41,CALABARZON
+form12_2015,regcode,Name of Regions,42,MIMAROPA
+form12_2015,psurec,Primary Sampling Unit,,
+form12_2015,provcode,Name of Provinces,1,ABRA
+form12_2015,provcode,Name of Provinces,2,AGUSAN DEL NORTE
+form12_2015,provcode,Name of Provinces,3,AGUSAN DEL SUR
+form12_2015,provcode,Name of Provinces,4,AKLAN
+form12_2015,provcode,Name of Provinces,5,ALBAY
+form12_2015,provcode,Name of Provinces,6,ANTIQUE
+form12_2015,provcode,Name of Provinces,7,BASILAN
+form12_2015,provcode,Name of Provinces,8,BATAAN
+form12_2015,provcode,Name of Provinces,10,BATANGAS
+form12_2015,provcode,Name of Provinces,11,BENGUET
+form12_2015,provcode,Name of Provinces,12,BOHOL
+form12_2015,provcode,Name of Provinces,13,BUKIDNON
+form12_2015,provcode,Name of Provinces,14,BULACAN
+form12_2015,provcode,Name of Provinces,15,CAGAYAN
+form12_2015,provcode,Name of Provinces,16,CAMARINES NORTE
+form12_2015,provcode,Name of Provinces,17,CAMARINES SUR
+form12_2015,provcode,Name of Provinces,18,CAMIGUIN
+form12_2015,provcode,Name of Provinces,19,CAPIZ
+form12_2015,provcode,Name of Provinces,20,CATANDUANES
+form12_2015,provcode,Name of Provinces,21,CAVITE
+form12_2015,provcode,Name of Provinces,22,CEBU
+form12_2015,provcode,Name of Provinces,23,DAVAO (DAVAO DEL NORTE)
+form12_2015,provcode,Name of Provinces,24,DAVAO DEL SUR
+form12_2015,provcode,Name of Provinces,25,DAVAO ORIENTAL
+form12_2015,provcode,Name of Provinces,26,EASTERN SAMAR
+form12_2015,provcode,Name of Provinces,27,IFUGAO
+form12_2015,provcode,Name of Provinces,28,ILOCOS NORTE
+form12_2015,provcode,Name of Provinces,29,ILOCOS SUR
+form12_2015,provcode,Name of Provinces,30,ILOILO
+form12_2015,provcode,Name of Provinces,31,ISABELA
+form12_2015,provcode,Name of Provinces,32,KALINGA
+form12_2015,provcode,Name of Provinces,33,LA UNION
+form12_2015,provcode,Name of Provinces,34,LAGUNA
+form12_2015,provcode,Name of Provinces,35,LANAO DEL NORTE
+form12_2015,provcode,Name of Provinces,36,LANAO DEL SUR
+form12_2015,provcode,Name of Provinces,37,LEYTE
+form12_2015,provcode,Name of Provinces,38,MAGUINDANAO
+form12_2015,provcode,Name of Provinces,39,NCR - MANILA FIRST DISTRICT
+form12_2015,provcode,Name of Provinces,40,MARINDUQUE
+form12_2015,provcode,Name of Provinces,41,MASBATE
+form12_2015,provcode,Name of Provinces,42,MISAMIS OCCIDENTAL
+form12_2015,provcode,Name of Provinces,43,MISAMIS ORIENTAL
+form12_2015,provcode,Name of Provinces,44,MOUNTAIN PROVINCE
+form12_2015,provcode,Name of Provinces,45,NEGROS OCCIDENTAL
+form12_2015,provcode,Name of Provinces,46,NEGROS ORIENTAL
+form12_2015,provcode,Name of Provinces,47,NORTH COTABATO
+form12_2015,provcode,Name of Provinces,48,NORTHERN SAMAR
+form12_2015,provcode,Name of Provinces,49,NUEVA ECIJA
+form12_2015,provcode,Name of Provinces,50,NUEVA VIZCAYA
+form12_2015,provcode,Name of Provinces,51,OCCIDENTAL MINDORO
+form12_2015,provcode,Name of Provinces,52,ORIENTAL MINDORO
+form12_2015,provcode,Name of Provinces,53,PALAWAN
+form12_2015,provcode,Name of Provinces,54,PAMPANGA
+form12_2015,provcode,Name of Provinces,55,PANGASINAN
+form12_2015,provcode,Name of Provinces,56,QUEZON
+form12_2015,provcode,Name of Provinces,57,QUIRINO
+form12_2015,provcode,Name of Provinces,58,RIZAL
+form12_2015,provcode,Name of Provinces,59,ROMBLON
+form12_2015,provcode,Name of Provinces,60,WESTERN SAMAR
+form12_2015,provcode,Name of Provinces,61,SIQUIJOR
+form12_2015,provcode,Name of Provinces,62,SORSOGON
+form12_2015,provcode,Name of Provinces,63,SOUTH COTABATO
+form12_2015,provcode,Name of Provinces,64,SOUTHERN LEYTE
+form12_2015,provcode,Name of Provinces,65,SULTAN KUDARAT
+form12_2015,provcode,Name of Provinces,66,SULU
+form12_2015,provcode,Name of Provinces,67,SURIGAO DEL NORTE
+form12_2015,provcode,Name of Provinces,68,SURIGAO DEL SUR
+form12_2015,provcode,Name of Provinces,69,TARLAC
+form12_2015,provcode,Name of Provinces,70,TAWI-TAWI
+form12_2015,provcode,Name of Provinces,71,ZAMBALES
+form12_2015,provcode,Name of Provinces,72,ZAMBOANGA DEL NORTE
+form12_2015,provcode,Name of Provinces,73,ZAMBOANGA DEL SUR
+form12_2015,provcode,Name of Provinces,74,NCR SECOND DISTRICT
+form12_2015,provcode,Name of Provinces,75,NCR THIRD DISTRICT
+form12_2015,provcode,Name of Provinces,76,NCR FOURTH DISTRICT
+form12_2015,provcode,Name of Provinces,77,AURORA
+form12_2015,provcode,Name of Provinces,78,BILIRAN
+form12_2015,provcode,Name of Provinces,79,GUIMARAS
+form12_2015,provcode,Name of Provinces,80,SARANGANI
+form12_2015,provcode,Name of Provinces,81,APAYAO
+form12_2015,provcode,Name of Provinces,82,COMPOSTELA VALLEY
+form12_2015,provcode,Name of Provinces,83,ZAMBOANGA SIBUGAY
+form12_2015,provcode,Name of Provinces,97,ISABELA CITY
+form12_2015,provcode,Name of Provinces,98,COTABATO CITY
+form12_2015,bedroom,Number of Bedrooms,,
+form12_2015,hhnum,Household Number (Unique identifier; merging variable),,
+form12_2015,fwealthq,Wealth Quintile,1,Poorest
+form12_2015,fwealthq,Wealth Quintile,2,Poor
+form12_2015,fwealthq,Wealth Quintile,3,Middle
+form12_2015,fwealthq,Wealth Quintile,4,Rich
+form12_2015,fwealthq,Wealth Quintile,5,Richest
+form12_2015,fuelmain,Type of Fuel Used for Cooking,1,Electricity 
+form12_2015,fuelmain,Type of Fuel Used for Cooking,2,Liquefied petroleum Gas (LPG)
+form12_2015,fuelmain,Type of Fuel Used for Cooking,3,Natural gas
+form12_2015,fuelmain,Type of Fuel Used for Cooking,4,Kerosene 
+form12_2015,fuelmain,Type of Fuel Used for Cooking,5,Charcoal 
+form12_2015,fuelmain,Type of Fuel Used for Cooking,6,Wood 
+form12_2015,fuelmain,Type of Fuel Used for Cooking,7,Biomass/Agricultural Crop (Sawdust/Hull, etc.)
+form12_2015,fuelmain,Type of Fuel Used for Cooking,8,Animal Dung
+form12_2015,fuelmain,Type of Fuel Used for Cooking,9999,Missing
+form12_2015,floor,Main Flooring Material,1,Earth/Sand
+form12_2015,floor,Main Flooring Material,2,Wood planks
+form12_2015,floor,Main Flooring Material,3,Coco Lumber/Bamboo  
+form12_2015,floor,Main Flooring Material,4,Marble   
+form12_2015,floor,Main Flooring Material,5,Parquet or polished wood
+form12_2015,floor,Main Flooring Material,6,Ceramic tiles  
+form12_2015,floor,Main Flooring Material,7,Vinyl or asphalt strips
+form12_2015,floor,Main Flooring Material,8,Plain cement  
+form12_2015,electrct,Electricity in the Household,0,No connection (with electricity in the
+form12_2015,electrct,Electricity in the Household,1,Yes     
+form12_2015,electrct,Electricity in the Household,2,Yes, using generator   
+form12_2015,electrct,Electricity in the Household,3,Yes, own connection but temporarily dis
+form12_2015,electrct,Electricity in the Household,4,Yes, tap from neighbor
+form12_2015,electrct,Electricity in the Household,5,No electricity in the area 
+form12_2015,electrct,Electricity in the Household,9999,Missing
+form12_2015,dweltype,Type of Dwelling Unit,1,Single house 
+form12_2015,dweltype,Type of Dwelling Unit,2,Duplex  
+form12_2015,dweltype,Type of Dwelling Unit,3,Multi-unit residential 
+form12_2015,dweltype,Type of Dwelling Unit,4,Commercial/Industrial/Agricultural
+form12_2015,dweltype,Type of Dwelling Unit,5,Institutional living quarter
+form12_2015,dweltype,Type of Dwelling Unit,6,Other housing unit
+form12_2015,dump,Dispose Garbage by Dumping/Throwing   ,0,No
+form12_2015,dump,Dispose Garbage by Dumping/Throwing   ,1,Yes
+form12_2015,drinksafe,Make Water Safer to Drink,0,No   
+form12_2015,drinksafe,Make Water Safer to Drink,1,Yes   
+form12_2015,drinksafe,Make Water Safer to Drink,9,N/A (if bottled water)
+form12_2015,drinksafe,Make Water Safer to Drink,9999,Missing
+form12_2015,composting,Dispose Garbage by Compost pit,0,No
+form12_2015,composting,Dispose Garbage by Compost pit,1,Yes
+form12_2015,collect,Dispose Garbage by Collector System,0,No
+form12_2015,collect,Dispose Garbage by Collector System,1,Yes
+form12_2015,burn,Dispose Garbage by Burning,0,No
+form12_2015,burn,Dispose Garbage by Burning,1,Yes

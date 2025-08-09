@@ -1,0 +1,298 @@
+formno,variable_name,variable_label,var_value,value_label
+form31_2015,supp2,Folic Acid,0,No  
+form31_2015,supp2,Folic Acid,1,Yes  
+form31_2015,supp2,Folic Acid,88,Missing/Do not know
+form31_2015,supp2,Folic Acid,99,NA  
+form31_2015,prenatal_ser5,Urinalysis,0,No  
+form31_2015,prenatal_ser5,Urinalysis,1,Yes  
+form31_2015,prenatal_ser5,Urinalysis,88,Missing/Do not know
+form31_2015,prenatal_ser5,Urinalysis,99,NA  
+form31_2015,prenatal_ser6,Ultrasound,0,No  
+form31_2015,prenatal_ser6,Ultrasound,1,Yes  
+form31_2015,prenatal_ser6,Ultrasound,88,Missing/Do not know
+form31_2015,prenatal_ser6,Ultrasound,99,NA  
+form31_2015,prenatal_ser7,Vitamins/Micronutrients Supplementation,0,No  
+form31_2015,prenatal_ser7,Vitamins/Micronutrients Supplementation,1,Yes  
+form31_2015,prenatal_ser7,Vitamins/Micronutrients Supplementation,88,Missing/Do not know
+form31_2015,prenatal_ser7,Vitamins/Micronutrients Supplementation,99,NA  
+form31_2015,prenatal_ser8,Tetanus Toxoid Vaccine,0,No  
+form31_2015,prenatal_ser8,Tetanus Toxoid Vaccine,1,Yes  
+form31_2015,prenatal_ser8,Tetanus Toxoid Vaccine,88,Missing/Do not know
+form31_2015,prenatal_ser8,Tetanus Toxoid Vaccine,99,NA  
+form31_2015,prenatal_ser9,Nutrition Counseling,0,No  
+form31_2015,prenatal_ser9,Nutrition Counseling,1,Yes  
+form31_2015,prenatal_ser9,Nutrition Counseling,88,Missing/Do not know
+form31_2015,prenatal_ser9,Nutrition Counseling,99,NA  
+form31_2015,provcode,Name of Provinces,1,ABRA
+form31_2015,provcode,Name of Provinces,2,AGUSAN DEL NORTE
+form31_2015,provcode,Name of Provinces,3,AGUSAN DEL SUR
+form31_2015,provcode,Name of Provinces,4,AKLAN
+form31_2015,provcode,Name of Provinces,5,ALBAY
+form31_2015,provcode,Name of Provinces,6,ANTIQUE
+form31_2015,provcode,Name of Provinces,7,BASILAN
+form31_2015,provcode,Name of Provinces,8,BATAAN
+form31_2015,provcode,Name of Provinces,10,BATANGAS
+form31_2015,provcode,Name of Provinces,11,BENGUET
+form31_2015,provcode,Name of Provinces,12,BOHOL
+form31_2015,provcode,Name of Provinces,13,BUKIDNON
+form31_2015,provcode,Name of Provinces,14,BULACAN
+form31_2015,provcode,Name of Provinces,15,CAGAYAN
+form31_2015,provcode,Name of Provinces,16,CAMARINES NORTE
+form31_2015,provcode,Name of Provinces,17,CAMARINES SUR
+form31_2015,provcode,Name of Provinces,18,CAMIGUIN
+form31_2015,provcode,Name of Provinces,19,CAPIZ
+form31_2015,provcode,Name of Provinces,20,CATANDUANES
+form31_2015,provcode,Name of Provinces,21,CAVITE
+form31_2015,provcode,Name of Provinces,22,CEBU
+form31_2015,provcode,Name of Provinces,23,DAVAO (DAVAO DEL NORTE)
+form31_2015,provcode,Name of Provinces,24,DAVAO DEL SUR
+form31_2015,provcode,Name of Provinces,25,DAVAO ORIENTAL
+form31_2015,provcode,Name of Provinces,26,EASTERN SAMAR
+form31_2015,provcode,Name of Provinces,27,IFUGAO
+form31_2015,provcode,Name of Provinces,28,ILOCOS NORTE
+form31_2015,provcode,Name of Provinces,29,ILOCOS SUR
+form31_2015,provcode,Name of Provinces,30,ILOILO
+form31_2015,provcode,Name of Provinces,31,ISABELA
+form31_2015,provcode,Name of Provinces,32,KALINGA
+form31_2015,provcode,Name of Provinces,33,LA UNION
+form31_2015,provcode,Name of Provinces,34,LAGUNA
+form31_2015,provcode,Name of Provinces,35,LANAO DEL NORTE
+form31_2015,provcode,Name of Provinces,36,LANAO DEL SUR
+form31_2015,provcode,Name of Provinces,37,LEYTE
+form31_2015,provcode,Name of Provinces,38,MAGUINDANAO
+form31_2015,provcode,Name of Provinces,39,NCR - MANILA FIRST DISTRICT
+form31_2015,provcode,Name of Provinces,40,MARINDUQUE
+form31_2015,provcode,Name of Provinces,41,MASBATE
+form31_2015,provcode,Name of Provinces,42,MISAMIS OCCIDENTAL
+form31_2015,provcode,Name of Provinces,43,MISAMIS ORIENTAL
+form31_2015,provcode,Name of Provinces,44,MOUNTAIN PROVINCE
+form31_2015,provcode,Name of Provinces,45,NEGROS OCCIDENTAL
+form31_2015,provcode,Name of Provinces,46,NEGROS ORIENTAL
+form31_2015,provcode,Name of Provinces,47,NORTH COTABATO
+form31_2015,provcode,Name of Provinces,48,NORTHERN SAMAR
+form31_2015,provcode,Name of Provinces,49,NUEVA ECIJA
+form31_2015,provcode,Name of Provinces,50,NUEVA VIZCAYA
+form31_2015,provcode,Name of Provinces,51,OCCIDENTAL MINDORO
+form31_2015,provcode,Name of Provinces,52,ORIENTAL MINDORO
+form31_2015,provcode,Name of Provinces,53,PALAWAN
+form31_2015,provcode,Name of Provinces,54,PAMPANGA
+form31_2015,provcode,Name of Provinces,55,PANGASINAN
+form31_2015,provcode,Name of Provinces,56,QUEZON
+form31_2015,provcode,Name of Provinces,57,QUIRINO
+form31_2015,provcode,Name of Provinces,58,RIZAL
+form31_2015,provcode,Name of Provinces,59,ROMBLON
+form31_2015,provcode,Name of Provinces,60,WESTERN SAMAR
+form31_2015,provcode,Name of Provinces,61,SIQUIJOR
+form31_2015,provcode,Name of Provinces,62,SORSOGON
+form31_2015,provcode,Name of Provinces,63,SOUTH COTABATO
+form31_2015,provcode,Name of Provinces,64,SOUTHERN LEYTE
+form31_2015,provcode,Name of Provinces,65,SULTAN KUDARAT
+form31_2015,provcode,Name of Provinces,66,SULU
+form31_2015,provcode,Name of Provinces,67,SURIGAO DEL NORTE
+form31_2015,provcode,Name of Provinces,68,SURIGAO DEL SUR
+form31_2015,provcode,Name of Provinces,69,TARLAC
+form31_2015,provcode,Name of Provinces,70,TAWI-TAWI
+form31_2015,provcode,Name of Provinces,71,ZAMBALES
+form31_2015,provcode,Name of Provinces,72,ZAMBOANGA DEL NORTE
+form31_2015,provcode,Name of Provinces,73,ZAMBOANGA DEL SUR
+form31_2015,provcode,Name of Provinces,74,NCR SECOND DISTRICT
+form31_2015,provcode,Name of Provinces,75,NCR THIRD DISTRICT
+form31_2015,provcode,Name of Provinces,76,NCR FOURTH DISTRICT
+form31_2015,provcode,Name of Provinces,77,AURORA
+form31_2015,provcode,Name of Provinces,78,BILIRAN
+form31_2015,provcode,Name of Provinces,79,GUIMARAS
+form31_2015,provcode,Name of Provinces,80,SARANGANI
+form31_2015,provcode,Name of Provinces,81,APAYAO
+form31_2015,provcode,Name of Provinces,82,COMPOSTELA VALLEY
+form31_2015,provcode,Name of Provinces,83,ZAMBOANGA SIBUGAY
+form31_2015,provcode,Name of Provinces,97,ISABELA CITY
+form31_2015,provcode,Name of Provinces,98,COTABATO CITY
+form31_2015,psurec,Primary Sampling Unit,,
+form31_2015,reason_delayed_pnc,Reason for Delayed Pre-Natal Check Up,1,Unknown pregnancy    
+form31_2015,reason_delayed_pnc,Reason for Delayed Pre-Natal Check Up,2,Not Informed/Not Aware
+form31_2015,reason_delayed_pnc,Reason for Delayed Pre-Natal Check Up,3,No Available Money
+form31_2015,reason_delayed_pnc,Reason for Delayed Pre-Natal Check Up,4,Health Facility is Very Far
+form31_2015,reason_delayed_pnc,Reason for Delayed Pre-Natal Check Up,5,Busy/No time/Not interested
+form31_2015,reason_delayed_pnc,Reason for Delayed Pre-Natal Check Up,6,Others     
+form31_2015,reason_delayed_pnc,Reason for Delayed Pre-Natal Check Up,7,Pregnancy was hid to the Family
+form31_2015,reason_delayed_pnc,Reason for Delayed Pre-Natal Check Up,88,Missing/Do not know   
+form31_2015,reason_delayed_pnc,Reason for Delayed Pre-Natal Check Up,99,NA     
+form31_2015,reason_ontime_pnc,Reason for Ontime Pre-Natal Check Up,1,Based on my knowledge    
+form31_2015,reason_ontime_pnc,Reason for Ontime Pre-Natal Check Up,2,Advised by doctor,midwife,nurse     
+form31_2015,reason_ontime_pnc,Reason for Ontime Pre-Natal Check Up,3,Advised by BNS/BHW     
+form31_2015,reason_ontime_pnc,Reason for Ontime Pre-Natal Check Up,4,Advised by relatives/friends/neighbors     
+form31_2015,reason_ontime_pnc,Reason for Ontime Pre-Natal Check Up,5,Seen/read/heard from TV, newsprint, mag   
+form31_2015,reason_ontime_pnc,Reason for Ontime Pre-Natal Check Up,9,No ANC/ ANC not ontime (beyond 3 months)
+form31_2015,reason_ontime_pnc,Reason for Ontime Pre-Natal Check Up,88,Missing/Do not know     
+form31_2015,reason_ontime_pnc,Reason for Ontime Pre-Natal Check Up,99,NA       
+form31_2015,regcode,Name of Regions,1,ILOCOS REGION
+form31_2015,regcode,Name of Regions,2,CAGAYAN VALLEY
+form31_2015,regcode,Name of Regions,3,CENTRAL LUZON
+form31_2015,regcode,Name of Regions,5,BICOL
+form31_2015,regcode,Name of Regions,6,WESTERN VISAYAS
+form31_2015,regcode,Name of Regions,7,CENTRAL VISAYAS
+form31_2015,regcode,Name of Regions,8,EASTERN VISAYAS
+form31_2015,regcode,Name of Regions,9,ZAMBOANGA PENINSULA
+form31_2015,regcode,Name of Regions,10,NORTHERN MINDANAO
+form31_2015,regcode,Name of Regions,11,DAVAO REGION
+form31_2015,regcode,Name of Regions,12,SOCCSKSARGEN
+form31_2015,regcode,Name of Regions,13,NATIONAL CAPITAL REGION
+form31_2015,regcode,Name of Regions,14,CORDILLERA ADMINISTRATIVE REGION
+form31_2015,regcode,Name of Regions,15,ARMM
+form31_2015,regcode,Name of Regions,16,CARAGA
+form31_2015,regcode,Name of Regions,41,CALABARZON
+form31_2015,regcode,Name of Regions,42,MIMAROPA
+form31_2015,strrec,Strata Code,,
+form31_2015,supp1,Ferrous Sulfate,0,No  
+form31_2015,supp1,Ferrous Sulfate,1,Yes  
+form31_2015,supp1,Ferrous Sulfate,88,Missing/Do not know
+form31_2015,supp1,Ferrous Sulfate,99,NA  
+form31_2015,prenatal_ser4,Blood Test,0,No  
+form31_2015,prenatal_ser4,Blood Test,1,Yes  
+form31_2015,prenatal_ser4,Blood Test,88,Missing/Do not know
+form31_2015,prenatal_ser4,Blood Test,99,NA  
+form31_2015,supp3,Iron-Folic Acid,0,No  
+form31_2015,supp3,Iron-Folic Acid,1,Yes  
+form31_2015,supp3,Iron-Folic Acid,88,Missing/Do not know
+form31_2015,supp3,Iron-Folic Acid,99,NA  
+form31_2015,supp4,Multivitamins,0,No  
+form31_2015,supp4,Multivitamins,1,Yes  
+form31_2015,supp4,Multivitamins,88,Missing/Do not know
+form31_2015,supp4,Multivitamins,99,NA  
+form31_2015,supp5,Single Vitamin/Mineral,0,No  
+form31_2015,supp5,Single Vitamin/Mineral,1,Yes  
+form31_2015,supp5,Single Vitamin/Mineral,88,Missing/Do not know
+form31_2015,supp5,Single Vitamin/Mineral,99,NA  
+form31_2015,take_vitmin,Take/Currently Taking Vitamins,0,No  
+form31_2015,take_vitmin,Take/Currently Taking Vitamins,1,Yes  
+form31_2015,take_vitmin,Take/Currently Taking Vitamins,88,Missing/Do not know
+form31_2015,wash_hand1,Wash Hand: Before Food Preparation,0,Never   
+form31_2015,wash_hand1,Wash Hand: Before Food Preparation,1,Always   
+form31_2015,wash_hand1,Wash Hand: Before Food Preparation,2,Sometimes   
+form31_2015,wash_hand1,Wash Hand: Before Food Preparation,88,Missing/Do not know      
+form31_2015,wash_hand1,Wash Hand: Before Food Preparation,99,NA (first time pregnant)
+form31_2015,wash_hand2,Wash Hand: Before Eating,0,Never   
+form31_2015,wash_hand2,Wash Hand: Before Eating,1,Always   
+form31_2015,wash_hand2,Wash Hand: Before Eating,2,Sometimes   
+form31_2015,wash_hand2,Wash Hand: Before Eating,88,Missing/Do not know      
+form31_2015,wash_hand2,Wash Hand: Before Eating,99,NA (first time pregnant)
+form31_2015,wash_hand3,Wash Hand: After Eating,0,Never   
+form31_2015,wash_hand3,Wash Hand: After Eating,1,Always   
+form31_2015,wash_hand3,Wash Hand: After Eating,2,Sometimes   
+form31_2015,wash_hand3,Wash Hand: After Eating,88,Missing/Do not know      
+form31_2015,wash_hand3,Wash Hand: After Eating,99,NA (first time pregnant)
+form31_2015,wash_hand4,Wash Hand: After Toilet Use,0,Never   
+form31_2015,wash_hand4,Wash Hand: After Toilet Use,1,Always   
+form31_2015,wash_hand4,Wash Hand: After Toilet Use,2,Sometimes   
+form31_2015,wash_hand4,Wash Hand: After Toilet Use,88,Missing/Do not know      
+form31_2015,wash_hand4,Wash Hand: After Toilet Use,99,NA (first time pregnant)
+form31_2015,wash_hand5,Wash Hand: Before Feeding the Child,0,Never   
+form31_2015,wash_hand5,Wash Hand: Before Feeding the Child,1,Always   
+form31_2015,wash_hand5,Wash Hand: Before Feeding the Child,2,Sometimes   
+form31_2015,wash_hand5,Wash Hand: Before Feeding the Child,88,Missing/Do not know      
+form31_2015,wash_hand5,Wash Hand: Before Feeding the Child,99,NA (first time pregnant)
+form31_2015,wash_hand6,Wash Hand: After Attending to a Child Who Defecated,0,Never   
+form31_2015,wash_hand6,Wash Hand: After Attending to a Child Who Defecated,1,Always   
+form31_2015,wash_hand6,Wash Hand: After Attending to a Child Who Defecated,2,Sometimes   
+form31_2015,wash_hand6,Wash Hand: After Attending to a Child Who Defecated,88,Missing/Do not know      
+form31_2015,wash_hand6,Wash Hand: After Attending to a Child Who Defecated,99,NA (first time pregnant)
+form31_2015,with_postnatal,With postnatal check-up,0,No  
+form31_2015,with_postnatal,With postnatal check-up,1,Yes  
+form31_2015,with_postnatal,With postnatal check-up,88,Missing/Do not know
+form31_2015,pnc_ontime,Pre-Natal Check-Up on Time,0,No  
+form31_2015,pnc_ontime,Pre-Natal Check-Up on Time,1,Yes  
+form31_2015,pnc_ontime,Pre-Natal Check-Up on Time,88,Missing/Do not know
+form31_2015,pnc_ontime,Pre-Natal Check-Up on Time,99,NA  
+form31_2015,finalwgt,Sampling Weights,,
+form31_2015,hhnum,Household Number (Unique identifier; merging variable),,
+form31_2015,howlong_bfeed,Duration of intended Breastfeeding,1,Not sure how long   
+form31_2015,howlong_bfeed,Duration of intended Breastfeeding,2,Below 6 months    
+form31_2015,howlong_bfeed,Duration of intended Breastfeeding,3,At least 6 months   
+form31_2015,howlong_bfeed,Duration of intended Breastfeeding,4,At least 2 years   
+form31_2015,howlong_bfeed,Duration of intended Breastfeeding,5,As long as there is milk flow
+form31_2015,howlong_bfeed,Duration of intended Breastfeeding,88,Missing/Do not know    
+form31_2015,howlong_bfeed,Duration of intended Breastfeeding,99,NA (no intention to breastfeed)  
+form31_2015,importance_vaccine,Importance of Vaccination,1,Prevent life threatening diseases     
+form31_2015,importance_vaccine,Importance of Vaccination,2,Protects the child from infectious diseases   
+form31_2015,importance_vaccine,Importance of Vaccination,3,Helps the child to be healthy or not to get sick
+form31_2015,importance_vaccine,Importance of Vaccination,4,Others        
+form31_2015,importance_vaccine,Importance of Vaccination,88,Missing/Do not know      
+form31_2015,importance_vaccine,Importance of Vaccination,99,Not Applicable       
+form31_2015,member_code,Member Code (Unique identifier; merging variable),,
+form31_2015,month_bf,Knowledge of Number of Months of Exclusively Breastfeeding,88,Missing/Do not know    
+form31_2015,month_comf,Knowledge of Number of Months When to Give Other Food Other Than Breast Milk,88,Missing/Do not know    
+form31_2015,nightblindness,Diagnosed with Nightblindness,0,No, di not consult a doctor/nurse/midwife
+form31_2015,nightblindness,Diagnosed with Nightblindness,1,Yes consulted, but was not told to have nightblindness
+form31_2015,nightblindness,Diagnosed with Nightblindness,2,Yes consulted and was told to have nightblindness
+form31_2015,nightblindness,Diagnosed with Nightblindness,88,Missing/Do not know     
+form31_2015,nightblindness,Diagnosed with Nightblindness,999999,NA (did not experience poor vision during the night)
+form31_2015,novitamin_reason,Reason of not taking vitamins during pregnancy,1,It is not important 
+form31_2015,novitamin_reason,Reason of not taking vitamins during pregnancy,2,Does not like the taste
+form31_2015,novitamin_reason,Reason of not taking vitamins during pregnancy,3,No available vitamins for free
+form31_2015,novitamin_reason,Reason of not taking vitamins during pregnancy,4,No money to buy vitamins
+form31_2015,novitamin_reason,Reason of not taking vitamins during pregnancy,5,Ran out of stock 
+form31_2015,novitamin_reason,Reason of not taking vitamins during pregnancy,88,Missing/Do not know  
+form31_2015,novitamin_reason,Reason of not taking vitamins during pregnancy,999999,NA (currently taking vitamins) 
+form31_2015,pnc_avail,Availed Pre-Natal Check-Up,0,No  
+form31_2015,pnc_avail,Availed Pre-Natal Check-Up,1,Yes  
+form31_2015,pnc_avail,Availed Pre-Natal Check-Up,88,Missing/Do not know
+form31_2015,pnc_months,Month of Pre-Natal Check-up,1,1 month 
+form31_2015,pnc_months,Month of Pre-Natal Check-up,2,2 months 
+form31_2015,pnc_months,Month of Pre-Natal Check-up,3,3 months 
+form31_2015,pnc_months,Month of Pre-Natal Check-up,4,4 months 
+form31_2015,pnc_months,Month of Pre-Natal Check-up,5,5 months 
+form31_2015,pnc_months,Month of Pre-Natal Check-up,6,6 months 
+form31_2015,pnc_months,Month of Pre-Natal Check-up,7,7 months 
+form31_2015,pnc_months,Month of Pre-Natal Check-up,8,8 months 
+form31_2015,pnc_months,Month of Pre-Natal Check-up,9,9 months 
+form31_2015,pnc_months,Month of Pre-Natal Check-up,88,Missing/Do not know
+form31_2015,pnc_months,Month of Pre-Natal Check-up,99,NA  (No pre-natal care)
+form31_2015,child_vaccine,Knowledge on the need for a child to be vaccinated,0,No  
+form31_2015,child_vaccine,Knowledge on the need for a child to be vaccinated,1,Yes  
+form31_2015,child_vaccine,Knowledge on the need for a child to be vaccinated,88,Missing/Do not know
+form31_2015,practice_postnatal,Practice Post-Natal Check-Up,0,Did not have postnatal check-up 
+form31_2015,practice_postnatal,Practice Post-Natal Check-Up,1,Immediately after birth (<1 hour after delivery)
+form31_2015,practice_postnatal,Practice Post-Natal Check-Up,2,Within 1-3 hours after delivery 
+form31_2015,practice_postnatal,Practice Post-Natal Check-Up,3,Within 4-24 hours after delivery 
+form31_2015,practice_postnatal,Practice Post-Natal Check-Up,4,2 days after delivery  
+form31_2015,practice_postnatal,Practice Post-Natal Check-Up,5,More 2 days after delivery 
+form31_2015,practice_postnatal,Practice Post-Natal Check-Up,88,Missing/Do not know   
+form31_2015,preg_asth,Health Problems: Asthma,0,No  
+form31_2015,preg_asth,Health Problems: Asthma,1,Yes  
+form31_2015,preg_asth,Health Problems: Asthma,88,Missing/Do not know
+form31_2015,preg_asth,Health Problems: Asthma,99,NA  
+form31_2015,preg_compli,Had Health Problems Related to Current/Last Pregnancy,0,No  
+form31_2015,preg_compli,Had Health Problems Related to Current/Last Pregnancy,1,Yes  
+form31_2015,preg_compli,Had Health Problems Related to Current/Last Pregnancy,88,Missing/Do not know
+form31_2015,preg_diab,Health Problems: Diabetes,0,No  
+form31_2015,preg_diab,Health Problems: Diabetes,1,Yes  
+form31_2015,preg_diab,Health Problems: Diabetes,88,Missing/Do not know
+form31_2015,preg_diab,Health Problems: Diabetes,99,NA  
+form31_2015,preg_goit,Health Problems: Goiter,0,No  
+form31_2015,preg_goit,Health Problems: Goiter,1,Yes  
+form31_2015,preg_goit,Health Problems: Goiter,88,Missing/Do not know
+form31_2015,preg_goit,Health Problems: Goiter,99,NA  
+form31_2015,preg_hdis,Health Problems: Heart Disease,0,No  
+form31_2015,preg_hdis,Health Problems: Heart Disease,1,Yes  
+form31_2015,preg_hdis,Health Problems: Heart Disease,88,Missing/Do not know
+form31_2015,preg_hdis,Health Problems: Heart Disease,99,NA  
+form31_2015,preg_hyper,Health Problems: Hypertension,0,No  
+form31_2015,preg_hyper,Health Problems: Hypertension,1,Yes  
+form31_2015,preg_hyper,Health Problems: Hypertension,88,Missing/Do not know
+form31_2015,preg_hyper,Health Problems: Hypertension,99,NA  
+form31_2015,preg_tuber,Health Problems: Tuberculosis,0,No  
+form31_2015,preg_tuber,Health Problems: Tuberculosis,1,Yes  
+form31_2015,preg_tuber,Health Problems: Tuberculosis,88,Missing/Do not know
+form31_2015,preg_tuber,Health Problems: Tuberculosis,99,NA  
+form31_2015,prenatal_ser1,Weight Measurement,0,No  
+form31_2015,prenatal_ser1,Weight Measurement,1,Yes  
+form31_2015,prenatal_ser1,Weight Measurement,88,Missing/Do not know
+form31_2015,prenatal_ser1,Weight Measurement,99,NA  
+form31_2015,prenatal_ser2,Height Measurement,0,No  
+form31_2015,prenatal_ser2,Height Measurement,1,Yes  
+form31_2015,prenatal_ser2,Height Measurement,88,Missing/Do not know
+form31_2015,prenatal_ser2,Height Measurement,99,NA  
+form31_2015,prenatal_ser3,BP Treatment,0,No  
+form31_2015,prenatal_ser3,BP Treatment,1,Yes  
+form31_2015,prenatal_ser3,BP Treatment,88,Missing/Do not know
+form31_2015,prenatal_ser3,BP Treatment,99,NA  

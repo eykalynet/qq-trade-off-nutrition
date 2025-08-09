@@ -1,0 +1,127 @@
+formno,variable_name,variable_label,var_value,value_label
+form21_2011,psc,Physiological Status Code,0 ,NP/NL
+form21_2011,psc,Physiological Status Code,1 ,Pregnant
+form21_2011,psc,Physiological Status Code,2 ,Lactating
+form21_2011,psc,Physiological Status Code,99, Male
+form21_2011,wfact_wt ,Sampling Weights for weight status,,
+form21_2011,wfact_ht ,Sampling Weights for height status,,
+form21_2011,wfact_bmi_adults,Sampling Weights for nutritional status of adults,,
+form21_2011,wfact_bm ,Sampling Weights for BMI/weight-for-height status,,
+form21_2011,weight,Average Weight (kg),8888,No Data/Not Applicable
+form21_2011,strrec,Strata Code,,
+form21_2011,sex,Sex of Respondent,1 ,Male
+form21_2011,sex,Sex of Respondent,2 ,Female
+form21_2011,regcode,Name of Regions,1 ,Ilocos 
+form21_2011,regcode,Name of Regions,2 ,Cagayan Valley
+form21_2011,regcode,Name of Regions,3 ,Central Luzon
+form21_2011,regcode,Name of Regions,5 ,Bicol
+form21_2011,regcode,Name of Regions,6 ,Western Visayas
+form21_2011,regcode,Name of Regions,7 ,Central Visayas
+form21_2011,regcode,Name of Regions,8 ,Eastern Visayas
+form21_2011,regcode,Name of Regions,9 ,Zamboanga Peninsula
+form21_2011,regcode,Name of Regions,10, Northern Mindanao
+form21_2011,regcode,Name of Regions,11, Davao Region
+form21_2011,regcode,Name of Regions,12,SOCCSKSARGEN
+form21_2011,regcode,Name of Regions,13, National Capital Region
+form21_2011,regcode,Name of Regions,14, Cordillera Administrative Region
+form21_2011,regcode,Name of Regions,15, ARMM 
+form21_2011,regcode,Name of Regions,16, CARAGA
+form21_2011,regcode,Name of Regions,41, CALABARZON
+form21_2011,regcode,Name of Regions,42, MIMAROPA
+form21_2011,psurec,Primary Sampling Unit,,
+form21_2011,age,Age in Years,,
+form21_2011,provcode,Name of Provinces,1 ,Abra
+form21_2011,provcode,Name of Provinces,2 ,Agusan Del Norte
+form21_2011,provcode,Name of Provinces,3 ,Agusan Del Sur
+form21_2011,provcode,Name of Provinces,4 ,Aklan
+form21_2011,provcode,Name of Provinces,5 ,Albay
+form21_2011,provcode,Name of Provinces,6 ,Antique
+form21_2011,provcode,Name of Provinces,7 ,Basilan
+form21_2011,provcode,Name of Provinces,8 ,Bataan
+form21_2011,provcode,Name of Provinces,10, Batangas
+form21_2011,provcode,Name of Provinces,11, Benguet
+form21_2011,provcode,Name of Provinces,12, Bohol
+form21_2011,provcode,Name of Provinces,13, Bukidnon
+form21_2011,provcode,Name of Provinces,14, Bulacan
+form21_2011,provcode,Name of Provinces,15, Cagayan
+form21_2011,provcode,Name of Provinces,16, Camarines Norte
+form21_2011,provcode,Name of Provinces,17, Camarines Sur
+form21_2011,provcode,Name of Provinces,18, Camiguin
+form21_2011,provcode,Name of Provinces,19, Capiz
+form21_2011,provcode,Name of Provinces,20, Catanduanes
+form21_2011,provcode,Name of Provinces,21, Cavite
+form21_2011,provcode,Name of Provinces,22, Cebu
+form21_2011,provcode,Name of Provinces,23, Davao (Davao Del Norte)
+form21_2011,provcode,Name of Provinces,24, Davao Del Sur
+form21_2011,provcode,Name of Provinces,25, Davao Oriental
+form21_2011,provcode,Name of Provinces,26, Eastern Samar
+form21_2011,provcode,Name of Provinces,27, Ifugao
+form21_2011,provcode,Name of Provinces,28, Ilocos Norte
+form21_2011,provcode,Name of Provinces,29, Ilocos Sur
+form21_2011,provcode,Name of Provinces,30, Iloilo
+form21_2011,provcode,Name of Provinces,31, Isabela
+form21_2011,provcode,Name of Provinces,32, Kalinga
+form21_2011,provcode,Name of Provinces,33, La Union
+form21_2011,provcode,Name of Provinces,34, Laguna
+form21_2011,provcode,Name of Provinces,35, Lanao Del Norte
+form21_2011,provcode,Name of Provinces,36, Lanao Del Sur
+form21_2011,provcode,Name of Provinces,37, Leyte
+form21_2011,provcode,Name of Provinces,38, Maguindanao
+form21_2011,provcode,Name of Provinces,39, NCR - Manila First District
+form21_2011,provcode,Name of Provinces,40, Marinduque
+form21_2011,provcode,Name of Provinces,41, Masbate
+form21_2011,provcode,Name of Provinces,42, Misamis Occidental
+form21_2011,provcode,Name of Provinces,43, Misamis Oriental
+form21_2011,provcode,Name of Provinces,44, Mountain Province
+form21_2011,provcode,Name of Provinces,45, Negros Occidental
+form21_2011,provcode,Name of Provinces,46, Negros Oriental
+form21_2011,provcode,Name of Provinces,47, North Cotabato
+form21_2011,provcode,Name of Provinces,48, Northern Samar
+form21_2011,provcode,Name of Provinces,49, Nueva Ecija
+form21_2011,provcode,Name of Provinces,50, Nueva Vizcaya
+form21_2011,provcode,Name of Provinces,51, Occidental Mindoro
+form21_2011,provcode,Name of Provinces,52, Oriental Mindoro
+form21_2011,provcode,Name of Provinces,53, Palawan
+form21_2011,provcode,Name of Provinces,54, Pampanga
+form21_2011,provcode,Name of Provinces,55, Pangasinan
+form21_2011,provcode,Name of Provinces,56, Quezon
+form21_2011,provcode,Name of Provinces,57, Quirino
+form21_2011,provcode,Name of Provinces,58, Rizal
+form21_2011,provcode,Name of Provinces,59, Romblon
+form21_2011,provcode,Name of Provinces,60, Western Samar
+form21_2011,provcode,Name of Provinces,61, Siquijor
+form21_2011,provcode,Name of Provinces,62, Sorsogon
+form21_2011,provcode,Name of Provinces,63, South Cotabato
+form21_2011,provcode,Name of Provinces,64, Southern Leyte
+form21_2011,provcode,Name of Provinces,65, Sultan Kudarat
+form21_2011,provcode,Name of Provinces,66, Sulu
+form21_2011,provcode,Name of Provinces,67, Surigao Del Norte
+form21_2011,provcode,Name of Provinces,68, Surigao Del Sur
+form21_2011,provcode,Name of Provinces,69, Tarlac
+form21_2011,provcode,Name of Provinces,70, Tawi-Tawi
+form21_2011,provcode,Name of Provinces,71, Zambales
+form21_2011,provcode,Name of Provinces,72, Zamboanga Del Norte
+form21_2011,provcode,Name of Provinces,73, Zamboanga Del Sur
+form21_2011,provcode,Name of Provinces,74, NCR Second District
+form21_2011,provcode,Name of Provinces,75, NCR Third District
+form21_2011,provcode,Name of Provinces,76, NCR Fourth District
+form21_2011,provcode,Name of Provinces,77, Aurora
+form21_2011,provcode,Name of Provinces,78, Biliran
+form21_2011,provcode,Name of Provinces,79, Guimaras
+form21_2011,provcode,Name of Provinces,80, Sarangani
+form21_2011,provcode,Name of Provinces,81, Apayao
+form21_2011,provcode,Name of Provinces,82, Compostela Valley
+form21_2011,provcode,Name of Provinces,83, Zamboanga Sibugay
+form21_2011,provcode,Name of Provinces,97, Isabela City
+form21_2011,provcode,Name of Provinces,98, Cotabato City
+form21_2011,mos_preg,Months of Pregnancy,8888,No Data/Not Applicable
+form21_2011,mos_lactation,Months of Lactation,8888,No Data/Not Applicable
+form21_2011,member_code,Member Code   (Unique identifier; merging variable),,
+form21_2011,hhnum,Household Number  (Unique identifier; merging variable),,
+form21_2011,height,Average Height (cm),8888,No Data/Not Applicable
+form21_2011,ethnicity,Ethnicity,0 ,No, Not an IP/Without Foreign Blood
+form21_2011,ethnicity,Ethnicity,1 ,Yes, Indigenous People
+form21_2011,ethnicity,Ethnicity,2 ,Yes, 2/3 Filipino
+form21_2011,ethnicity,Ethnicity,3 ,Yes, with 1/2 Foreign Blood
+form21_2011,ethnicity,Ethnicity,8888,No Data/Not Applicable
+form21_2011,agemos,Age in Months,,
