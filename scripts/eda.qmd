@@ -1,0 +1,23 @@
+---
+title: "eda"
+format: html
+---
+
+```{r}
+
+# Option 2: Forward slashes (simpler)
+setwd("D:/qq-trade-off-nutrition/data")
+
+# 2. List all CSV files
+files <- list.files(pattern = "\\.csv$", full.names = FALSE)
+
+# 3. View the file names
+print(files)
+
+# 4. Optional: Save the list of files to a CSV
+write.csv(data.frame(File_Name = files),
+          "list_of_files.csv",
+          row.names = FALSE)
+
+```
+
