@@ -1,0 +1,80 @@
+# Mutual modules across all years:
+ - anthropometric
+ - food_security
+ - infant_and_young_child_feeding
+ - socioeconomic_household
+ - socioeconomic_individual
+
+# Inventory:
+year	module	data	dictionary
+2003	anthropometric	1	1
+2003	biochemical	1	1
+2003	clinical	1	1
+2003	dietary_household	1	1
+2003	dietary_individual	1	1
+2003	food_security	1	1
+2003	infant_and_young_child_feeding	1	1
+2003	socioeconomic_household	1	1
+2003	socioeconomic_individual	1	1
+2008	anthropometric	1	1
+2008	biochemical	1	1
+2008	clinical	1	1
+2008	dietary_household	1	1
+2008	dietary_individual	1	1
+2008	food_security	1	1
+2008	infant_and_young_child_feeding	1	1
+2008	socioeconomic_household	1	1
+2008	socioeconomic_individual	1	1
+2011	anthropometric	1	1
+2011	food_security	1	1
+2011	infant_and_young_child_feeding	1	1
+2011	maternal_health_nutrition	1	1
+2011	socioeconomic_household	1	1
+2011	socioeconomic_individual	1	1
+2013	anthropometric	1	1
+2013	biochemical	1	1
+2013	clinical	1	1
+2013	dietary_household	1	1
+2013	dietary_individual	1	1
+2013	food_security	1	1
+2013	infant_and_young_child_feeding	1	1
+2013	maternal_health_nutrition	1	1
+2013	socioeconomic_household	1	1
+2013	socioeconomic_individual	1	1
+2015	anthropometric	1	1
+2015	clinical	1	1
+2015	dietary_household	1	1
+2015	food_security	1	1
+2015	infant_and_young_child_feeding	1	1
+2015	maternal_health_nutrition	1	1
+2015	socioeconomic_household	1	1
+2015	socioeconomic_individual	1	1
+2018	anthropometric	1	1
+2018	biochemical	1	1
+2018	clinical	1	1
+2018	dietary_household	1	1
+2018	dietary_individual	1	1
+2018	food_security	1	1
+2018	infant_and_young_child_feeding	1	1
+2018	maternal_health_nutrition	1	1
+2018	socioeconomic_household	1	1
+2018	socioeconomic_individual	1	1
+2019	anthropometric	1	1
+2019	biochemical	1	1
+2019	clinical	1	1
+2019	dietary_household	1	1
+2019	dietary_individual	1	1
+2019	food_security	1	1
+2019	infant_and_young_child_feeding	1	1
+2019	maternal_health_nutrition	1	1
+2019	socioeconomic_household	1	1
+2019	socioeconomic_individual	1	1
+2021	anthropometric	1	1
+2021	biochemical	1	1
+2021	clinical	1	1
+2021	dietary_individual	1	1
+2021	food_security	1	1
+2021	infant_and_young_child_feeding	1	1
+2021	maternal_health_nutrition	1	1
+2021	socioeconomic_household	1	1
+2021	socioeconomic_individual	1	1
